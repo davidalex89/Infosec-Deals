@@ -3,39 +3,39 @@
 
 
 ##Ebooks:
-> Nostarch: Code ULTIMATE42 at checkout on http://nostarch.com for 42% off everything through Sunday, Dec. 1.
-> Pakt/Humble: Humble Book Bundle Cybersecurity 2019
-> Packt e-Books and Videos: $10 or 3 for $25 https://packtpub.com
-> O'Reilly Books - 50% off 1-year subscription to online library
-> Manning: 50% off with $50+ - http://enews.manning.com/q/4qVD2DZvQIJ_yR-6w3SkoEx9ucisTjoscZlyhs8T0J5vCawQV4WfDDi9R
-> Apress: $7 deals - https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek19
-> Pragmatic Bookshelf: 40% off - https://pragprog.com/news/early-bird-black-friday-sale-today
+- Nostarch: Code ULTIMATE42 at checkout on http://nostarch.com for 42% off everything through Sunday, Dec. 1.
+- Pakt/Humble: Humble Book Bundle Cybersecurity 2019
+- Packt e-Books and Videos: $10 or 3 for $25 https://packtpub.com
+- O'Reilly Books - 50% off 1-year subscription to online library
+- Manning: 50% off with $50+ - http://enews.manning.com/q/4qVD2DZvQIJ_yR-6w3SkoEx9ucisTjoscZlyhs8T0J5vCawQV4WfDDi9R
+- Apress: $7 deals - https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek19
+- Pragmatic Bookshelf: 40% off - https://pragprog.com/news/early-bird-black-friday-sale-today
 
 
 
 ##E-learning:
-> Udemy: Almost every course is $9.99!
-> eLearnSecurity - 25% off - https://elearnsecurity.com
-> GNS3 - Courses for $7 - Use code BLACKFRIDAY19 - https://gns3.teachable.com
-> Pearson: Buy 2, save 55% with BF2019 http://www.pearsonitcertification.com/promotions/black-friday-2019-buy-2-save-55-142103
-> Cybrary Insider Pro for $299 - https://www.cybrary.it/
-> Hacker's Academy: 9 courses for $195 (88% off) - https://www.hackersacademy.com/bundles?bundle_id=special-offer
-> Practical DevSecOps: 15% off - https://www.practical-devsecops.com/black-friday/
-> Pluralsight: 40% off - https://www.pluralsight.com/offer/2019/bf-cm-40-off
-> PentesterLab: PRO for a year and pay $146.52 instead of $199.99 - https://pentesterlab.com/pro
-> Linux Academy: 33% off - https://linuxacademy.com/pricing/individual/'
-> Real Python: Discount on a year membership - https://realpython.com/account/join/
-> HackerHouse: 40% off training - https://hacker.house/training/
-> CodeAcademy: 25% off - https://pro.codecademy.com/black-friday/?cta=cta-direct
-> Whizlabs: 50% off - https://www.whizlabs.com/
-> Networkdefense.io: 20% off - https://www.networkdefense.io/library/
-> Reactforbeginners.com: 50% off -https://reactforbeginners.com/
-> Gitkraken: Code GKBF19 for $10 off/1 license, GKBF19TEAM for $100 off/10 licenses - https://www.gitkraken.com/
+- Udemy: Almost every course is $9.99!
+- eLearnSecurity - 25% off - https://elearnsecurity.com
+- GNS3 - Courses for $7 - Use code BLACKFRIDAY19 - https://gns3.teachable.com
+- Pearson: Buy 2, save 55% with BF2019 http://www.pearsonitcertification.com/promotions/black-friday-2019-buy-2-save-55-142103
+- Cybrary Insider Pro for $299 - https://www.cybrary.it/
+- Hacker's Academy: 9 courses for $195 (88% off) - https://www.hackersacademy.com/bundles?bundle_id=special-offer
+- Practical DevSecOps: 15% off - https://www.practical-devsecops.com/black-friday/
+- Pluralsight: 40% off - https://www.pluralsight.com/offer/2019/bf-cm-40-off
+- PentesterLab: PRO for a year and pay $146.52 instead of $199.99 - https://pentesterlab.com/pro
+- Linux Academy: 33% off - https://linuxacademy.com/pricing/individual/'
+- Real Python: Discount on a year membership - https://realpython.com/account/join/
+- HackerHouse: 40% off training - https://hacker.house/training/
+- CodeAcademy: 25% off - https://pro.codecademy.com/black-friday/?cta=cta-direct
+- Whizlabs: 50% off - https://www.whizlabs.com/
+- Networkdefense.io: 20% off - https://www.networkdefense.io/library/
+- Reactforbeginners.com: 50% off -https://reactforbeginners.com/
+- Gitkraken: Code GKBF19 for $10 off/1 license, GKBF19TEAM for $100 off/10 licenses - https://www.gitkraken.com/
 
 
 ##Tools:
-Shodan: <del>$1 (marked down from $49) for the next 24 hours</del>
-VMware: 45-60% off - BF2019 - https://store-au.vmware.com/?PID=3211374&PubCID=1397064&cjevent=3533e3c6115911ea839000790a1c0e0f
+- Shodan: <del>$1 (marked down from $49) for the next 24 hours</del>
+- VMware: 45-60% off - BF2019 - https://store-au.vmware.com/?PID=3211374&PubCID=1397064&cjevent=3533e3c6115911ea839000790a1c0e0f
 Hak5: Variety of black friday deals https://shop.hak5.org/
 Protonmail: Up to 50% off - https://protonmail.com/blog/black-friday-2019/
 Yubico: $20 off two YubiKeys; $100 off order of $400 https://www.yubico.com/store/black-friday-2019
