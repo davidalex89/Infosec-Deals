@@ -48,7 +48,8 @@ Black Friday infosec deals for 2019
 - Bitdefender: 58-63% off - [link](https://www.bitdefender.com/media/html/consumer/new/Black-Friday-2019-opt/)
 - CharlesProxy: CHARLESBLACK19 for 30% - [link](https://www.charlesproxy.com/)
 - Attify IoT Exploitation E-learning: 20% off with code THANKSGIVING20 - [link](https://www.attify-store.com/blogs/attify-store-iot-security-and-pentesting-blog/attify-thanksgiving-cybermonday-and-black-friday-deals)
-- Password Managers:
+
+**Password Managers:**
 - Strongbox: 20% off - [link](https://github.com/strongbox-password-safe/Strongbox)
 - 1Password: 50% off via Verge - [link](https://1password.com/promo/black-friday/the-verge/?cjevent=8fec730612de11ea80ac00f80a1c0e14)
 
