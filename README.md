@@ -35,6 +35,7 @@ Black Friday infosec deals for 2019
 - Networkdefense.io: 20% off - [link](https://www.networkdefense.io/library/)
 - Reactforbeginners.com: 50% off - [link](https://reactforbeginners.com/)
 - Gitkraken: Code GKBF19 for $10 off/1 license, GKBF19TEAM for $100 off/10 licenses - [link](https://www.gitkraken.com/)
+- Leetcode: $30 off annual subscription w/ code THANKS2019 - [link](https://www.leetcode.com)
 
 
 **Tools:**
@@ -113,4 +114,5 @@ Black Friday infosec deals for 2019
 - RefactoryUI: $99 - [link](https://gumroad.com/l/MyQsm/blackfriday2019)
 - Norton 360: $65 off annual - [link](https://buy-static.norton.com/norton/ps/bb/ushard/360/us_en_nort_branded-gen.html)
 - Adobe: ~40% off some products - [link](https://www.adobe.com/creativecloud/plans.html?plan=individual&filter=all)
+- Rooftop Slushie: 30% off Q&A w/ code THANKS2019 - [link](https://www.rooftopslushie.com)
 
