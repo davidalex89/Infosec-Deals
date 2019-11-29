@@ -1,7 +1,7 @@
 # Infosec-Black-Friday-2019
 Black Friday infosec deals for 2019
 
-**Special thanks to [@Infosec_Taylor](https://twitter.com/Infosec_Taylor/), [0x90n](https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md), and [webyeti](https://www.webyeti.ninja/blog/hackerblkfri) for keeping an eye on these this year. You should really follow them if you're looking for the most current, but this is fresh as of 12pm PT 11/29. You can find me on twitter [davidscovetta](https://twitter.com/davidscovetta)**
+**Special thanks to [@Infosec_Taylor](https://twitter.com/Infosec_Taylor/), [0x90n](https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md), and [webyeti](https://www.webyeti.ninja/blog/hackerblkfri) for keeping an eye on these this year. You should really follow them if you're looking for the most current, but this is fresh as of 12pm PT 11/29. You can find me on twitter [@davidscovetta](https://twitter.com/davidscovetta)**
 
 
 **Ebooks:**
