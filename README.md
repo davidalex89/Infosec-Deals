@@ -1,7 +1,7 @@
 # Infosec-Black-Friday-2019
 Black Friday infosec deals for 2019
 
-**Special thanks to [@Infosec_Taylor](https://twitter.com/Infosec_Taylor/), [0x90n](https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md), and [webyeti](https://www.webyeti.ninja/blog/hackerblkfri) for keeping an eye on these this year. You should really follow them if you're looking for the most current, but this is fresh as of 12pm PT 11/29. You can find me on twitter [@davidscovetta](https://twitter.com/davidscovetta)**
+**Special thanks to [@Infosec_Taylor](https://twitter.com/Infosec_Taylor/), [0x90n](https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md), and [webyeti](https://www.webyeti.ninja/blog/hackerblkfri) for keeping an eye on these this year. You should really follow them if you're looking for the most current, but this is fresh as of 7:30pm PT 11/29. You can find me on twitter [@davidscovetta](https://twitter.com/davidscovetta)**
 
 
 **Ebooks:**
@@ -48,6 +48,8 @@ Black Friday infosec deals for 2019
 - Bitdefender: 58-63% off - [link](https://www.bitdefender.com/media/html/consumer/new/Black-Friday-2019-opt/)
 - CharlesProxy: CHARLESBLACK19 for 30% - [link](https://www.charlesproxy.com/)
 - Attify IoT Exploitation E-learning: 20% off with code THANKSGIVING20 - [link](https://www.attify-store.com/blogs/attify-store-iot-security-and-pentesting-blog/attify-thanksgiving-cybermonday-and-black-friday-deals)
+- Cylance: 50% off home mac & pc - [link](https://shop.cylance.com/us)
+- Hitmanpro: 50% off - [link](https://www.hitmanpro.com/en-us.aspx)
 
 **Password Managers:**
 - Strongbox: 20% off - [link](https://github.com/strongbox-password-safe/Strongbox)
