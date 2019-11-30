@@ -7,7 +7,7 @@ Black Friday infosec deals for 2019
 **Ebooks:**
 
 - Nostarch: Code ULTIMATE42 at checkout on [link](http://nostarch.com) for 42% off everything through Sunday, Dec. 1.
-- Pakt/Humble: Humble Book Bundle Cybersecurity 2019
+- <del>Pakt/Humble: Humble Book Bundle Cybersecurity 2019 [link](https://www.humblebundle.com/books/cybersecurity-packt-books)</del>
 - Packt e-Books and Videos: $10 or 3 for $25 [link](https://packtpub.com)
 - O'Reilly Books - 50% off 1-year subscription to online library
 - Manning: 50% off with $50+ - [link](http://enews.manning.com/q/4qVD2DZvQIJ_yR-6w3SkoEx9ucisTjoscZlyhs8T0J5vCawQV4WfDDi9R)
