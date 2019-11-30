@@ -36,7 +36,7 @@ Black Friday infosec deals for 2019
 - Reactforbeginners.com: 50% off - [link](https://reactforbeginners.com/)
 - Gitkraken: Code GKBF19 for $10 off/1 license, GKBF19TEAM for $100 off/10 licenses - [link](https://www.gitkraken.com/)
 - Leetcode: $30 off annual subscription w/ code THANKS2019 - [link](https://www.leetcode.com)
-- EC-Council (CEH): 10% off - [link](https://iclass.eccouncil.org/iclass-specials/)
+
 
 **Tools:**
 
@@ -92,6 +92,7 @@ Black Friday infosec deals for 2019
 - ISACA 15% off CISA/CISM/CRISC training & cert with code CYBERWEEK19CISA
 - ITGovernance.co.uk: 25% off - [link](https://www.itgovernance.co.uk/it-governance-rewards-club/training?promo_name=IT_Gov_Rewards_Club&promo_id=Site_Wide&promo_creative=Banner&promo_position=Static_Banner)
 - CompTIA Store Club Membership: 20% off ($49 for 1 year), membership gets you discounts on training and vouchers - [link](https://store.comptia.org/location-selector?path=%2Fcomptia-store-club%2Fp%2FITPR-0020-ANNS-2019%3Futm_source%3DMarketo%26utm_medium%3DEmail%26utm_campaign%3DCerts-ES-2019-11-29-CyberMonday-Email-1-NA%26mkt_tok%3DeyJpIjoiTmpJeE16Tm1OakprTWpaaCIsInQiOiJGVzM0czlwN3E1ZGRRNThMUXNGSGVTUUZwbGVuVERlR0lmS3ZncVRkZnMrUmZBWjdYd2greUxSYk1FQnpMQTQ0eTRMdFN4OXZNUG5FbEtaWXg1eFh0NnpmT1ZJbUhWcStJNkdZYjVwdlJSXC9zZ2dKOUFQUjhIUW9ZOHQ1OVhqeXIifQ%253D%253D)
+- EC-Council (CEH): 10% off - [link](https://iclass.eccouncil.org/iclass-specials/)
 
 **VPN:**
 
