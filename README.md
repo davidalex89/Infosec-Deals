@@ -91,7 +91,7 @@ Black Friday infosec deals for 2019
 
 **VPN:**
 
-- NordVPN: 88% off - [link](https://nordvpn.com/)
+- <del>NordVPN: 88% off - [link](https://nordvpn.com/)</del> *bad rep, find another VPN
 - ProtonVPN: Up to 50% off - [link](https://protonvpn.com/blog/black-friday-2019/)
 - F-Secure FREEDOME VPN: 50% w/ code BLACKWEEK - [link](https://campaigns.f-secure.com/blackweek/en_global/?ecid=10916)
 - AirVPN: 74% off - [link](https://airvpn.org/)
