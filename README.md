@@ -36,7 +36,7 @@ Black Friday infosec deals for 2019
 - Reactforbeginners.com: 50% off - [link](https://reactforbeginners.com/)
 - Gitkraken: Code GKBF19 for $10 off/1 license, GKBF19TEAM for $100 off/10 licenses - [link](https://www.gitkraken.com/)
 - Leetcode: $30 off annual subscription w/ code THANKS2019 - [link](https://www.leetcode.com)
-
+- EC-Council (CEH): 10% off - [link](https://iclass.eccouncil.org/iclass-specials/)
 
 **Tools:**
 
@@ -50,6 +50,8 @@ Black Friday infosec deals for 2019
 - Attify IoT Exploitation E-learning: 20% off with code THANKSGIVING20 - [link](https://www.attify-store.com/blogs/attify-store-iot-security-and-pentesting-blog/attify-thanksgiving-cybermonday-and-black-friday-deals)
 - Cylance: 50% off home mac & pc - [link](https://shop.cylance.com/us)
 - Hitmanpro: 50% off - [link](https://www.hitmanpro.com/en-us.aspx)
+- AVG Internet Security: 20% off - [link](https://www.avg.com/en-us/affiliate/homepage-2?utm_medium=affiliate&couponfield=yes&cjevent=06aac4ca132311ea8005015c0a1c0e13&utm_content=12944745&utm_source=commissionjunction&utm_campaign=4563311)
+
 
 **Password Managers:**
 - Strongbox: 20% off - [link](https://github.com/strongbox-password-safe/Strongbox)
