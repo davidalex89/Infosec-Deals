@@ -7,6 +7,7 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 
 | Category | Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
+| Books | Oreilly.com | N/A | 12/5 | N/A |
 | Books | Nostarch.com | N/A | 12/5 | N/A|
 | Books | Humblebumble.com | Data Science ebook pack | 12/5 | [link](https://www.humblebundle.com/books/data-science-no-starch-books) | 
 | Books | Packtpub.com | 50% off ebooks/vodes | 12/5 | [link](https://www.packtpub.com/all-products) |
