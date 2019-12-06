@@ -30,6 +30,7 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 | Elearning | Reactforbeginners.com | 50% off until 12/7 | 12/5 | [link](https://reactforbeginners.com/) |
 | Elearning | Gitkraken.com | N/A | 12/5 | N/A |
 | Elearning | Leetcode.com | N/A | 12/5 | N/A |
+| Elearning | Ehacking.net | 
 | Tools & Services | Shodan.com | N/A | 12/5 | N/A |
 | Tools & Services | VMware.com | 30% off until 12/6 EOD | 12/5 | [link](https://store-au.vmware.com/cybermondaysale)
 | Tools & Services | Protonmail.com | N/A | 12/5 | N/A |
@@ -62,3 +63,5 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 | Robotics & Electronics | Hackerboxes.com | N/A | 12/5 | N/A |
 | Misc | Hackernews.com | 15% off w/ MERRYSAVE15 | 12/5 | N/A |
 
+Extra random stuff:
+- Cybersecurity: The Beginner's Guide' ebook free at Tradepub w/ signup ([link](https://www.dealnews.com/lw/click.html?20,2,18244534,iref=content-wide-body-search-desktop,reqid=2b91a76d83cdebe48f4e6684b0a97b08))
