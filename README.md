@@ -37,94 +37,28 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 | Tools & Services | Charlesproxy.com | N/A | 12/5 | N/A |
 | Tools & Services | Hitmanpro.com | N/A | 12/5 | N/A |
 | Tools & Services | 1password.com | N/A | 12/5 | N/A |
-
-
-
-
+| Tools & Services | Cylance.com | Cylance home A/V | 12/5 | [link](https://shop.cylance.com) |
+| Tools & Services | Heimdalsecurity.com | Thor 25% off | 12/5 | [link](https://heimdalsecurity.com/en/products/thor-premium-home) |
+| Tools & Services | Lowendbox.com | N/A | 12/5 | N/A |
+| Tools & Services | Adobe.com | Up to 50% off until 12/5 EOD | 12/5 | [link](https://www.adobe.com/creativecloud/plans.html?plan=individual&filter=all) |
+| VPN | ProtonVPN | 33-50% until 12/8 EOD | 12/5 | [link](https://protonvpn.com/blog/black-friday-2019/) |
+| VPN | AirVPN | N/A | 12/5 | N/A |
+| VPN | ExpressVPN | N/A | 12/5 | N/A |
+| VPN | PureVPN | Up to 88% off until 12/8 | 12/5 | [link](https://www.purevpn.com/hot-deal-offer?utm_medium=referral&utm_source=aff-30478-www.dealnews.com) |
+| Hardware | System76.com | $400-$1400 off until 1/2/20 | 12/5 | [link](https://system76.com/) |
 | Hardware | Hak5.org | N/A | 12/5 | N/A |
 | Hardware | Yubico.com | N/A | 12/5 | N/A |
-
-
-**Tools:**
-
--
-- Hak5: Variety of black friday deals [link](https://shop.hak5.org/)
-- Protonmail: Up to 50% off - [link](https://protonmail.com/blog/black-friday-2019/)
-- Yubico: $20 off two YubiKeys; $100 off order of $400 [link](https://www.yubico.com/store/black-friday-2019)
-- Bitdefender: 58-63% off - [link](https://www.bitdefender.com/media/html/consumer/new/Black-Friday-2019-opt/)
-- CharlesProxy: CHARLESBLACK19 for 30% - [link](https://www.charlesproxy.com/)
-- Attify IoT Exploitation E-learning: 20% off with code THANKSGIVING20 - [link](https://www.attify-store.com/blogs/attify-store-iot-security-and-pentesting-blog/attify-thanksgiving-cybermonday-and-black-friday-deals)
-- Cylance: 50% off home mac & pc - [link](https://shop.cylance.com/us)
-- Hitmanpro: 50% off - [link](https://www.hitmanpro.com/en-us.aspx)
-- AVG Internet Security: 20% off - [link](https://www.avg.com/en-us/affiliate/homepage-2?utm_medium=affiliate&couponfield=yes&cjevent=06aac4ca132311ea8005015c0a1c0e13&utm_content=12944745&utm_source=commissionjunction&utm_campaign=4563311)
-
-
-**Password Managers:**
-- Strongbox: 20% off - [link](https://github.com/strongbox-password-safe/Strongbox)
-- 1Password: 50% off via Verge - [link](https://1password.com/promo/black-friday/the-verge/?cjevent=8fec730612de11ea80ac00f80a1c0e14)
-
-
-**Pen Testing:**
-
-- XeroSecurity Sniper Professional: Save 25% - [link](https://xerosecurity.com/wordpress/product/sn1per-professional-v7-0/)
-
-
-**Hardware:**
-
-- RobotShop Deals - [link](https://www.robotshop.com/en/black-friday-cyber-monday.html)
-- Seed Deals: 50% with code THANKS50 - [link](https://www.seeedstudio.com/thanksgiving_50_off_sale.html)
-- Pololu: 10-15% off - [link](https://www.pololu.com/blackfriday2019)
-- Hacker boxes: Variety of subscription deals - [link](https://hackerboxes.com/)
-- Heimdal Security: Up to 50% off - [link](https://heimdalsecurity.com/en/promotion-landing)
-- Google Titan Key: $22 from $25 - [link](https://store.google.com/product/titan_security_key)
-
-
-**Computers/etc:**
-
-- Microsoft: [link](https://www.microsoft.com/en-us/store/b/black-friday)
-- Dell: Variety of deals - [link](https://deals.dell.com/en-us/work)
-- System76: ~$490-1400 off - [link](https://system76.com/)
-
-**Kids:**
-
-- Kano coding deals - [link](https://www.microsoft.com/en-us/store/collections/kanocodingkits?icid=store_bfreveal20_reveal_Kano_110119)
-
-**Clothing/Apparel:**
-
-- Silent Pocket: code BLACKSITE and get 15% off - [link](http://Silentpocket.com)
-
-**Certifications:**
-
-- ISACA 15% off CISA/CISM/CRISC training & cert with code CYBERWEEK19CISA
-- ITGovernance.co.uk: 25% off - [link](https://www.itgovernance.co.uk/it-governance-rewards-club/training?promo_name=IT_Gov_Rewards_Club&promo_id=Site_Wide&promo_creative=Banner&promo_position=Static_Banner)
-- CompTIA Store Club Membership: 20% off ($49 for 1 year), membership gets you discounts on training and vouchers - [link](https://store.comptia.org/location-selector?path=%2Fcomptia-store-club%2Fp%2FITPR-0020-ANNS-2019%3Futm_source%3DMarketo%26utm_medium%3DEmail%26utm_campaign%3DCerts-ES-2019-11-29-CyberMonday-Email-1-NA%26mkt_tok%3DeyJpIjoiTmpJeE16Tm1OakprTWpaaCIsInQiOiJGVzM0czlwN3E1ZGRRNThMUXNGSGVTUUZwbGVuVERlR0lmS3ZncVRkZnMrUmZBWjdYd2greUxSYk1FQnpMQTQ0eTRMdFN4OXZNUG5FbEtaWXg1eFh0NnpmT1ZJbUhWcStJNkdZYjVwdlJSXC9zZ2dKOUFQUjhIUW9ZOHQ1OVhqeXIifQ%253D%253D)
-- EC-Council (CEH): 10% off - [link](https://iclass.eccouncil.org/iclass-specials/)
-
-**VPN:**
-
-- <del>NordVPN: 88% off - [link](https://nordvpn.com/)</del> *bad rep, find another VPN
-- ProtonVPN: Up to 50% off - [link](https://protonvpn.com/blog/black-friday-2019/)
-- F-Secure FREEDOME VPN: 50% w/ code BLACKWEEK - [link](https://campaigns.f-secure.com/blackweek/en_global/?ecid=10916)
-- AirVPN: 74% off - [link](https://airvpn.org/)
-
-**Physical Security:**
-
-- Southord: 15% off with coupon HOLLY19 - [link](https://www.southord.com/)
-- Thinkpeterson: 20% off (unconfirmed) - [link](https://www.thinkpeterson.com/)
-
-**Web:**
-
-- Lowendbox: [link](https://lowendbox.com/blog/happy-thanksgiving-from-lowendbox-black-friday-cyber-monday-offers-are-coming/)
-
-**Education:**
-
-- Kaplan: $300 off GRE and similar - [link](https://www.kaptest.com/study/gre/black-friday-and-cyber-monday-gre-deals/)
-
-**Unsorted:**
-
-- Hacker News: 15% off with coupon BFSAVE15 - [link](https://deals.thehackernews.com/)
-- RefactoryUI: $99 - [link](https://gumroad.com/l/MyQsm/blackfriday2019)
-- Norton 360: $65 off annual - [link](https://buy-static.norton.com/norton/ps/bb/ushard/360/us_en_nort_branded-gen.html)
-- Adobe: ~40% off some products - [link](https://www.adobe.com/creativecloud/plans.html?plan=individual&filter=all)
-- Rooftop Slushie: 30% off Q&A w/ code THANKS2019 - [link](https://www.rooftopslushie.com)
+| Hardware | Southord.com | N/A | 12/5 | N/A |
+| Hardware | Thinkpeterson.com | 15% off w/ code XV67244SY until 1/3/20 | 12/5 | [link](https://www.thinkpeterson.com/) |
+| Certifications| CompTIA | CompTIA Store club 20% off | 12/5 | [link](https://store.comptia.org/comptia-store-club/p/ITPR-0020-ANNS-2019) |
+| Certifications | EC-Council | 10% off w/ code ICLASSDEC19 | 12/5 | [link](https://iclass.eccouncil.org/iclass-specials/) |
+| Certifications | ISACA | 15% off training/certs | 12/5 | [link](https://www.isaca.org/info/cisa-certification-ready/index.html) |
+| Certifications | ITGovernance.co.uk | 25% off training for life w/ Rewards Club | 12/5 | [link](https://www.itgovernance.co.uk/it-governance-rewards-club/training?promo_name=IT_Gov_Rewards_Club&promo_id=Site_Wide&promo_creative=Banner&promo_position=Static_Banner) |
+| Education | Kaplan.com | GRE & Similar $250 off w/ code CYBER250 ends 12/5 EOD | 12/5 | [link](https://shop.kaptest.com/i/gre/promo/cyber-monday) |
+| Gear | Silentpocket.com | N/A | 12/5 | N/A |
+| Robotics & Electronics | Seeedstudio.com | 50% sale may still be active | 12/5 | [link](https://www.seeedstudio.com/thanksgiving_50_off_sale.html) |
+| Robotics & Electronics | Robotshop.com | N/A | 12/5 | N/A |
+| Robotics & Electronics | Pololu.com | N/A | 12/5 | N/A |
+| Robotics & Electronics | Hackerboxes.com | N/A | 12/5 | N/A |
+| Misc | Hackernews.com | 15% off w/ MERRYSAVE15 | 12/5 | N/A |
 
