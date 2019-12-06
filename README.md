@@ -1,7 +1,29 @@
-# Infosec-Black-Friday-2019
-Black Friday infosec deals for 2019
+# Ongoing Infosec deals for 2019
+This started off as a Black Friday thing, but I'm going to try and keep this updated as a side-project.
 
 **Special thanks to [@Infosec_Taylor](https://twitter.com/Infosec_Taylor/), [0x90n](https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md), and [webyeti](https://www.webyeti.ninja/blog/hackerblkfri) for keeping an eye on these this year. You should really follow them if you're looking for the most current, but this is fresh as of 7:30pm PT 11/29. You can find me on twitter [@davidscovetta](https://twitter.com/davidscovetta)**
+
+
+
+| Categoruy | Website | Details | As-of | Link |
+| Books | Nostarch.com | N/A | 12/5 | N/A|
+| Books | Humblebumble.com | Data Science ebook pack | 12/5 | [link](https://www.humblebundle.com/books/data-science-no-starch-books) |
+| Books | Packtpub.com | 50% off ebooks/vodes | 12/5 | [link](https://www.packtpub.com/all-products) |
+| Books | Manning.com | Countdown to 2020 discounts | 12/5 | [link](https://www.manning.com/news/countdown-to-2020) |
+| Books | Pragprog.com | N/A | 12/5 | N/A |
+| Books | Apress.com | $99 Annual Subscription | 12/5 | [link](https://www.apress.com/us/apress-access) |
+| Elearning | Udemy.com | $9.99 sale, ends 12/5 | 12/5 | [link](https://www.udemy.com/) |
+| Elearning | Elearnsecurity.com | N/A | 12/5 | N/A |
+| Elearning | GNS3.teachable.com | N/A | 12/5 | N/A |
+| Elearning | Pearsonitcertification.com | N/A | 12/5 | N/A |
+| Elearning | Cybrary.it | N/A | 12/5 | N/A |
+| Elearning | Pluralsight.com | 40% off until 12/5 | 12/5 | [link](https://www.pluralsight.com/offer/2019/bf-cm-40-off) |
+
+
+
+
+
+
 
 
 **Ebooks:**
