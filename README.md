@@ -15,7 +15,7 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 | Books | Pragprog.com | N/A | 12/5 | N/A |
 | Books | Apress.com | $99 Annual Subscription | 12/5 | [link](https://www.apress.com/us/apress-access) |
 | Elearning | Practical-devsecops.com | N/A | 12/5 | N/A |
-| Elearning | Udemy.com | $9.99 sale for some, courtesy @djax_Alpha| Unk. | [link](https://alphacybersecurity.tech/udemy-courses-on-sale/) |
+| Elearning | Udemy.com | $9.99 sale for some, courtesy @djax_Alpha| 12/11 | [link](https://alphacybersecurity.tech/udemy-courses-on-sale/) |
 | Elearning | Elearnsecurity.com | N/A | 12/5 | N/A |
 | Elearning | GNS3.teachable.com | N/A | 12/5 | N/A |
 | Elearning | Pearsonitcertification.com | N/A | 12/5 | N/A |
