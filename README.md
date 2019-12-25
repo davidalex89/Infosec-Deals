@@ -2,11 +2,6 @@
 This started off as a Black Friday thing, but I'm going to try and keep this updated as a side-project.
 
 **Special thanks to [@Infosec_Taylor](https://twitter.com/Infosec_Taylor/), [0x90n](https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md), and [webyeti](https://www.webyeti.ninja/blog/hackerblkfri). You can find me on twitter [@davidscovetta](https://twitter.com/davidscovetta)**
-test
-lol
-lol2
-lol3
-lol4
 
 | Category | Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
