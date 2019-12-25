@@ -7,7 +7,7 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 | -------- | ------- | ------- | ----- | ---- |
 | Books | Oreilly.com | N/A | 12/25 | N/A |
 | Books | Nostarch.com | N/A | 12/25 | N/A|
-| Books | Humblebumble.com | Programming ebook pack | 12/5 | [link](https://www.humblebundle.com/books/oreilly-classics-oreilly-books?hmb_source=humble_home&hmb_medium=product_tile&hmb_campaign=mosaic_section_2_layout_index_6_layout_type_twos_tile_index_2_c_oreillyclassicsoreilly_bookbundle) | 
+| Books | Humblebumble.com | Programming ebook pack | 12/25 | [link](https://www.humblebundle.com/books/oreilly-classics-oreilly-books?hmb_source=humble_home&hmb_medium=product_tile&hmb_campaign=mosaic_section_2_layout_index_6_layout_type_twos_tile_index_2_c_oreillyclassicsoreilly_bookbundle) | 
 | Books | Packtpub.com | $5 ebooks/vodes | 12/25 | [link](https://www.packtpub.com/all-products) |
 | Books | Manning.com | Countdown to 2020 sale | 12/25 | [link](https://www.manning.com/news/countdown-to-2020) |
 | Books | Pragprog.com | N/A | 12/25 | N/A |
@@ -40,14 +40,14 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 | Tools & Services | Heimdalsecurity.com | Thor 50% off | 12/25 | [link](https://heimdalsecurity.com/en/products/thor-premium-home) |
 | Tools & Services | Lowendbox.com | N/A | 12/25 | N/A |
 | Tools & Services | Adobe.com | N/A | 12/25 | N/A |
-| VPN | ProtonVPN | N/A | 12/5 | N/A |
+| VPN | ProtonVPN | N/A | 12/25 | N/A |
 | VPN | AirVPN | Up to 68% off | 12/25 | [link](https://airvpn.org/buy/) |
 | VPN | ExpressVPN | N/A | 12/25 | N/A |
-| VPN | PureVPN | Up to 88% off | 12/5 | [link](https://www.purevpn.com/order) |
+| VPN | PureVPN | Up to 88% off | 12/25 | [link](https://www.purevpn.com/order) |
 | Hardware | System76.com | $400-$1400 off until 1/2/20 | 12/25 | [link](https://system76.com/) |
 | Hardware | Hak5.org | N/A | 12/25 | N/A |
 | Hardware | Yubico.com | N/A | 12/25 | N/A |
-| Hardware | Southord.com | N/A | 12/5 | N/A |
+| Hardware | Southord.com | N/A | 12/25 | N/A |
 | Hardware | Thinkpeterson.com | 15% off w/ code XV67244SY until 1/3/20 | 12/25 | [link](https://www.thinkpeterson.com/) |
 | Certifications| CompTIA | CompTIA Store club 20% off | 12/25 | [link](https://store.comptia.org/comptia-store-club/p/ITPR-0020-ANNS-2019) |
 | Certifications | EC-Council | 10% off w/ code ICLASSDEC19 until 1/1 | 12/25 | [link](https://iclass.eccouncil.org/iclass-specials/) |
