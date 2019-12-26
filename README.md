@@ -33,7 +33,7 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 | Tools & Services | VMware.com | N/A | 12/25 | N/A |
 | Tools & Services | Protonmail.com | N/A | 12/5 | N/A |
 | Tools & Services | Bitdefender.com | 50-60% off still live from BF | 12/25 | [link](https://www.bitdefender.com/media/html/consumer/new/Black-Friday-2019-opt/) |
-| Tools & Services | Charlesproxy.com | N/A | 122/5 | N/A |
+| Tools & Services | Charlesproxy.com | N/A | 12/25 | N/A |
 | Tools & Services | Hitmanpro.com | N/A | 12/25 | N/A |
 | Tools & Services | 1password.com | N/A | 12/25 | N/A |
 | Tools & Services | Cylance.com | $20 1 year/10 devices | 12/25 | [link](https://shop.cylance.com/us) |
