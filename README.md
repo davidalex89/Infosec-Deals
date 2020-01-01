@@ -46,7 +46,7 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 | Tools & Services | Cylance.com | N/A | 12/31 | N/A |
 | Tools & Services | Heimdalsecurity.com | Thor 50% off | 12/31 | [link](https://heimdalsecurity.com/en/products/thor-premium-home) |
 | Tools & Services | Lowendbox.com | N/A | 12/31 | N/A |
-| Tools & Services | Spinup.com | Free $50 Credit @ Signup | 12/31 | https://spinup.com |
+| Tools & Services | Spinup.com | Free $50 Credit @ Signup | 12/31 | [link](https://spinup.com) |
 | Tools & Services | Particle.io | N/A | 12/31 | N/A |
 | | | | | |
 | Products | VMware.com | N/A | 12/31 | N/A |
