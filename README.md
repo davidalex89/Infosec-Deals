@@ -91,4 +91,4 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 ## Special cool stuff:
 | Category | Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
-| Cool deal | Udemy - Practical Ethical Hacking ([TheCyberMentor](https://www.amazon.com/dp/1593271441/?ref=idea_lv_dp_vv_d)) | $18.99 | 12/31 | [link](https://www.udemy.com/course/practical-ethical-hacking/?couponCode=THECYBERMENTOR) |
+| Cool deal | Udemy - Practical Ethical Hacking ([TheCyberMentor](https://twitter.com/thecybermentor/status/1212167676073795585)) | $18.99 | 12/31 | [link](https://www.udemy.com/course/practical-ethical-hacking/?couponCode=THECYBERMENTOR) |
