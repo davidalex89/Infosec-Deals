@@ -35,7 +35,7 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 | Pen Testing | Pentesterlab.com | N/A | 12/31 | N/A |
 | Pen testing | PentesterAcademy.com | $39/mo special | 12/31 | [link](https://www.pentesteracademy.com/pricing) |
 | Pen Testing | Hackersacademy.com | $195 Special Offer | 12/31 | [link](https://www.hackersacademy.com/bundles?bundle_id=special-offer) |
-
+| | | | | |
 | Tools & Services | Binaryedge.io | N/A | 12/31 | N/A |
 | Tools & Services | Shodan.com | N/A | 12/31 | N/A |
 | Tools & Services | Bitdefender.com | N/A | 12/31 | N/A |
