@@ -5,18 +5,18 @@ This started off as a Black Friday thing, but I'm going to try and keep this upd
 
 | Category | Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
-| Books | Oreilly.com | N/A | 12/31 | N/A |
-| Books | Nostarch.com | N/A | 12/31 | N/A |
-| Books | Humblebumble.com | O'Reilly Programming ebook pack | 12/31 | [link](https://www.humblebundle.com/books/oreilly-classics-oreilly-books?hmb_source=humble_home&hmb_medium=product_tile&hmb_campaign=mosaic_section_2_layout_index_6_layout_type_twos_tile_index_2_c_oreillyclassicsoreilly_bookbundle) | 
-| Books | Packtpub.com | $5 ebooks/videos & 10/$40 | 12/31 | [link](https://www.packtpub.com/all-products) |
-| Books | Manning.com | Countdown to 2020 sale | 12/31 | [link](https://www.manning.com/news/countdown-to-2020) |
-| Books | Pragprog.com | N/A | 12/31 | N/A |
-| Books | Apress.com | $10 off w/ code NEWYEAR10 | 12/31 | [link](https://www.apress.com/us/shop/newyear) |
-| Books | HPB.com | $20 off w/ code NEW20 / 20% off w/ code YEAR20 | 12/31 | [link](https://www.hpb.com) |
+| Books | Oreilly.com | N/A | 2/17 | N/A |
+| Books | Nostarch.com | N/A | 2/17 | N/A |
+| Books | Humblebumble.com | Cybersecurity 2020 by Wiley | 2/17 | [link](https://www.humblebundle.com/books/cybersecurity-2020-wiley-books) | 
+| Books | Packtpub.com | N/A | 2/17 | N/A |
+| Books | Manning.com | Buy one, get one free | 2/17 | [link](https://www.manning.com/) |
+| Books | Pragprog.com | N/A | 2/17 | N/A |
+| Books | Apress.com | $5 Welcome with Signup | 2/17 | [link](https://www.apress.com/us/services/news) |
+| Books | HPB.com | 20% weekend sale | 2/17 | [link](https://www.hpb.com) |
 | | | | | |
-| Elearning | Practical-devsecops.com | N/A | 12/31 | N/A |
-| Elearning | Secureninja.com | 50% off - contact for details | 12/31 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
-| Elearning | Udemy.com | $9.99 learning | 12/31 | [link](https://www.udemy.com) |
+| Elearning | Practical-devsecops.com | N/A | 2/17 | N/A |
+| Elearning | Secureninja.com | 2020 Special Offer, Free Second Exam Voucher | 2/17 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
+| Elearning | Udemy.com | $9.99 learning | 2/17 | [link](https://www.udemy.com) |
 | Elearning | ~~Elearnsecurity.com~~ | ~~N/A~~ | ~~12/25~~ | ~~N/A~~ |
 | Elearning | GNS3.teachable.com | N/A | 12/31 | N/A |
 | Elearning | Pearsonitcertification.com | Buy 2, save 35% + free shipping w/ code BUY2 | 12/31 | [link](http://www.pearsonitcertification.com/) |
