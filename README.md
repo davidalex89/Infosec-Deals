@@ -1,41 +1,42 @@
-# Ongoing Infosec deals for 2020
+# Ongoing Infosec and Black Friday deals for 2020
 This started off as a Black Friday thing last year, but I'm going to try and keep this updated as a side-project.
 
 **Special thanks to [@Infosec_Taylor](https://twitter.com/Infosec_Taylor/), [0x90n](https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md), and [webyeti](https://www.webyeti.ninja/blog/hackerblkfri). You can find me on twitter [@davidscovetta](https://twitter.com/davidscovetta)**
 
 | Category | Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
-| Books | Oreilly.com | N/A | 11/17 | N/A |
-| Books | Nostarch.com | N/A | 11/17 | N/A |
-| Books | Humblebumble.com | N/A | 11/17 | N/A |
-| Books | Packtpub.com | N/A | 11/17 | N/A |
-| Books | Manning.com | N/A | 11/17 | N/A |
-| Books | Pragprog.com | N/A | 11/17 | N/A |
-| Books | Apress.com | N/A | 11/17 | N/A |
-| Books | HPB.com | N/A | 11/17 | N/A |
+| Books | Oreilly.com | N/A | 11/21 | N/A |
+| Books | Nostarch.com | N/A | 11/21 | N/A |
+| Books | Humblebumble.com | N/A | 11/21 | N/A |
+| Books | Packtpub.com | N/A | 11/21 | N/A |
+| Books | Manning.com | N/A | 11/21 | N/A |
+| Books | Pragprog.com | N/A | 11/21 | N/A |
+| Books | Apress.com | N/A | 11/21 | N/A |
+| Books | HPB.com | N/A | 11/21 | N/A |
 | | | | | |
-| Elearning | Practical-devsecops.com | N/A | 11/17 | N/A |
-| Elearning | Secureninja.com | Early BF sale, $400 gift card | 11/17 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
-| Elearning | Udemy.com | N/A | 11/17 | N/A |
+| Elearning | Practical-devsecops.com | 15% Off! | 11/21 | [link](https://www.practical-devsecops.com/black-friday/) |
+| Elearning | Secureninja.com | Early BF sale, $400 gift card | 11/21 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
+| Elearning | Udemy.com | BF Sale - $9.99 and BOGO  | 11/21 | [link](https://www.udemy.com/) |
 | Elearning | ~~Elearnsecurity.com~~ | ~~N/A~~ | ~~12/25~~ | ~~N/A~~ |
-| Elearning | GNS3.teachable.com | N/A | 11/17 | N/A |
-| Elearning | Pearsonitcertification.com | N/A | 11/17 | N/A |
-| Elearning | Cybrary.it | N/A | 11/17 | N/A |
-| Elearning | Pluralsight.com | Free weekend 11/20-11/22 | 11/17 | [link](https://www.pluralsight.com) |
+| Elearning | GNS3.teachable.com | N/A | 11/21 | N/A |
+| Elearning | Pearsonitcertification.com | N/A | 11/21 | N/A |
+| Elearning | Cybrary.it | N/A | 11/21 | N/A |
+| Elearning | Pluralsight.com | Free weekend 11/20-11/22 | 11/21 | [link](https://www.pluralsight.com) |
 | Elearning | ~~Linuxacademy.com~~ | ~~N/A~~ | ~~12/25~~ | ~~N/A~~ |
-| Elearning | Realpython.com | N/A | 11/17 | N/A |
-| Elearning | Whizlabs.com | 15% OFF Coupon - WHIZSITE15 | 11/17 | [link](https://www.whizlabs.com/) |
-| Elearning | Networkdefense.io | N/A | 11/17 | N/A |
-| Elearning | Reactforbeginners.com | All Courses 50% off | 11/17 | [link](https://reactforbeginners.com/) |
-| Elearning | Gitkraken.com | N/A | 11/17 | N/A |
-| Elearning | Leetcode.com | N/A | 11/17 | N/A |
-| Elearning | Linuxfoundation.org | N/A | 11/17 | N/A |
+| Elearning | Realpython.com | N/A | 11/21 | N/A |
+| Elearning | Whizlabs.com | 15% OFF Coupon - WHIZSITE15 | 11/21 | [link](https://www.whizlabs.com/) |
+| Elearning | Networkdefense.io | N/A | 11/21 | N/A |
+| Elearning | Reactforbeginners.com | All Courses 50% off | 11/21 | [link](https://reactforbeginners.com/) |
+| Elearning | Gitkraken.com | N/A | 11/21 | N/A |
+| Elearning | Leetcode.com | N/A | 11/21 | N/A |
+| Elearning | Linuxfoundation.org | N/A | 11/21 | N/A |
 | | | | | |
-| Pen Testing | Hacker.house | N/A | 11/17 | N/A |
-| Pen Testing | Pentesterlab.com | N/A | 11/17 | N/A |
+| Pen Testing | Hacker.house | N/A | 11/21 | N/A |
+| Pen Testing | Pentesterlab.com | N/A | 11/21 | N/A |
 | Pen testing | PentesterAcademy.com | N/A | 11/17 | N/A |
 | Pen Testing | Hackersacademy.com | N/A | 11/17 | N/A |
 | | | | | |
+| Tools & Services | Pulsedive (Threat intel) | N/A | 11/21 | N/A |
 | Tools & Services | Binaryedge.io | N/A | 11/17 | N/A |
 | Tools & Services | Shodanhq.com | N/A | 11/17 | N/A |
 | Tools & Services | Bitdefender.com | N/A | 11/17 | N/A |
@@ -84,4 +85,4 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 ## Special cool stuff:
 | Category | Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
-| | |  | 11/17|  |
+| Clothing | Teespring (Infosec apparel and etc) | Free Shipping on $50+ | 11/21 | [link](https://teespring.com/shop/information-technology-information-security-tshirts) |
