@@ -7,7 +7,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | -------- | ------- | ------- | ----- | ---- |
 | Books | Oreilly.com | N/A | 11/23 | N/A |
 | Books | Nostarch.com | N/A | 11/23 | N/A |
-| Books | Humblebumble.com | $99 Humble Choice Premium | 11/23 | [link](https://www.humblebundle.com) |
+| Books | Humblebundle.com | $99 Humble Choice Premium | 11/23 | [link](https://www.humblebundle.com) |
 | Books | Packtpub.com | N/A | 11/23 | N/A |
 | Books | Manning.com | N/A | 11/23 | N/A |
 | Books | Pragprog.com | Coupon turkeysale2020 to save 40% | 11/23 | [link](http://media.pragprog.com/newsletters/2020-11-20.html) |
@@ -87,5 +87,5 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | -------- | ------- | ------- | ----- | ---- |
 | Clothing | Teespring (Infosec apparel and etc) | Free Shipping on $50+ | 11/23 | [link](https://teespring.com/shop/information-technology-information-security-tshirts) |
 | News | WSJ | $4/mo BF deal | 11/23 | [link](https://store.wsj.com/shop/us/us/wsjuelnsb20/)
-| OSINT Training | Theosintion.com | Bundle discounts | 12/23 | [link](https://blackfriday.theosintion.com) |
-| INE Training | Ine.com | 40% off Black Friday w/ code BF40 | 12/23 | [link](https://ine.com/pages/black-friday-2020) |
+| OSINT Training | Theosintion.com | Bundle discounts | 11/23 | [link](https://blackfriday.theosintion.com) |
+| INE Training | Ine.com | 40% off Black Friday w/ code BF40 | 11/23 | [link](https://ine.com/pages/black-friday-2020) |
