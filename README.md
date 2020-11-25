@@ -37,7 +37,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Pen testing | PentesterAcademy.com | N/A | 11/23 | N/A |
 | Pen Testing | Hackersacademy.com | N/A | 11/23 | N/A |
 | | | | | |
-| Tools & Services | Pulsedive (Threat intel) | N/A | 11/23 | N/A |
+| Tools & Services | Pulsedive (Threat intel) | Coupon TRYFOR5 to get Pro for $5 for 1 month | 11/25 | [link](https://pulsedive.com/pro) |
 | Tools & Services | Binaryedge.io | N/A | 11/23 | N/A |
 | Tools & Services | Shodanhq.com | N/A | 11/23 | N/A |
 | Tools & Services | Bitdefender.com | $35-$55 off | 11/23 | [link](https://www.bitdefender.com/media/html/consumer/new/2020/cl-offer-Black-Friday-2020-opt/) |
