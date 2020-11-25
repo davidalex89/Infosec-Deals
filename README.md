@@ -36,6 +36,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Pen Testing | Pentesterlab.com | N/A | 11/23 | N/A |
 | Pen testing | PentesterAcademy.com | N/A | 11/23 | N/A |
 | Pen Testing | Hackersacademy.com | N/A | 11/23 | N/A |
+| Pen Testing | fortynorthsecurity.com | 20% on trainings | 11/30 | [link](https://www.fortynorthsecurity.com/public-training) |
 | | | | | |
 | Tools & Services | Pulsedive (Threat intel) | Coupon TRYFOR5 to get Pro for $5 for 1 month | 11/25 | [link](https://pulsedive.com/pro) |
 | Tools & Services | Binaryedge.io | N/A | 11/23 | N/A |
