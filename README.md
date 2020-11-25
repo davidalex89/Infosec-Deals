@@ -80,6 +80,8 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Robotics & Electronics | Robotshop.com | 5-70% off starting 11/27 | 11/23 | [link](https://www.robotshop.com/community/blog/show/best-robotshop-black-friday-2020-deals-up-to-50-off) |
 | Robotics & Electronics | Pololu.com | N/A | 11/23 | N/A |
 | Robotics & Electronics | Hackerboxes.com | N/A | 11/23 | N/A |
+| Robotics & Electronics | Ledger.com | 40% off Ledger Hardware Wallets w/ BLACKFRIDAY20 | 11/23 | [link](https://shop.ledger.com/pages/black-friday) |
+
 
 
 ## Special cool stuff:
