@@ -31,7 +31,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Reactforbeginners.com | All Courses 50% off | 11/23 | [link](https://reactforbeginners.com/) |
 | Educative.io | Discounted $249 annual plan | 11/25 | [link](educative.io/) |
 | Cloudacademy.com | $229 for 1 year ($120 off) | 11/25 | [link](https://cloudacademy.com/black-friday/) |
-| training.dronesec.com | 67% off online w/ 'DONOTSHAREBLACKFRI', 20% off trainer-led w/ 'BF20' | 11/26 | [link](https://training.dronesec.com/) |
+| Training.dronesec.com | 67% off online w/ 'DONOTSHAREBLACKFRI', 20% off trainer-led w/ 'BF20' | 11/26 | [link](https://training.dronesec.com/) |
 | Gitkraken.com | N/A | 11/23 | N/A |
 | Leetcode.com | N/A | 11/23 | N/A |
 | Networkdefense.io | N/A | 11/23 | N/A |
