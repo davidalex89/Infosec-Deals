@@ -15,9 +15,9 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Books | HPB.com | 20% off w/ code `FRIDAY20` | 11/25 | [link](https://b.halfpricebooks.com/coupon/friday20/) |
 | | | | | |
 | Elearning | Practical-devsecops.com | 15% Off! | 11/25 | [link](https://www.practical-devsecops.com/black-friday/) |
-| Elearning | Offensive-security.com | $999 EOY sale | 11/23 | [link](https://www.offensive-security.com/awae-oswe/) |
-| Elearning | Secureninja.com | Early BF sale, $400 gift card | 11/23 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
-| Elearning | Udemy.com | BF Sale - $9.99 and BOGO  | 11/23 | [link](https://www.udemy.com/) |
+| Elearning | Offensive-security.com | $999 EOY sale | 11/25 | [link](https://www.offensive-security.com/awae-oswe/) |
+| Elearning | Secureninja.com | Early BF sale, $400 gift card | 11/25 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
+| Elearning | Udemy.com | BF Sale - $9.99 and BOGO  | 11/25 | [link](https://www.udemy.com/) |
 | Elearning | ~~Elearnsecurity.com~~ | ~~N/A~~ | ~~12/25~~ | ~~N/A~~ |
 | Elearning | GNS3.teachable.com | N/A | 11/23 | N/A |
 | Elearning | Pearsonitcertification.com | Buy 2, Save 55% w/ code `BOOKSGIVING` | 11/23 | [link](https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-or-ebooks-save-55-142246) |
@@ -25,7 +25,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Elearning | Pluralsight.com | 40% off Annual/Premium ($179/$269) | 11/23 | [link](https://www.pluralsight.com/offer/2020/bf-cm-40-off) |
 | Elearning | ~~Linuxacademy.com~~ | ~~N/A~~ | ~~12/25~~ | ~~N/A~~ |
 | Elearning | Realpython.com | N/A | 11/23 | N/A |
-| Elearning | Whizlabs.com | 50% off Black Friday discounts starting 12/24 | 11/23 | [link](https://www.whizlabs.com/) |
+| Elearning | Whizlabs.com | 50% off everything w/ `BLACKFRIDAY50` | 11/25 | [link](https://www.whizlabs.com/) |
 | Elearning | Networkdefense.io | N/A | 11/23 | N/A |
 | Elearning | Reactforbeginners.com | All Courses 50% off | 11/23 | [link](https://reactforbeginners.com/) |
 | Elearning | Gitkraken.com | N/A | 11/23 | N/A |
@@ -36,7 +36,8 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Pen Testing | Pentesterlab.com | 2x13.37% off  | 11/25 | [link](https://pentesterlab.com/pro) |
 | Pen testing | PentesterAcademy.com | N/A | 11/23 | N/A |
 | Pen Testing | Hackersacademy.com | N/A | 11/23 | N/A |
-| Pen Testing | fortynorthsecurity.com | 20% on trainings | 11/30 | [link](https://www.fortynorthsecurity.com/public-training) |
+| Pen Testing | fortynorthsecurity.com | 20% on trainings until 11/30 | 11/25 | [link](https://www.fortynorthsecurity.com/public-training) |
+| Pen Testing | Shareit.com | 20% off Burp Bounty w/ code `CYBERBOUNTY` | 11/25 | [link](https://order.shareit.com/cart/view) |
 | | | | | |
 | Tools & Services | Pulsedive (Threat intel) | Coupon `TRYFOR5` to get Pro for $5 for 1 month | 11/25 | [link](https://pulsedive.com/pro) |
 | Tools & Services | Binaryedge.io | N/A | 11/23 | N/A |
@@ -46,16 +47,16 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Tools & Services | Hitmanpro.com | BOG2 | 11/23 | [link](https://shop.hitmanpro.com/747/uurl-bvzhur942h) |
 | Tools & Services | 1password.com | N/A | 11/23 | N/A |
 | Tools & Services | Bitwarden.com | N/A | 11/23 | N/A |
-| Tools & Services | Heimdalsecurity.com | N/A | 11/23 | N/A |
+| Tools & Services | Heimdalsecurity.com | 75% off Thor | 11/25 | [link](https://heimdalsecurity.com/en/buy/register/thor-premium?voucher=bf75web) |
 | Tools & Services | Lowendbox.com | Offers starting 11/26, Friday deals every 2 hours | 11/25 | [link](https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/) |
-| Tools & Services | Particle.io | N/A | 11/23 | N/A |
+| Tools & Services | Particle.io | N/A | 11/25 | N/A |
 | | | | | |
 | Products | VMware.com | 30% off products | 11/25 | [link](https://store-us.vmware.com/blackfridaysale) |
 | Products | Adobe.com | 25% off Creative Cloud until 11/27 | 11/23 | [link](https://www.adobe.com) |
 | Products | Coreldraw.com | BF $75 Off | 11/23 | [link](https://www.coreldraw.com/en/special-offers/?x-campaign=hsw) |
 | | | | | |
 | Hardware | System76.com | Merry 15 Birthday sale | 11/23 | [link](https://system76.com/specials) |
-| Hardware | Hak5.org | Hacked Friday Sale | 11/23 | [link](https://shop.hak5.org) |
+| Hardware | Hak5.org | Hacked Friday Sale | 11/25 | [link](https://shop.hak5.org) |
 | Hardware | Yubico.com | $20-$50 off keys | 11/23 | [link](https://www.yubico.com/store/black-friday/) |
 | Hardware | Southord.com | N/A | 11/23 | N/A |
 | Hardware | Thinkpeterson.com | N/A | 11/23 | N/A |
@@ -93,6 +94,10 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | OSINT Training | Theosintion.com | Bundle discounts | 11/23 | [link](https://blackfriday.theosintion.com) |
 | INE Training | Ine.com | 40% off Black Friday w/ code BF40 | 11/23 | [link](https://ine.com/pages/black-friday-2020) |
 | Celestron Telescope | cloudbreakoptics.com | Telescope sale | 11/25 | [link](https://cloudbreakoptics.com/collections/black-friday-blowout-sale-by-celestron) |
+| Sound | Apple Airpods | $169 for Airpods | 11/25 | [link](https://www.amazon.com/Apple-MWP22AM-A-AirPods-Pro/dp/B07ZPC9QD4/) |
+| Video | Plex |  Lifetime Plex Pass$89.99 w/ code `SURVIVETHESEASON` | 11/25 | [link](https://www.plex.tv/plex-pass/) |
+| Hardware | Samsung SSD | Samsung 2TB SSD for $199 | 11/25 | [link](https://www.amazon.com/gp/product/B0786QNSBD/) |
+| Misc | Misc | Lego Black Friday sale | 11/25 | [link](https://www.lego.com/en-us/page/black-friday-cyber-monday-toy-deals) |
 
 **Thank you to these contributors sending PRs:**
 *Snyff (pentesterlab)*
