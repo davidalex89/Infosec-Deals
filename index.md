@@ -1,9 +1,11 @@
-## Welcome to GitHub Pages
+
 
 # Ongoing Infosec and Black Friday deals for 2020
 This started off as a Black Friday thing last year, but I'm going to try and keep this updated as a side-project.
 
 **Special thanks to [@Infosec_Taylor](https://twitter.com/Infosec_Taylor/), [0x90n](https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md), and [webyeti](https://www.webyeti.ninja/blog/hackerblkfri). You can find me on twitter [@davidscovetta](https://twitter.com/davidscovetta)**
+
+*Feel free to submit PRs directly to [main git page](https://github.com/instadoodledavid/Infosec-Deals-2020)*
 
 | Category | Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
@@ -95,7 +97,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Category | Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
 | Clothing | Teespring (Infosec apparel and etc) | Free Shipping on $50+ | 11/23 | [link](https://teespring.com/shop/information-technology-information-security-tshirts) |
-| News | WSJ | $4/mo BF deal | 11/23 | [link](https://store.wsj.com/shop/us/us/wsjuelnsb20/)
+| News | WSJ | $4/mo BF deal | 11/23 | [link](https://store.wsj.com/shop/us/us/wsjuelnsb20/) |
 | OSINT Training | Theosintion.com | Bundle discounts | 11/23 | [link](https://blackfriday.theosintion.com) |
 | INE Training | Ine.com | 40% off Black Friday w/ code BF40 | 11/23 | [link](https://ine.com/pages/black-friday-2020) |
 | Celestron Telescope | cloudbreakoptics.com | Telescope sale | 11/25 | [link](https://cloudbreakoptics.com/collections/black-friday-blowout-sale-by-celestron) |
