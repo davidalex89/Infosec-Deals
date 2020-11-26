@@ -20,7 +20,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Elearning | Udemy.com | BF Sale - $9.99 and BOGO  | 11/23 | [link](https://www.udemy.com/) |
 | Elearning | ~~Elearnsecurity.com~~ | ~~N/A~~ | ~~12/25~~ | ~~N/A~~ |
 | Elearning | GNS3.teachable.com | N/A | 11/23 | N/A |
-| Elearning | Pearsonitcertification.com | Buy 2, Save 55% w/ code BOOKSGIVING | 11/23 | [link](https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-or-ebooks-save-55-142246) |
+| Elearning | Pearsonitcertification.com | Buy 2, Save 55% w/ code `BOOKSGIVING` | 11/23 | [link](https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-or-ebooks-save-55-142246) |
 | Elearning | Cybrary.it | 70% Off Cybrary Insider Pro | 11/23 | [link](https://www.cybrary.it) |
 | Elearning | Pluralsight.com | 40% off Annual/Premium ($179/$269) | 11/23 | [link](https://www.pluralsight.com/offer/2020/bf-cm-40-off) |
 | Elearning | ~~Linuxacademy.com~~ | ~~N/A~~ | ~~12/25~~ | ~~N/A~~ |
@@ -68,14 +68,14 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | | | | | |
 | Education | Kaplan.com | N/A | 11/23 | N/A |
 | | | | | |
-| Email | Tutanota.com | N/A | 11/17 | N/A |
+| Email | Tutanota.com | No BF sale announced :( | 11/25 | N/A |
 | Email | Protonmail.com | 50% off black friday deal | 11/23 | [link](https://protonmail.com/blackfriday) |
 | | | | | |
 | Gear | Silentpocket.com | 15-40% off | 11/23 | [link](https://silent-pocket.com/collections/all-products) |
 | Gear | Itead.cc | SONOFF Sale Up to 35% Off | 11/23 | [link](https://www.itead.cc/sonoff-best-sale-of-the-year) |
 | | | | | |
 | Web Design & Hosting | Carrd.co | N/A | 11/23 | N/A |
-| Web Design & Hosting | Ghost.org | N/A | 11/23 | N/A |
+| Web Design & Hosting | Ghost.org | N/A | 11/25 | N/A |
 | Web Design & Hosting | Namecheap.com | 72-99% off starting 11/24 | 11/23 | [link](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) |
 | | | | | |
 | Robotics & Electronics | Seeedstudio.com | 15-20% off Maker essentials, 50% off w/ `THANKS50` | 11/25 | [link](https://www.seeedstudio.com/thanksgiving-day-sale-for-maker-essentials.html) |
@@ -92,7 +92,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | News | WSJ | $4/mo BF deal | 11/23 | [link](https://store.wsj.com/shop/us/us/wsjuelnsb20/)
 | OSINT Training | Theosintion.com | Bundle discounts | 11/23 | [link](https://blackfriday.theosintion.com) |
 | INE Training | Ine.com | 40% off Black Friday w/ code BF40 | 11/23 | [link](https://ine.com/pages/black-friday-2020) |
-
+| Celestron Telescope | Telescope sale | 11/25 | [link](https://cloudbreakoptics.com/collections/black-friday-blowout-sale-by-celestron) |
 
 **Thank you to these contributors sending PRs:**
 *Snyff (pentesterlab)*
