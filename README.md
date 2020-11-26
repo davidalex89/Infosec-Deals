@@ -70,7 +70,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 ## Products
 
 | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+| ------- | ------- | ----- | ---- |
 | VMware.com | 30% off products | 11/25 | [link](https://store-us.vmware.com/blackfridaysale) |
 | ESet.com | 40% off products | 11/25 | [link](https://www.eset.com/us/cyber-weekend-2020/) |
 | Adobe.com | 25% off Creative Cloud until 11/27 | 11/23 | [link](https://www.adobe.com) |
@@ -105,14 +105,14 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 ## Email
 
 | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+| ------- | ------- | ----- | ---- |
 | Tutanota.com | No BF sale announced :( | 11/25 | N/A |
 | Protonmail.com | 50% off black friday deal | 11/23 | [link](https://protonmail.com/blackfriday) |
 
 ## Gear
 
 | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+| ------- | ------- | ----- | ---- |
 | Silentpocket.com | 15-40% off | 11/23 | [link](https://silent-pocket.com/collections/all-products) |
 | Itead.cc | SONOFF Sale Up to 35% Off | 11/23 | [link](https://www.itead.cc/sonoff-best-sale-of-the-year) |
 
