@@ -92,7 +92,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | News | WSJ | $4/mo BF deal | 11/23 | [link](https://store.wsj.com/shop/us/us/wsjuelnsb20/)
 | OSINT Training | Theosintion.com | Bundle discounts | 11/23 | [link](https://blackfriday.theosintion.com) |
 | INE Training | Ine.com | 40% off Black Friday w/ code BF40 | 11/23 | [link](https://ine.com/pages/black-friday-2020) |
-| Celestron Telescope | Telescope sale | 11/25 | [link](https://cloudbreakoptics.com/collections/black-friday-blowout-sale-by-celestron) |
+| Celestron Telescope | cloudbreakoptics.com | Telescope sale | 11/25 | [link](https://cloudbreakoptics.com/collections/black-friday-blowout-sale-by-celestron) |
 
 **Thank you to these contributors sending PRs:**
 *Snyff (pentesterlab)*
