@@ -94,8 +94,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 
 
 ## Special cool stuff:
-| Category | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+
 | Clothing | Teespring (Infosec apparel and etc) | Free Shipping on $50+ | 11/23 | [link](https://teespring.com/shop/information-technology-information-security-tshirts) |
 | News | WSJ | $4/mo BF deal | 11/23 | [link](https://store.wsj.com/shop/us/us/wsjuelnsb20/) |
 | OSINT Training | Theosintion.com | Bundle discounts | 11/23 | [link](https://blackfriday.theosintion.com) |
