@@ -6,8 +6,6 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 
 *Feel free to submit PRs directly to [main git page](https://github.com/instadoodledavid/Infosec-Deals-2020)*
 
-| Website | Details | As-of | Link |
-| ------- | ------- | ----- | ---- |
 
 ##Books
 
