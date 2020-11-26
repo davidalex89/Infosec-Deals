@@ -1,4 +1,6 @@
 
+![](https://avatars1.githubusercontent.com/u/17837240)
+
 # Ongoing Infosec and Black Friday deals for 2020
 This started off as a Black Friday thing last year, but I'm going to try and keep this updated as a side-project.
 
