@@ -98,7 +98,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Gear | Silentpocket.com | 15-40% off | 11/23 | [link](https://silent-pocket.com/collections/all-products) |
 | Gear | Itead.cc | SONOFF Sale Up to 35% Off | 11/23 | [link](https://www.itead.cc/sonoff-best-sale-of-the-year) |
 
-##Web Design & Hosting
+## Web Design & Hosting
 
 | Carrd.co | N/A | 11/23 | N/A |
 | Ghost.org | N/A | 11/25 | N/A |
