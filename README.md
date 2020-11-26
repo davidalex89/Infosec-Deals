@@ -31,6 +31,8 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Elearning | Gitkraken.com | N/A | 11/23 | N/A |
 | Elearning | Leetcode.com | N/A | 11/23 | N/A |
 | Elearning | Linuxfoundation.org | N/A | 11/23 | N/A |
+| Elearning | Educative.io | Discounted $249 annual plan | 11/25 | [link](educative.io/) |
+| Elearning | Cloudacademy.com | $229 for 1 year ($120 off) | 11/25 | [link](https://cloudacademy.com/black-friday/) |
 | | | | | |
 | Pen Testing | Hacker.house | N/A | 11/23 | N/A |
 | Pen Testing | Pentesterlab.com | 2x13.37% off  | 11/25 | [link](https://pentesterlab.com/pro) |
@@ -99,6 +101,8 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Video | Plex |  Lifetime Plex Pass$89.99 w/ code `SURVIVETHESEASON` | 11/25 | [link](https://www.plex.tv/plex-pass/) |
 | Hardware | Samsung SSD | Samsung 2TB SSD for $199 | 11/25 | [link](https://www.amazon.com/gp/product/B0786QNSBD/) |
 | Misc | Misc | Lego Black Friday sale | 11/25 | [link](https://www.lego.com/en-us/page/black-friday-cyber-monday-toy-deals) |
+| Misc | Lights | Helios up to 30% off lighting | 11/25 | [link](https://heliostouch.com/collections/all) |
+
 
 **Thank you to these contributors sending PRs:**
 *Snyff (pentesterlab)*
