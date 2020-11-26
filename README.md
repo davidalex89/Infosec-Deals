@@ -52,6 +52,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Tools & Services | Heimdalsecurity.com | 75% off Thor | 11/25 | [link](https://heimdalsecurity.com/en/buy/register/thor-premium?voucher=bf75web) |
 | Tools & Services | Lowendbox.com | Offers starting 11/26, Friday deals every 2 hours | 11/25 | [link](https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/) |
 | Tools & Services | Particle.io | N/A | 11/25 | N/A |
+| Tools & Services | hex-rays.com | 25% off IDA Home | 11/27 | [link](https://www.hex-rays.com/order/) |
 | | | | | |
 | Products | VMware.com | 30% off products | 11/25 | [link](https://store-us.vmware.com/blackfridaysale) |
 | Products | ESet.com | 40% off products | 11/25 | [link](https://www.eset.com/us/cyber-weekend-2020/) |
