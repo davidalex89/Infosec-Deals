@@ -66,6 +66,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Bitwarden.com | N/A | 11/23 | N/A |
 | Particle.io | N/A | 11/25 | N/A |
 | Charlesproxy.com | N/A | 11/23 | N/A |
+| Detectify | 20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.| 11/26 | [link](https://detectify.com/lp/black-friday-professional-plan-offer) |
 
 ## Products
 
