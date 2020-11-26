@@ -5,16 +5,16 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 
 | Category | Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
-| Books | Oreilly.com | N/A | 11/23 | N/A |
+| Books | Oreilly.com | N/A | 11/25 | N/A |
 | Books | Nostarch.com | Code: `BLACKFRIDAY20` for 33.7% off plus free (domestic) or reduced (international) shipping on orders of $50+ | 11/25 | [link](https://nostarch.com) |
-| Books | Humblebundle.com | $99 Humble Choice Premium | 11/23 | [link](https://www.humblebundle.com) |
-| Books | Packtpub.com | N/A | 11/23 | N/A |
-| Books | Manning.com | N/A | 11/23 | N/A |
+| Books | Humblebundle.com | $99 Humble Choice Premium | 11/25 | [link](https://www.humblebundle.com) |
+| Books | Packtpub.com | N/A | 11/25 | N/A |
+| Books | Manning.com | 40% off when you buy 2+ | 11/25 | [link](http://enews.manning.com/q/BCzcOWrDbWZg0HJCzpfti5TxJO1HTRxlizKJQDCbYLxAfmGQ0P0blTR-H) |
 | Books | Pragprog.com | Coupon turkeysale2020 to save 40% | 11/23 | [link](http://media.pragprog.com/newsletters/2020-11-20.html) |
-| Books | Apress.com | $6.99 ebooks w/ CYBER20AP | 11/23 | [link](https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek18) |
-| Books | HPB.com | N/A | 11/23 | N/A |
+| Books | Apress.com | $6.99 ebooks w/ CYBER20AP | 11/25 | [link](https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek18) |
+| Books | HPB.com | 20% off w/ code `FRIDAY20` | 11/25 | [link](https://b.halfpricebooks.com/coupon/friday20/) |
 | | | | | |
-| Elearning | Practical-devsecops.com | 15% Off! | 11/23 | [link](https://www.practical-devsecops.com/black-friday/) |
+| Elearning | Practical-devsecops.com | 15% Off! | 11/25 | [link](https://www.practical-devsecops.com/black-friday/) |
 | Elearning | Offensive-security.com | $999 EOY sale | 11/23 | [link](https://www.offensive-security.com/awae-oswe/) |
 | Elearning | Secureninja.com | Early BF sale, $400 gift card | 11/23 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
 | Elearning | Udemy.com | BF Sale - $9.99 and BOGO  | 11/23 | [link](https://www.udemy.com/) |
@@ -40,17 +40,17 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | | | | | |
 | Tools & Services | Pulsedive (Threat intel) | Coupon TRYFOR5 to get Pro for $5 for 1 month | 11/25 | [link](https://pulsedive.com/pro) |
 | Tools & Services | Binaryedge.io | N/A | 11/23 | N/A |
-| Tools & Services | Shodanhq.com | N/A | 11/23 | N/A |
+| Tools & Services | Shodanhq.com | No BF sale this year :( | 11/25 | N/A |
 | Tools & Services | Bitdefender.com | $35-$55 off | 11/23 | [link](https://www.bitdefender.com/media/html/consumer/new/2020/cl-offer-Black-Friday-2020-opt/) |
 | Tools & Services | Charlesproxy.com | N/A | 11/23 | N/A |
 | Tools & Services | Hitmanpro.com | BOG2 | 11/23 | [link](https://shop.hitmanpro.com/747/uurl-bvzhur942h) |
 | Tools & Services | 1password.com | N/A | 11/23 | N/A |
 | Tools & Services | Bitwarden.com | N/A | 11/23 | N/A |
 | Tools & Services | Heimdalsecurity.com | N/A | 11/23 | N/A |
-| Tools & Services | Lowendbox.com | N/A | 11/23 | N/A |
+| Tools & Services | Lowendbox.com | Offers starting 11/26, Friday deals every 2 hours | 11/25 | [link](https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/) |
 | Tools & Services | Particle.io | N/A | 11/23 | N/A |
 | | | | | |
-| Products | VMware.com | N/A | 11/23 | N/A |
+| Products | VMware.com | 30% off products | 11/25 | [link](https://store-us.vmware.com/blackfridaysale) |
 | Products | Adobe.com | 25% off Creative Cloud until 11/27 | 11/23 | [link](https://www.adobe.com) |
 | Products | Coreldraw.com | BF $75 Off | 11/23 | [link](https://www.coreldraw.com/en/special-offers/?x-campaign=hsw) |
 | | | | | |
@@ -85,7 +85,6 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Robotics & Electronics | Ledger.com | 40% off Ledger Hardware Wallets w/ BLACKFRIDAY20 | 11/23 | [link](https://shop.ledger.com/pages/black-friday) |
 
 
-
 ## Special cool stuff:
 | Category | Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
@@ -93,3 +92,12 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | News | WSJ | $4/mo BF deal | 11/23 | [link](https://store.wsj.com/shop/us/us/wsjuelnsb20/)
 | OSINT Training | Theosintion.com | Bundle discounts | 11/23 | [link](https://blackfriday.theosintion.com) |
 | INE Training | Ine.com | 40% off Black Friday w/ code BF40 | 11/23 | [link](https://ine.com/pages/black-friday-2020) |
+
+
+**Thank you to these contributors sending PRs:**
+*Snyff (pentesterlab)*
+*Danzek (NoStarch)*
+*Netbroom & @euphoricfall (Pulsedive)*
+*Fuckup1337 (fortynorthsecurity)*
+*laxly (Tile)*
+*Corysolovewicz (Ledger Hardware Wallets)*
