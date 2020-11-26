@@ -26,7 +26,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Offensive-security.com | $999 EOY sale | 11/25 | [link](https://www.offensive-security.com/awae-oswe/) |
 | Secureninja.com | Early BF sale, $400 gift card | 11/25 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
 | Udemy.com | BF Sale - $9.99 and BOGO  | 11/25 | [link](https://www.udemy.com/) |
-| GNS3.teachable.com | N/A | 11/23 | N/A |
+| GNS3.teachable.com | N/A | 11/26 | N/A |
 | Pearsonitcertification.com | Buy 2, Save 55% w/ code `BOOKSGIVING` | 11/23 | [link](https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-or-ebooks-save-55-142246) |
 | Cybrary.it | 70% Off Cybrary Insider Pro | 11/23 | [link](https://www.cybrary.it) |
 | Pluralsight.com | 40% off Annual/Premium ($179/$269) | 11/23 | [link](https://www.pluralsight.com/offer/2020/bf-cm-40-off) |
@@ -62,6 +62,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Heimdalsecurity.com | 75% off Thor | 11/25 | [link](https://heimdalsecurity.com/en/buy/register/thor-premium?voucher=bf75web) |
 | Lowendbox.com | Offers starting 11/26, Friday deals every 2 hours | 11/25 | [link](https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/) |
 | Particle.io | N/A | 11/25 | N/A |
+| Tenable.io | 50% off Pro w/ code `takehalf` | 11/26 | [link](https://www.tenable.com/buy)
 
 ## Products
 
@@ -82,8 +83,8 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 ## Certifications
 
 | CompTIA | N/A | 11/23 | N/A |
-| EC-Council | N/A | 11/23 | N/A |
-| ISACA | N/A | 11/23 | N/A |
+| EC-Council | N/A | 11/26 | N/A |
+| ISACA | 15% off w/ code `CWPREP15` | 11/26 | [link](https://www.isaca.org/go/flash) |
 | ITGovernance.co.uk | N/A | 11/23 | N/A |
 
 ## Education
@@ -103,7 +104,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 ## Web Design & Hosting
 
 | Carrd.co | N/A | 11/23 | N/A |
-| Ghost.org | N/A | 11/25 | N/A |
+| Ghost.org | N/A | 11/26 | N/A |
 | Namecheap.com | 72-99% off starting 11/24 | 11/23 | [link](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) |
 
 ## Robotics & Electronics
