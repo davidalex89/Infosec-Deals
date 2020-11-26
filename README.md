@@ -8,7 +8,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Books | Oreilly.com | N/A | 11/25 | N/A |
 | Books | Nostarch.com | Code: `BLACKFRIDAY20` for 33.7% off plus free (domestic) or reduced (international) shipping on orders of $50+ | 11/25 | [link](https://nostarch.com) |
 | Books | Humblebundle.com | $99 Humble Choice Premium | 11/25 | [link](https://www.humblebundle.com) |
-| Books | Packtpub.com | N/A | 11/25 | N/A |
+| Books | Packtpub.com | Up to 20% off titles | 11/25 | [link](https://www.amazon.com/stores/page/8CF64A4A-867A-49C2-82EA-A5E2E5C4CBD4?maas=maas_adg_DCF76661C097785DCCA9A09E386E75AC_afap_abs) |
 | Books | Manning.com | 40% off when you buy 2+ | 11/25 | [link](http://enews.manning.com/q/BCzcOWrDbWZg0HJCzpfti5TxJO1HTRxlizKJQDCbYLxAfmGQ0P0blTR-H) |
 | Books | Pragprog.com | Coupon `turkeysale2020` to save 40% | 11/23 | [link](http://media.pragprog.com/newsletters/2020-11-20.html) |
 | Books | Apress.com | $6.99 ebooks w/ code `CYBER20AP` | 11/25 | [link](https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek18) |
