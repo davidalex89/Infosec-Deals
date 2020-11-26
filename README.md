@@ -5,7 +5,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 
 ## Books
 
-| Category | Website | Details | As-of | Link |
+| Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
 | Oreilly.com | N/A | 11/25 | N/A |
 | Nostarch.com | Code: `BLACKFRIDAY20` for 33.7% off plus free (domestic) or reduced (international) shipping on orders of $50+ | 11/25 | [link](https://nostarch.com) |
@@ -18,57 +18,58 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 
 ## Elearning
 
-| Category | Website | Details | As-of | Link |
+| Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
 | Practical-devsecops.com | 15% Off! | 11/25 | [link](https://www.practical-devsecops.com/black-friday/) |
 | Offensive-security.com | $999 EOY sale | 11/25 | [link](https://www.offensive-security.com/awae-oswe/) |
 | Secureninja.com | Early BF sale, $400 gift card | 11/25 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
 | Udemy.com | BF Sale - $9.99 and BOGO  | 11/25 | [link](https://www.udemy.com/) |
-| GNS3.teachable.com | N/A | 11/26 | N/A |
 | Pearsonitcertification.com | Buy 2, Save 55% w/ code `BOOKSGIVING` | 11/23 | [link](https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-or-ebooks-save-55-142246) |
 | Cybrary.it | 70% Off Cybrary Insider Pro | 11/23 | [link](https://www.cybrary.it) |
 | Pluralsight.com | 40% off Annual/Premium ($179/$269) | 11/23 | [link](https://www.pluralsight.com/offer/2020/bf-cm-40-off) |
-| Realpython.com | N/A | 11/23 | N/A |
 | Whizlabs.com | 50% off everything w/ `BLACKFRIDAY50` | 11/25 | [link](https://www.whizlabs.com/) |
-| Networkdefense.io | N/A | 11/23 | N/A |
 | Reactforbeginners.com | All Courses 50% off | 11/23 | [link](https://reactforbeginners.com/) |
-| Gitkraken.com | N/A | 11/23 | N/A |
-| Leetcode.com | N/A | 11/23 | N/A |
-| Linuxfoundation.org | N/A | 11/23 | N/A |
 | Educative.io | Discounted $249 annual plan | 11/25 | [link](educative.io/) |
 | Cloudacademy.com | $229 for 1 year ($120 off) | 11/25 | [link](https://cloudacademy.com/black-friday/) |
+| Gitkraken.com | N/A | 11/23 | N/A |
+| Leetcode.com | N/A | 11/23 | N/A |
+| Networkdefense.io | N/A | 11/23 | N/A |
+| Realpython.com | N/A | 11/23 | N/A |
+| GNS3.teachable.com | N/A | 11/26 | N/A |
+| Linuxfoundation.org | N/A | 11/23 | N/A |
 
 ## Pen Testing
 
-| Category | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
-| Hacker.house | N/A | 11/23 | N/A |
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
 | Pentesterlab.com | 2x13.37% off  | 11/25 | [link](https://pentesterlab.com/pro) |
+| Fortynorthsecurity.com | 20% on trainings until 11/30 | 11/25 | [link](https://www.fortynorthsecurity.com/public-training) |
+| Shareit.com | 20% off Burp Bounty w/ code `CYBERBOUNTY` | 11/25 | [link](https://order.shareit.com/cart/view) |
 | PentesterAcademy.com | N/A | 11/23 | N/A |
 | Hackersacademy.com | N/A | 11/23 | N/A |
-| fortynorthsecurity.com | 20% on trainings until 11/30 | 11/25 | [link](https://www.fortynorthsecurity.com/public-training) |
-| Shareit.com | 20% off Burp Bounty w/ code `CYBERBOUNTY` | 11/25 | [link](https://order.shareit.com/cart/view) |
+| Hacker.house | N/A | 11/23 | N/A |
 
 ## Tools & Services
 
-| Category | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
 | Pulsedive (Threat intel) | Coupon `TRYFOR5` to get Pro for $5 for 1 month | 11/25 | [link](https://pulsedive.com/pro) |
-| Binaryedge.io | N/A | 11/23 | N/A |
+| hex-rays.com | 25% off IDA Home | 11/27 | [link](https://www.hex-rays.com/order/) |
 | Shodanhq.com | No BF sale this year :( | 11/25 | N/A |
-| Bitdefender.com | $35-$55 off | 11/23 | [link](https://www.bitdefender.com/media/html/consumer/new/2020/cl-offer-Black-Friday-2020-opt/) |
-| Charlesproxy.com | N/A | 11/23 | N/A |
+| Bitdefender.com | $35-$55 off | 11/23 | [link](https://www.bitdefender.com/media/html/consumer/new/2020/cl-offer-Black-Friday-2020-opt/) | 
 | Hitmanpro.com | BOG2 | 11/23 | [link](https://shop.hitmanpro.com/747/uurl-bvzhur942h) |
-| 1password.com | N/A | 11/23 | N/A |
-| Bitwarden.com | N/A | 11/23 | N/A |
 | Heimdalsecurity.com | 75% off Thor | 11/25 | [link](https://heimdalsecurity.com/en/buy/register/thor-premium?voucher=bf75web) |
 | Lowendbox.com | Offers starting 11/26, Friday deals every 2 hours | 11/25 | [link](https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/) |
-| Particle.io | N/A | 11/25 | N/A |
 | Tenable.io | 50% off Pro w/ code `takehalf` | 11/26 | [link](https://www.tenable.com/buy)
+| Binaryedge.io | N/A | 11/23 | N/A |
+| 1password.com | N/A | 11/23 | N/A |
+| Bitwarden.com | N/A | 11/23 | N/A |
+| Particle.io | N/A | 11/25 | N/A |
+| Charlesproxy.com | N/A | 11/23 | N/A |
 
 ## Products
 
-| Category | Website | Details | As-of | Link |
+| Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
 | VMware.com | 30% off products | 11/25 | [link](https://store-us.vmware.com/blackfridaysale) |
 | ESet.com | 40% off products | 11/25 | [link](https://www.eset.com/us/cyber-weekend-2020/) |
@@ -77,66 +78,66 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 
 ## Hardware
 
-| Category | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
 | System76.com | Merry 15 Birthday sale | 11/23 | [link](https://system76.com/specials) |
 | Hak5.org | Hacked Friday Sale | 11/25 | [link](https://shop.hak5.org) |
 | Yubico.com | $20-$50 off keys | 11/23 | [link](https://www.yubico.com/store/black-friday/) |
+| Tile.com | Pre-Black Friday Sale - 30% off sticker 4-packs, etc. | 11/23 | [link](https://www.thetileapp.com/products?utm_medium=email&utm_source=salesforcemc&utm_campaign=holiday_prebf) |
 | Southord.com | N/A | 11/23 | N/A |
 | Thinkpeterson.com | N/A | 11/23 | N/A |
-| Tile.com | Pre-Black Friday Sale - 30% off sticker 4-packs, etc. | 11/23 | [link](https://www.thetileapp.com/products?utm_medium=email&utm_source=salesforcemc&utm_campaign=holiday_prebf) |
 
 ## Certifications
 
-| Category | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
+| ISACA | 15% off w/ code `CWPREP15` | 11/26 | [link](https://www.isaca.org/go/flash) |
 | CompTIA | N/A | 11/23 | N/A |
 | EC-Council | N/A | 11/26 | N/A |
-| ISACA | 15% off w/ code `CWPREP15` | 11/26 | [link](https://www.isaca.org/go/flash) |
 | ITGovernance.co.uk | N/A | 11/23 | N/A |
 
 ## Education
 
-| Category | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
-| Education | Kaplan.com | N/A | 11/23 | N/A |
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
+| Kaplan.com | N/A | 11/23 | N/A |
 
 ## Email
 
-| Category | Website | Details | As-of | Link |
+| Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
-| Email | Tutanota.com | No BF sale announced :( | 11/25 | N/A |
-| Email | Protonmail.com | 50% off black friday deal | 11/23 | [link](https://protonmail.com/blackfriday) |
+| Tutanota.com | No BF sale announced :( | 11/25 | N/A |
+| Protonmail.com | 50% off black friday deal | 11/23 | [link](https://protonmail.com/blackfriday) |
 
 ## Gear
 
-| Category | Website | Details | As-of | Link |
+| Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
-| Gear | Silentpocket.com | 15-40% off | 11/23 | [link](https://silent-pocket.com/collections/all-products) |
-| Gear | Itead.cc | SONOFF Sale Up to 35% Off | 11/23 | [link](https://www.itead.cc/sonoff-best-sale-of-the-year) |
+| Silentpocket.com | 15-40% off | 11/23 | [link](https://silent-pocket.com/collections/all-products) |
+| Itead.cc | SONOFF Sale Up to 35% Off | 11/23 | [link](https://www.itead.cc/sonoff-best-sale-of-the-year) |
 
 ## Web Design & Hosting
 
-| Category | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
 | Carrd.co | N/A | 11/23 | N/A |
 | Ghost.org | N/A | 11/26 | N/A |
 | Namecheap.com | 72-99% off starting 11/24 | 11/23 | [link](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) |
 
 ## Robotics & Electronics
 
-| Category | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
 | Seeedstudio.com | 15-20% off Maker essentials, 50% off w/ `THANKS50` | 11/25 | [link](https://www.seeedstudio.com/thanksgiving-day-sale-for-maker-essentials.html) |
 | Robotshop.com | 5-70% off starting 11/27 | 11/23 | [link](https://www.robotshop.com/community/blog/show/best-robotshop-black-friday-2020-deals-up-to-50-off) |
+| Ledger.com | 40% off Ledger Hardware Wallets w/ `BLACKFRIDAY20` | 11/23 | [link](https://shop.ledger.com/pages/black-friday) |
 | Pololu.com | N/A | 11/23 | N/A |
 | Hackerboxes.com | N/A | 11/23 | N/A |
-| Ledger.com | 40% off Ledger Hardware Wallets w/ `BLACKFRIDAY20` | 11/23 | [link](https://shop.ledger.com/pages/black-friday) |
-
+ 
 ## Special cool stuff:
 
 | Category | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+| ------- | ------- | ----- | ---- | ------- |
 | Clothing | Teespring (Infosec apparel and etc) | Free Shipping on $50+ | 11/23 | [link](https://teespring.com/shop/information-technology-information-security-tshirts) |
 | Clothing | Myhackertech (Infosec apparel) | `20BFCM` for 20% off | 11/25 | [link](https://myhackertech.myshopify.com/pages/black-friday-cyber-monday-2020-hoodies-t-shirts-sweatshirts-mugs-sneakers-stickers-online-hacking-courses-for-ethical-hackers-and-infosec) |
 | News | WSJ | $4/mo BF deal | 11/23 | [link](https://store.wsj.com/shop/us/us/wsjuelnsb20/) |
