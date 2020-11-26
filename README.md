@@ -10,8 +10,8 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Books | Humblebundle.com | $99 Humble Choice Premium | 11/25 | [link](https://www.humblebundle.com) |
 | Books | Packtpub.com | N/A | 11/25 | N/A |
 | Books | Manning.com | 40% off when you buy 2+ | 11/25 | [link](http://enews.manning.com/q/BCzcOWrDbWZg0HJCzpfti5TxJO1HTRxlizKJQDCbYLxAfmGQ0P0blTR-H) |
-| Books | Pragprog.com | Coupon turkeysale2020 to save 40% | 11/23 | [link](http://media.pragprog.com/newsletters/2020-11-20.html) |
-| Books | Apress.com | $6.99 ebooks w/ CYBER20AP | 11/25 | [link](https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek18) |
+| Books | Pragprog.com | Coupon `turkeysale2020` to save 40% | 11/23 | [link](http://media.pragprog.com/newsletters/2020-11-20.html) |
+| Books | Apress.com | $6.99 ebooks w/ code `CYBER20AP` | 11/25 | [link](https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek18) |
 | Books | HPB.com | 20% off w/ code `FRIDAY20` | 11/25 | [link](https://b.halfpricebooks.com/coupon/friday20/) |
 | | | | | |
 | Elearning | Practical-devsecops.com | 15% Off! | 11/25 | [link](https://www.practical-devsecops.com/black-friday/) |
@@ -78,7 +78,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Web Design & Hosting | Ghost.org | N/A | 11/23 | N/A |
 | Web Design & Hosting | Namecheap.com | 72-99% off starting 11/24 | 11/23 | [link](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) |
 | | | | | |
-| Robotics & Electronics | Seeedstudio.com | 15-20% off Maker essentials, 50% off w/ THANKS50 | 11/23 | [link](https://www.seeedstudio.com/thanksgiving-day-sale-for-maker-essentials.html) |
+| Robotics & Electronics | Seeedstudio.com | 15-20% off Maker essentials, 50% off w/ `THANKS50` | 11/25 | [link](https://www.seeedstudio.com/thanksgiving-day-sale-for-maker-essentials.html) |
 | Robotics & Electronics | Robotshop.com | 5-70% off starting 11/27 | 11/23 | [link](https://www.robotshop.com/community/blog/show/best-robotshop-black-friday-2020-deals-up-to-50-off) |
 | Robotics & Electronics | Pololu.com | N/A | 11/23 | N/A |
 | Robotics & Electronics | Hackerboxes.com | N/A | 11/23 | N/A |
