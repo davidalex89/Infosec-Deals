@@ -6,7 +6,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 ## Books
 
 | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+| ------- | ------- | ----- | ---- |
 | Oreilly.com | N/A | 11/25 | N/A |
 | Nostarch.com | Code: `BLACKFRIDAY20` for 33.7% off plus free (domestic) or reduced (international) shipping on orders of $50+ | 11/25 | [link](https://nostarch.com) |
 | Humblebundle.com | $99 Humble Choice Premium | 11/25 | [link](https://www.humblebundle.com) |
@@ -19,7 +19,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 ## Elearning
 
 | Website | Details | As-of | Link |
-| -------- | ------- | ------- | ----- | ---- |
+| ------- | ------- | ----- | ---- |
 | Practical-devsecops.com | 15% Off! | 11/25 | [link](https://www.practical-devsecops.com/black-friday/) |
 | Offensive-security.com | $999 EOY sale | 11/25 | [link](https://www.offensive-security.com/awae-oswe/) |
 | Secureninja.com | Early BF sale, $400 gift card | 11/25 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
