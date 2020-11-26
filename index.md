@@ -102,7 +102,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | INE Training | Ine.com | 40% off Black Friday w/ code BF40 | 11/23 | [link](https://ine.com/pages/black-friday-2020) |
 | Celestron Telescope | cloudbreakoptics.com | Telescope sale | 11/25 | [link](https://cloudbreakoptics.com/collections/black-friday-blowout-sale-by-celestron) |
 | Sound | Apple Airpods | $169 for Airpods | 11/25 | [link](https://www.amazon.com/Apple-MWP22AM-A-AirPods-Pro/dp/B07ZPC9QD4/) |
-| Video | Plex |  Lifetime Plex Pass$89.99 w/ code `SURVIVETHESEASON` | 11/25 | [link](https://www.plex.tv/plex-pass/) |
+| Video | Plex |  Lifetime Plex Pass $89.99 w/ code `SURVIVETHESEASON` | 11/25 | [link](https://www.plex.tv/plex-pass/) |
 | Hardware | Samsung SSD | Samsung 2TB SSD for $199 | 11/25 | [link](https://www.amazon.com/gp/product/B0786QNSBD/) |
 | Misc | Misc | Lego Black Friday sale | 11/25 | [link](https://www.lego.com/en-us/page/black-friday-cyber-monday-toy-deals) |
 | Misc | Lights | Helios up to 30% off lighting | 11/25 | [link](https://heliostouch.com/collections/all) |
