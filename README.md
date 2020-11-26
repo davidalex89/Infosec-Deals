@@ -93,6 +93,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Category | Website | Details | As-of | Link |
 | -------- | ------- | ------- | ----- | ---- |
 | Clothing | Teespring (Infosec apparel and etc) | Free Shipping on $50+ | 11/23 | [link](https://teespring.com/shop/information-technology-information-security-tshirts) |
+| Clothing | Myhackertech (Infosec apparel) | `20BFCM` for 20% off | 11/25 | [link](https://myhackertech.myshopify.com/pages/black-friday-cyber-monday-2020-hoodies-t-shirts-sweatshirts-mugs-sneakers-stickers-online-hacking-courses-for-ethical-hackers-and-infosec) |
 | News | WSJ | $4/mo BF deal | 11/23 | [link](https://store.wsj.com/shop/us/us/wsjuelnsb20/)
 | OSINT Training | Theosintion.com | Bundle discounts | 11/23 | [link](https://blackfriday.theosintion.com) |
 | INE Training | Ine.com | 40% off Black Friday w/ code BF40 | 11/23 | [link](https://ine.com/pages/black-friday-2020) |
