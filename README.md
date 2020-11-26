@@ -52,6 +52,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Tools & Services | Particle.io | N/A | 11/25 | N/A |
 | | | | | |
 | Products | VMware.com | 30% off products | 11/25 | [link](https://store-us.vmware.com/blackfridaysale) |
+| Products | ESet.com | 40% off products | 11/25 | [link](https://www.eset.com/us/cyber-weekend-2020/) |
 | Products | Adobe.com | 25% off Creative Cloud until 11/27 | 11/23 | [link](https://www.adobe.com) |
 | Products | Coreldraw.com | BF $75 Off | 11/23 | [link](https://www.coreldraw.com/en/special-offers/?x-campaign=hsw) |
 | | | | | |
