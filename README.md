@@ -56,6 +56,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | PentesterAcademy.com | N/A | 11/23 | N/A |
 | Hackersacademy.com | N/A | 11/23 | N/A |
 | Hacker.house | N/A | 11/23 | N/A |
+| Silesiasecuritylab.com | 90% off course w/ code `BlackFriday2020` | 11/26 | [link](https://silesiasecuritylab.com/) |
 
 ## Tools & Services
 
@@ -94,6 +95,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Tile.com | Pre-Black Friday Sale - 30% off sticker 4-packs, etc. | 11/23 | [link](https://www.thetileapp.com/products?utm_medium=email&utm_source=salesforcemc&utm_campaign=holiday_prebf) |
 | Southord.com | N/A | 11/23 | N/A |
 | Thinkpeterson.com | N/A | 11/23 | N/A |
+| Maltronics.com | 20% off WiFi Keyloggers | 11/26 | [link](https://maltronics.com/collections/wifi-keyloggers) |
 
 ## Certifications
 
