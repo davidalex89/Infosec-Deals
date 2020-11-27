@@ -56,7 +56,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | PentesterAcademy.com | N/A | 11/23 | N/A |
 | Hackersacademy.com | N/A | 11/23 | N/A |
 | Hacker.house | N/A | 11/23 | N/A |
-| CyberWarFare Labs | | 75% discount on Red Team & Purple Team Adversary Simualtion Labs | | 50% Discount on Red Team Analyst Course | | 11/27 | | https://cyberwarfare.live |
+| CyberWarFare Labs | | 75% discount on Red Team & Purple Team Adversary Simualtion Labs & 50% Discount on Red Team Analyst Course | | 11/27 | | [link](https://cyberwarfare.live) |
 
 ## Tools & Services
 
