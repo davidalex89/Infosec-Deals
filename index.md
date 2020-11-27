@@ -4,7 +4,7 @@
 # Ongoing Infosec and Black Friday deals for 2020
 This started off as a Black Friday thing last year, but I'm going to try and keep this updated as a side-project.
 
-**Special thanks to [@Infosec_Taylor](https://twitter.com/Infosec_Taylor/), [0x90n](https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md), and [webyeti](https://www.webyeti.ninja/blog/hackerblkfri). **
+**Special thanks to [@Infosec_Taylor](https://twitter.com/Infosec_Taylor/), [0x90n](https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md), and [webyeti](https://www.webyeti.ninja/blog/hackerblkfri)**
 
 *Feel free to submit PRs directly to [main git page](https://github.com/instadoodledavid/Infosec-Deals-2020)*
 
