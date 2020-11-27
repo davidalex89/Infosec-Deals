@@ -15,7 +15,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Pragprog.com | Coupon `turkeysale2020` to save 40% | 11/23 | [link](http://media.pragprog.com/newsletters/2020-11-20.html) |
 | Apress.com | $6.99 ebooks w/ code `CYBER20AP` | 11/25 | [link](https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek18) |
 | HPB.com | 20% off w/ code `FRIDAY20` | 11/25 | [link](https://b.halfpricebooks.com/coupon/friday20/) |
-
+| AgileStationery.co.uk | 40% off when you buy 3+ | 11/26 | [link](https://agilestationery.co.uk/pages/games-catalogue) |
 
 ## Books
 
