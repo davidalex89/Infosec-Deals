@@ -45,6 +45,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Realpython.com | N/A | 11/23 | N/A |
 | GNS3.teachable.com | N/A | 11/26 | N/A |
 | Linuxfoundation.org | N/A | 11/23 | N/A |
+| cyberwarfare.live | 75% discount on Red Team & Purple Team Adversary Simulation Labs | 11/27 | [link](https://cyberwarfare.live/) |
 
 ## Pen Testing
 
