@@ -21,7 +21,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | HPB.com | 20% off w/ code `FRIDAY20` | 11/25 | [link](https://b.halfpricebooks.com/coupon/friday20/) | 
 
 ## Books
-| The Cyber Plumber's Handbook, Lab Guide, and Interactive Lab Access | $5 deal for all 3 | 11/26 | [link](https://gumroad.com/l/cph_book_and_lab/blackfriday2020) |
+| The Cyber Plumber's Handbook, Lab Guide, and Interactive Lab Access | $5 deal for all 3 | 11/26 | [link](https://gumroad.com/l/cph_book_and_lab/blackfriday2020/) |
 
 ## Elearning
 
