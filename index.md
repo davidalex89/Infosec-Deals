@@ -9,7 +9,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 *Feel free to submit PRs directly to [main git page](https://github.com/instadoodledavid/Infosec-Deals-2020)*
 
 
-## Books
+## Bookstores
 
 | Oreilly.com | N/A | 11/25 | N/A |
 | Nostarch.com | Code: `BLACKFRIDAY20` for 33.7% off plus free (domestic) or reduced (international) shipping on orders of $50+ | 11/25 | [link](https://nostarch.com) |
@@ -18,7 +18,10 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Manning.com | 40% off when you buy 2+ | 11/25 | [link](http://enews.manning.com/q/BCzcOWrDbWZg0HJCzpfti5TxJO1HTRxlizKJQDCbYLxAfmGQ0P0blTR-H) |
 | Pragprog.com | Coupon `turkeysale2020` to save 40% | 11/23 | [link](http://media.pragprog.com/newsletters/2020-11-20.html) |
 | Apress.com | $6.99 ebooks w/ code `CYBER20AP` | 11/25 | [link](https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek18) |
-| HPB.com | 20% off w/ code `FRIDAY20` | 11/25 | [link](https://b.halfpricebooks.com/coupon/friday20/) |
+| HPB.com | 20% off w/ code `FRIDAY20` | 11/25 | [link](https://b.halfpricebooks.com/coupon/friday20/) | 
+
+## Books
+| The Cyber Plumber's Handbook, Lab Guide, and Interactive Lab Access | $5 deal for all 3 | 11/26 | [link](https://gumroad.com/l/cph_book_and_lab/blackfriday2020) |
 
 ## Elearning
 
