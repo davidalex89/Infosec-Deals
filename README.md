@@ -99,6 +99,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
+| OSWE/AWAE | 999$ from 1400$ | N/A | [link]() |
 | ISACA | 15% off w/ code `CWPREP15` | 11/26 | [link](https://www.isaca.org/go/flash) |
 | CompTIA | N/A | 11/23 | N/A |
 | EC-Council | N/A | 11/26 | N/A |
