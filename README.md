@@ -41,7 +41,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Training.dronesec.com | 67% off online w/ 'DONOTSHAREBLACKFRI', 20% off trainer-led w/ 'BF20' | 11/26 | [link](https://training.dronesec.com/) |
 | Gitkraken.com | N/A | 11/23 | N/A |
 | Leetcode.com | N/A | 11/23 | N/A |
-| Networkdefense.io | N/A | 11/23 | N/A |
+| Networkdefense.io | Flat 20% off on all courses -- No coupon needed | 12/01 | https://www.networkdefense.io/library/ |
 | Realpython.com | N/A | 11/23 | N/A |
 | GNS3.teachable.com | N/A | 11/26 | N/A |
 | Linuxfoundation.org | N/A | 11/23 | N/A |
