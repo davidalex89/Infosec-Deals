@@ -162,7 +162,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| Cybersecurity Market Insights (Gumroad.com) | 15% Off | 11/27 | [link](https://gumroad.com/l/security-insights-pro)
+| Cybersecurity Market Insights (Gumroad.com) | `security15off` for 15% off | 11/27 | [link](https://gumroad.com/l/security-insights-pro)
 
 **Thank you to these contributors sending PRs:**
 *Snyff (pentesterlab)*
