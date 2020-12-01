@@ -158,6 +158,12 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Misc | Misc | Lego Black Friday sale | 11/25 | [link](https://www.lego.com/en-us/page/black-friday-cyber-monday-toy-deals) |
 | Misc | Lights | Helios up to 30% off lighting | 11/25 | [link](https://heliostouch.com/collections/all) |
 
+## Newsletters
+
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
+| Cybersecurity Market Insights (Gumroad.com) | 15% Off | 11/27 | [link](https://gumroad.com/l/security-insights-pro)
+
 **Thank you to these contributors sending PRs:**
 *Snyff (pentesterlab)*
 *Danzek (NoStarch)*
