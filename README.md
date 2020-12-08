@@ -22,6 +22,7 @@ This started off as a Black Friday thing last year, but I'm going to try and kee
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
 | The Cyber Plumber's Handbook, Lab Guide, and Interactive Lab Access | $5 deal for all 3 | 11/26 | [link](https://gumroad.com/l/cph_book_and_lab/blackfriday2020) |
+| Elevation of Privilege and Cornucopia card games at Agile Stationery `INFOSEC30` | 30% off 3 or more decks | 12/08 | [link](https://agilestationery.co.uk/discount/INFOSEC30?redirect=%2Fpages%2Fgames-catalogue) |
 
 ## Elearning
 
