@@ -32,7 +32,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 | Udemy.com | $9.99 courses  | 11/20 | [link](https://www.udemy.com) |
 | Cybrary.it | $239 annual (70% off) | 11/20 | [link](https://www.cybrary.it/upgrade/?www=nav) |
 | Pluralsight.com | Free weekend until 11/21 | 11/20 | [link](https://www.pluralsight.com/offer/2021/q4-free-weekend) |
-| Educative.io | N/A | 11/20 | [N/A |
+| Educative.io | N/A | 11/20 | N/A |
 | Cloudacademy.com | Save $170 on annual | 11/20 | [link](https://cloudacademy.com/promos/black-friday/) |
 | Training.dronesec.com | 67% off online | 11/20 | [link](https://training.dronesec.com/p/black-friday-2021) |
 
@@ -166,7 +166,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 | Misc Gear | Boing boing | Deals + 30% off w/ APPS30 | 11/20 | [link](https://store.boingboing.net/collections/november-doorbusters) |
 
 
-**Thank you to these contributors:**
+**Thank you to these prior contributors:**
 - Special thanks to [@Infosec_Taylor](https://twitter.com/Infosec_Taylor/), [0x90n](https://github.com/0x90n/InfoSec-Black-Friday/blob/master/README.md), and [webyeti](https://www.webyeti.ninja/blog/hackerblkfri).
 - *Snyff (pentesterlab)*
 - *Danzek (NoStarch)*
