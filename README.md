@@ -9,7 +9,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 | Oreilly.com | N/A | 11/20 | N/A |
 | Nostarch.com | N/A | 11/20 | N/A |
 | Humblebundle.com | $99 Humble Choice Premium w/ code HOLIDAY21 | 11/20 | [link](https://www.humblebundle.com) |
-| Packtpub.com | N/A | 11/20 | [N/A |
+| Packtpub.com | N/A | 11/20 | N/A |
 | Manning.com | Pre-holiday $24/$29 sale | 11/20 | [link](https://deals.manning.com/24-99-ebooks-and-29-99-print-books/) |
 | Pragprog.com | Coupon `turkeysale2021` to save 40% | 11/20 | [link](https://pragprog.com) |
 | Apress.com | N/A | 11/20 | N/A |
