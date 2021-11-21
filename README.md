@@ -1,4 +1,4 @@
-# Ongoing Infosec and Black Friday deals for 2020
+# Ongoing Infosec and Black Friday deals for 2021
 Started doing this a few years ago for Black Friday discounts for Security professionals and developers.
 
 
