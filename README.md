@@ -1,4 +1,4 @@
-# Ongoing Infosec and Black Friday deals for 2020
+# Ongoing Infosec and Black Friday deals for 2021
 Started doing this a few years ago for Black Friday discounts for Security professionals and developers.
 
 
@@ -22,7 +22,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 | ------- | ------- | ----- | ---- |
 | The Cyber Plumber's Handbook, Lab Guide, and Interactive Lab Access | $5 deal for all 3 | 11/20 | [link](https://gumroad.com/l/cph_book_and_lab/blackfriday2020) |
 
-## Elearning
+## Infosec Elearning
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
@@ -30,29 +30,29 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 | Offensive-security.com |  SOC-200 & WEB-200 $1999 | 11/20 | [link](https://www.offensive-security.com/learn/) |
 | Secureninja.com | Early BOGO sale | 11/20 | [link](https://secureninja.com) |
 | Udemy.com | $9.99 courses  | 11/20 | [link](https://www.udemy.com) |
-| Pearsonitcertification.com | N/A | 11/20 | N/A |
 | Cybrary.it | $239 annual (70% off) | 11/20 | [link](https://www.cybrary.it/upgrade/?www=nav) |
 | Pluralsight.com | Free weekend until 11/21 | 11/20 | [link](https://www.pluralsight.com/offer/2021/q4-free-weekend) |
-| Whizlabs.com | N/A | 11/20 | N/A |
-| Reactforbeginners.com | All Courses 50% off | 11/20 | [link](https://reactforbeginners.com/) |
 | Educative.io | N/A | 11/20 | [N/A |
 | Cloudacademy.com | Save $170 on annual | 11/20 | [link](https://cloudacademy.com/promos/black-friday/) |
 | Training.dronesec.com | 67% off online | 11/20 | [link](https://training.dronesec.com/p/black-friday-2021) |
+
+## Coding & Development
+
 | Coursera | N/A | 11/20 | N/A |
 | Gitkraken.com | N/A | 11/20 | N/A |
 | Leetcode.com | N/A | 11/20 | N/A |
-| Networkdefense.io | N/A | 11/20 | N/A |
+| Networkdefense.io | 20% off (no code needed) | 11/20 | [link](https://networkdefense.io) |
 | Realpython.com | N/A | 11/20 | N/A |
 | GNS3.teachable.com | N/A | 11/20 | N/A |
 | Linuxfoundation.org | N/A | 11/20 | N/A |
+| Reactforbeginners.com | All Courses 50% off | 11/20 | [link](https://reactforbeginners.com/) |
 
 ## Pen Testing
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| Pentesterlab.com | N/A | 11/20 | N/A |
+| Portswigger | Burp Suite Cert $9 | 11/20 | [link](https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday) |
 | Fortynorthsecurity.com | N/A | 11/20 | N/A |
-| PentesterAcademy.com | N/A | 11/20 | N/A |
 | Hackersacademy.com | N/A | 11/20 | N/A |
 | Hacker.house | N/A | 11/20 | N/A |
 
@@ -66,14 +66,25 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 | Shodanhq.com | N/A | 11/20 | N/A |
 | Bitdefender.com | 61-70% off (% vary by link) | 11/20 | [link](https://www.bitdefender.com/media/html/consumer/new/2020/cl-offer1-opt/last-offer-Black-Friday.html) |
 | Hitmanpro.com | N/A | 11/20 | N/A |
-| Heimdalsecurity.com | N/A | 11/20 | [N/A |
+| Heimdalsecurity.com | 60% off | 11/20 | [link](https://pages.heimdalsecurity.com/en/affpromo/) |
 | Lowendbox.com | Offers starting 11/24 | 11/20 | [link](https://lowendbox.com/blog/what-is-black-friday/) |
 | Tenable.io | N/A | 11/20 | N/A |
 | Binaryedge.io | N/A | 11/20 | N/A |
 | 1password.com | N/A | 11/20 | N/A |
 | Bitwarden.com | N/A | 11/20 | N/A |
 | Particle.io | N/A | 11/20 | N/A |
+| Securestack | 30% off w/ BLACKFRIDAY21 | 11/20 | [link](https://securestack.com/black-friday-sale/) |
 | Charlesproxy.com | N/A | 11/20 | N/A |
+
+## Virtual Labs
+
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
+| Pentesterlab.com | $146.52 instead of $199 (not yet live) | 11/20 | [link](https://pentesterlab.com/) |
+| Tryhackme | AOC Sale: 20% annual w/ AOC2021 | 11/20 | [link](https://tryhackme.com/christmas) |
+| PentesterAcademy.com | N/A | 11/20 | N/A |
+| Whizlabs.com | N/A | 11/20 | N/A |
+
 
 ## Products
 
@@ -109,6 +120,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
 | Kaplan.com | N/A | 11/20 | N/A |
+| Pearsonitcertification.com | N/A | 11/20 | N/A |
 
 ## Email
 
@@ -151,6 +163,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 | News | WSJ | $4/mo BF deal | 11/20 | [link](https://store.wsj.com/shop/us/us/wsjusbfcm22nd/) |
 | INE Training | Ine.com | 40% off Black Friday w/ code BF40 | 11/20 | [link](https://ine.com/pages/black-friday-2020) |
 | Celestron Telescope | cloudbreakoptics.com | N/A | 11/20 | N/A |
+| Misc Gear | Boing boing | Deals + 30% off w/ APPS30 | 11/20 | [link](https://store.boingboing.net/collections/november-doorbusters) |
 
 
 **Thank you to these contributors:**
