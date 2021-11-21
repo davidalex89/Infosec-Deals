@@ -38,6 +38,8 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 
 ## Coding & Development
 
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
 | Coursera | N/A | 11/20 | N/A |
 | Gitkraken.com | N/A | 11/20 | N/A |
 | Leetcode.com | N/A | 11/20 | N/A |
