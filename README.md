@@ -50,7 +50,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| Pentesterlab.com | 2x13.37% off  | 11/20 | N/A |
+| Pentesterlab.com | N/A | 11/20 | N/A |
 | Fortynorthsecurity.com | N/A | 11/20 | N/A |
 | PentesterAcademy.com | N/A | 11/20 | N/A |
 | Hackersacademy.com | N/A | 11/20 | N/A |
