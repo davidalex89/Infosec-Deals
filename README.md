@@ -26,12 +26,12 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
+| Pluralsight.com | 40% off ($179/269 yr) | 11/22 | [link](https://www.pluralsight.com/offer/2021/bf-cm-40-off) |
 | Practical-devsecops.com | 15% Off! | 11/20 | [link](https://www.practical-devsecops.com/black-friday/) |
 | Offensive-security.com |  SOC-200 & WEB-200 $1999 | 11/20 | [link](https://www.offensive-security.com/learn/) |
 | Secureninja.com | Early BOGO sale | 11/20 | [link](https://secureninja.com) |
 | Udemy.com | $9.99 courses  | 11/20 | [link](https://www.udemy.com) |
 | Cybrary.it | $239 annual (70% off) | 11/20 | [link](https://www.cybrary.it/upgrade/?www=nav) |
-| Pluralsight.com | Free weekend until 11/21 | 11/20 | [link](https://www.pluralsight.com/offer/2021/q4-free-weekend) |
 | Educative.io | N/A | 11/20 | N/A |
 | Cloudacademy.com | Save $170 on annual | 11/20 | [link](https://cloudacademy.com/promos/black-friday/) |
 | Training.dronesec.com | 67% off online | 11/20 | [link](https://training.dronesec.com/p/black-friday-2021) |
@@ -40,7 +40,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| Coursera | N/A | 11/20 | N/A |
+| Coursera.org | N/A | 11/20 | N/A |
 | Gitkraken.com | N/A | 11/20 | N/A |
 | Leetcode.com | N/A | 11/20 | N/A |
 | Networkdefense.io | 20% off (no code needed) | 11/20 | [link](https://networkdefense.io) |
