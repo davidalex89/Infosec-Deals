@@ -8,7 +8,7 @@ No affiliate codes or anything, just good deals I've found.
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
 | Oreilly.com | N/A | 11/24 | N/A |
-| Nostarch.com | N/A | 11/24 | N/A |
+| Nostarch.com | 35% off sale + free shipping w/ BLACKFRIDAY35 | 11/24 | [link](https://nostarch.com) |
 | Humblebundle.com | $99 Humble Choice Premium w/ code HOLIDAY21 | 11/20 | [link](https://www.humblebundle.com) |
 | Packtpub.com | N/A | 11/24 | N/A |
 | Manning.com | Pre-holiday $24/$29 sale | 11/20 | [link](https://deals.manning.com/24-99-ebooks-and-29-99-print-books/) |
