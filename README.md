@@ -1,26 +1,20 @@
 # Ongoing Infosec and Black Friday deals for 2021
 Started doing this a few years ago for Black Friday discounts for Security professionals and developers.
+No affiliate codes or anything, just good deals I've found.
 
 
 ## Bookstores
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| Oreilly.com | N/A | 11/20 | N/A |
-| Nostarch.com | N/A | 11/20 | N/A |
+| Oreilly.com | N/A | 11/24 | N/A |
+| Nostarch.com | N/A | 11/24 | N/A |
 | Humblebundle.com | $99 Humble Choice Premium w/ code HOLIDAY21 | 11/20 | [link](https://www.humblebundle.com) |
-| Packtpub.com | N/A | 11/20 | N/A |
+| Packtpub.com | N/A | 11/24 | N/A |
 | Manning.com | Pre-holiday $24/$29 sale | 11/20 | [link](https://deals.manning.com/24-99-ebooks-and-29-99-print-books/) |
 | Pragprog.com | Coupon `turkeysale2021` to save 40% | 11/20 | [link](https://pragprog.com) |
-| Apress.com | N/A | 11/20 | N/A |
-| HPB.com | N/A` | 11/20 | N/A |
-
-
-## Books
-
-| Website | Details | As-of | Link |
-| ------- | ------- | ----- | ---- |
-| The Cyber Plumber's Handbook, Lab Guide, and Interactive Lab Access | $5 deal for all 3 | 11/20 | [link](https://gumroad.com/l/cph_book_and_lab/blackfriday2020) |
+| Apress.com | N/A | 11/24 | N/A |
+| HPB.com | N/A` | 11/24 | N/A |
 
 ## Infosec Elearning
 
@@ -32,7 +26,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 | Secureninja.com | Early BOGO sale | 11/20 | [link](https://secureninja.com) |
 | Udemy.com | $9.99 courses  | 11/20 | [link](https://www.udemy.com) |
 | Cybrary.it | $239 annual (70% off) | 11/20 | [link](https://www.cybrary.it/upgrade/?www=nav) |
-| Educative.io | N/A | 11/20 | N/A |
+| Educative.io | 16% holiday discount on 2-year plan | 11/24 | [link](https://www.educative.io/unlimited) |
 | Cloudacademy.com | Save $170 on annual | 11/20 | [link](https://cloudacademy.com/promos/black-friday/) |
 | Training.dronesec.com | 67% off online | 11/20 | [link](https://training.dronesec.com/p/black-friday-2021) |
 
@@ -62,7 +56,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| Pulsedive | Coming 11/24 | 11/20 | [link](https://twitter.com/pulsedive) |
+| Pulsedive | 50% off pro/api w/ BLACKFRIDAY21 | 11/24 | [link](https://blog.pulsedive.com/black-friday-2021/) |
 | Detectify | N/A | 11/20 | N/A |
 | hex-rays.com | N/A | 11/20 | N/A |
 | Shodanhq.com | N/A | 11/20 | N/A |
@@ -72,20 +66,27 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 | Lowendbox.com | Offers starting 11/24 | 11/20 | [link](https://lowendbox.com/blog/what-is-black-friday/) |
 | Tenable.io | N/A | 11/20 | N/A |
 | Binaryedge.io | N/A | 11/20 | N/A |
-| 1password.com | N/A | 11/20 | N/A |
-| Bitwarden.com | N/A | 11/20 | N/A |
 | Particle.io | N/A | 11/20 | N/A |
 | Securestack | 30% off w/ BLACKFRIDAY21 | 11/20 | [link](https://securestack.com/black-friday-sale/) |
 | Charlesproxy.com | N/A | 11/20 | N/A |
+| Parallels | 20% off Parallels Desktop | 11/24 | [link](https://www.parallels.com/products/desktop/buy/) |
+
+## Password Managers
+
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
+| 1password.com | N/A | 11/24 | N/A |
+| Bitwarden.com | N/A | 11/24 | N/A |
+| Lastpass.com | 25% off | 11/24 | [link](https://www.lastpass.com/plans-and-pricing) |
 
 ## Virtual Labs
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| Pentesterlab.com | $146.52 instead of $199 (not yet live) | 11/20 | [link](https://pentesterlab.com/) |
-| Tryhackme | AOC Sale: 20% annual w/ AOC2021 | 11/20 | [link](https://tryhackme.com/christmas) |
+| Pentesterlab.com | $146.52 instead of $199 (not yet live) 1-yr | 11/24 | [link](https://pentesterlab.com/) |
+| Tryhackme | AOC Sale: 20% annual w/ AOC2021 | 11/24 | [link](https://tryhackme.com/christmas) |
 | PentesterAcademy.com | N/A | 11/20 | N/A |
-| Whizlabs.com | N/A | 11/20 | N/A |
+| Whizlabs.com | 60% off courses or 35% on premium w/ code BLACK9FRIDAY | 11/24 | [link](https://www.whizlabs.com/pricing/eyJpdiI6IityWkh3dVNIQkswOGd5cFhrUmR2MHc9PSIsInZhbHVlIjoiRHBNMzQybnU5aVdCOUFhMkRGdnJNZz09IiwibWFjIjoiOWMwMjFmNDQ4NTY5NThkYzhkNWQ3YjBjODc4OGIzY2Q2YWI0MzVhNzhkODk1MjBjZDdhYzY3NWRiMzhhNTMwYyJ9) |
 
 
 ## Products
@@ -144,7 +145,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 | ------- | ------- | ----- | ---- |
 | Carrd.co | N/A | 11/20 | N/A |
 | Ghost.org | N/A | 11/20 | N/A |
-| Namecheap.com | Starts 11/23 | 11/20 | [link](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) |
+| Namecheap.com | Up to 97% off w/ BFCMTLD21 | 11/24 | [link](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) |
 
 ## Robotics & Electronics
 
