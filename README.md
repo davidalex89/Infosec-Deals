@@ -13,7 +13,7 @@ No affiliate codes or anything, just good deals I've found.
 | Manning.com | Pre-holiday $24/$29 sale & 45% off | 11/20 | [link](https://deals.manning.com/24-99-ebooks-and-29-99-print-books/) |
 | Pragprog.com | Coupon `turkeysale2021` to save 40% | 11/20 | [link](https://pragprog.com) |
 | Apress.com | N/A | 11/25 | N/A |
-| HPB.com | N/A` | 11/24 | N/A |
+| HPB.com | N/A | 11/24 | N/A |
 | Packtpub.com | N/A | 11/25 | N/A |
 
 ## Infosec Elearning
