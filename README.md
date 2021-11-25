@@ -56,7 +56,7 @@ No affiliate codes or anything, just good deals I've found.
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| Pulsedive | 50% off pro/api w/ BLACKFRIDAY21 | 11/24 | [link](https://blog.pulsedive.com/black-friday-2021/) |
+| Pulsedive | 50% off pro/api w/ BLACKFRIDAY21 | 11/25 | [link](https://pulsedive.com/purchase/?code=BLACKFRIDAY21) |
 | Detectify | N/A | 11/20 | N/A |
 | hex-rays.com | N/A | 11/20 | N/A |
 | Shodanhq.com | N/A | 11/20 | N/A |
