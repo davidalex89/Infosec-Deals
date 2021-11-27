@@ -12,7 +12,7 @@ No affiliate codes or anything, just good deals I've found.
 | Humblebundle.com | $99 Humble Choice Premium w/ code HOLIDAY21 | 11/20 | [link](https://www.humblebundle.com) |
 | Manning.com | Pre-holiday $24/$29 sale & 45% off | 11/20 | [link](https://deals.manning.com/24-99-ebooks-and-29-99-print-books/) |
 | Pragprog.com | Coupon `turkeysale2021` to save 40% | 11/20 | [link](https://pragprog.com) |
-| Apress.com | N/A | 11/25 | N/A |
+| Apress.com | $6.99-$9.99 ebooks | 11/26 | [link](https://www.apress.com/us/shop/cybermonday-sale) |
 | HPB.com | N/A | 11/24 | N/A |
 | Packtpub.com | Get 5 months access for $5.00 per month | 11/26 | [link](https://www.packtpub.com/checkout/subscription/packt-monthly-five-month-offer) |
 
@@ -111,6 +111,7 @@ No affiliate codes or anything, just good deals I've found.
 | Southord.com | N/A | 11/25 | N/A |
 | Thinkpeterson.com | N/A | 11/25 | N/A |
 | Hak5.org | N/A | 11/25 | N/A |
+| hackin9.org | Up to 50% off | 11/26 | [link](https://hakin9.org/shop/) |
 
 ## Certifications
 
