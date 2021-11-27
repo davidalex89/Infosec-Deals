@@ -14,7 +14,7 @@ No affiliate codes or anything, just good deals I've found.
 | Pragprog.com | Coupon `turkeysale2021` to save 40% | 11/20 | [link](https://pragprog.com) |
 | Apress.com | N/A | 11/25 | N/A |
 | HPB.com | N/A | 11/24 | N/A |
-| Packtpub.com | N/A | 11/25 | N/A |
+| Packtpub.com | Get 5 months access for $5.00 per month | 11/26 | [link](https://www.packtpub.com/checkout/subscription/packt-monthly-five-month-offer) |
 
 ## Infosec Elearning
 
@@ -30,6 +30,7 @@ No affiliate codes or anything, just good deals I've found.
 | Cloudacademy.com | Save $170 on annual | 11/20 | [link](https://cloudacademy.com/promos/black-friday/) |
 | Training.dronesec.com | 67% off online | 11/20 | [link](https://training.dronesec.com/p/black-friday-2021) |
 | tcm-sec.com (Cyber Mentor) | 50% off courses | 11/24 | [link](https://academy.tcm-sec.com/) |
+| Codeacademy | 50% off pro w/ code CYBER21 | 11/26 | [link](https://www.codecademy.com) |
 
 ## Coding & Development
 
@@ -67,9 +68,9 @@ No affiliate codes or anything, just good deals I've found.
 | Securestack | 30% off w/ BLACKFRIDAY21 | 11/20 | [link](https://securestack.com/black-friday-sale/) |
 | Parallels | 20% off Parallels Desktop | 11/24 | [link](https://www.parallels.com/products/desktop/buy/) |
 | Detectify | N/A | 11/25 | N/A |
-| hex-rays.com | N/A | 11/20 | N/A |
+| hex-rays.com | 10% on IDA Pro & 25% on IDA Home | 11/26 | https://hex-rays.com/cgi-bin/quote.cgi/login |
 | Shodanhq.com | No BF deal this year | 11/25 | N/A |
-| Binaryedge.io | N/A | 11/20 | N/A |
+| Binaryedge.io | N/A | 11/26 | N/A |
 | Particle.io | N/A | 11/20 | N/A |
 | Charlesproxy.com | N/A | 11/20 | N/A |
 
@@ -88,7 +89,7 @@ No affiliate codes or anything, just good deals I've found.
 | Pentesterlab.com | $146.52 instead of $199 (not yet live) 1-yr | 11/24 | [link](https://pentesterlab.com/) |
 | Tryhackme | AOC Sale: 20% annual w/ AOC2021 | 11/24 | [link](https://tryhackme.com/christmas) |
 | Whizlabs.com | 60% off courses or 35% on premium w/ code BLACK9FRIDAY | 11/24 | [link](https://www.whizlabs.com/pricing/eyJpdiI6IityWkh3dVNIQkswOGd5cFhrUmR2MHc9PSIsInZhbHVlIjoiRHBNMzQybnU5aVdCOUFhMkRGdnJNZz09IiwibWFjIjoiOWMwMjFmNDQ4NTY5NThkYzhkNWQ3YjBjODc4OGIzY2Q2YWI0MzVhNzhkODk1MjBjZDdhYzY3NWRiMzhhNTMwYyJ9) |
-| PentesterAcademy.com | N/A | 11/20 | N/A |
+| PentesterAcademy.com | Save $600 on 2 years INE, or annual at 70% off | 11/26 | [link](https://www.pentesteracademy.com/pricing?utm_source=twitter&utm_medium=social&utm_campaign=blackfriday_promo) |
 
 
 ## Products
@@ -155,7 +156,7 @@ No affiliate codes or anything, just good deals I've found.
 | ------- | ------- | ----- | ---- |
 | Robotshop.com | Up to 50% off | 11/20 | [link](https://www.robotshop.com/en/black-friday-cyber-monday.html) |
 | Pololu.com | 10-30% off large orders w/ BF21DISC (10%/$100), BF21DISC20 ($20/$200, BF21DISC30 (30%/$300) | 11/25 | [link](https://www.pololu.com/blackfriday2021) |
-| Hackerboxes.com | N/A | 11/25 | N/A |
+| Hackerboxes.com | $189 workshop bundle | 11/26 | [link](https://hackerboxes.com/collections/workshops) |
 | Seeedstudio.com | N/A | 11/20 | N/A |
 | Ledger.com | N/A | 11/20 | N/A |
 
