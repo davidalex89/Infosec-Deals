@@ -58,6 +58,20 @@ No affiliate codes or anything, just good deals I've found.
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
+| Pulsedive (Threat intel) | Coupon `TRYFOR5` to get Pro for $5 for 1 month | 11/25 | [link](https://pulsedive.com/pro) |
+| hex-rays.com | 25% off IDA Home | 11/27 | [link](https://www.hex-rays.com/order/) |
+| Shodanhq.com | No BF sale this year :( | 11/25 | N/A |
+| Bitdefender.com | $35-$55 off | 11/23 | [link](https://www.bitdefender.com/media/html/consumer/new/2020/cl-offer-Black-Friday-2020-opt/) | 
+| Hitmanpro.com | BOG2 | 11/23 | [link](https://shop.hitmanpro.com/747/uurl-bvzhur942h) |
+| Heimdalsecurity.com | 75% off Thor | 11/25 | [link](https://heimdalsecurity.com/en/buy/register/thor-premium?voucher=bf75web) |
+| Lowendbox.com | Offers starting 11/26, Friday deals every 2 hours | 11/25 | [link](https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/) |
+| Tenable.io | 50% off Pro w/ code `takehalf` | 11/26 | [link](https://www.tenable.com/buy)
+| Binaryedge.io | N/A | 11/23 | N/A |
+| 1password.com | N/A | 11/23 | N/A |
+| Bitwarden.com | N/A | 11/23 | N/A |
+| Particle.io | N/A | 11/25 | N/A |
+| Charlesproxy.com | N/A | 11/23 | N/A |
+| Detectify | 20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.| 11/26 | [link](https://detectify.com/lp/black-friday-professional-plan-offer) |
 | Pulsedive | 50% off pro/api w/ BLACKFRIDAY21 | 11/25 | [link](https://pulsedive.com/purchase/?code=BLACKFRIDAY21) |
 | Wizer security training | 25% off w/ BLACKFRIDAY25 | 11/25 | [link](https://www.wizer-training.com/pricing?utm_content=promo) |
 | Bitdefender.com | 61-70% off (% vary by link) | 11/20 | [link](https://www.bitdefender.com/media/html/consumer/new/2020/cl-offer1-opt/last-offer-Black-Friday.html) |
@@ -90,7 +104,6 @@ No affiliate codes or anything, just good deals I've found.
 | Tryhackme | AOC Sale: 20% annual w/ AOC2021 | 11/24 | [link](https://tryhackme.com/christmas) |
 | Whizlabs.com | 60% off courses or 35% on premium w/ code BLACK9FRIDAY | 11/24 | [link](https://www.whizlabs.com/pricing/eyJpdiI6IityWkh3dVNIQkswOGd5cFhrUmR2MHc9PSIsInZhbHVlIjoiRHBNMzQybnU5aVdCOUFhMkRGdnJNZz09IiwibWFjIjoiOWMwMjFmNDQ4NTY5NThkYzhkNWQ3YjBjODc4OGIzY2Q2YWI0MzVhNzhkODk1MjBjZDdhYzY3NWRiMzhhNTMwYyJ9) |
 | PentesterAcademy.com | Save $600 on 2 years INE, or annual at 70% off | 11/26 | [link](https://www.pentesteracademy.com/pricing?utm_source=twitter&utm_medium=social&utm_campaign=blackfriday_promo) |
-
 
 ## Products
 
