@@ -87,6 +87,12 @@ No affiliate codes or anything, just good deals I've found.
 | Binaryedge.io | N/A | 11/26 | N/A |
 | Particle.io | N/A | 11/20 | N/A |
 | Charlesproxy.com | N/A | 11/20 | N/A |
+|  010 Editor | 30% off | 11/26 | https://www.sweetscape.com/store/ |
+|  Kon-Boot | 25% off | 11/26 | https://kon-boot.com/?NOVEMBER=1 |
+|  Fing | 65% off | 11/26 | https://app.fing.com/internet/account/subscribe |
+|  Proxyman | 40% off | 11/26 | https://proxyman.io/pricing |
+
+
 
 ## Password Managers
 
@@ -124,6 +130,7 @@ No affiliate codes or anything, just good deals I've found.
 | Southord.com | N/A | 11/25 | N/A |
 | Thinkpeterson.com | N/A | 11/25 | N/A |
 | Hak5.org | N/A | 11/25 | N/A |
+| Maltronics.com | 10-25% | 11/20 | https://maltronics.com/collections/ |
 | hackin9.org | Up to 50% off | 11/26 | [link](https://hakin9.org/shop/) |
 
 ## Certifications
@@ -173,6 +180,7 @@ No affiliate codes or anything, just good deals I've found.
 | Hackerboxes.com | $189 workshop bundle | 11/26 | [link](https://hackerboxes.com/collections/workshops) |
 | Seeedstudio.com | N/A | 11/20 | N/A |
 | Ledger.com | N/A | 11/20 | N/A |
+
 
 ## Special cool stuff:
 
