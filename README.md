@@ -20,12 +20,13 @@ No affiliate codes or anything, just good deals I've found.
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-
 | The Cyber Plumber's Handbook, Lab Guide, and Interactive Lab Access | $5 deal for all 3 | 11/26 | [link](https://gumroad.com/l/cph_book_and_lab/blackfriday2020) |
 | Elevation of Privilege and Cornucopia card games at Agile Stationery `INFOSEC30` | 30% off 3 or more decks | 12/08 | [link](https://agilestationery.co.uk/discount/INFOSEC30?redirect=%2Fpages%2Fgames-catalogue) |
 
 ## Elearning
 
+| Website | Details | As-of | Link |
+| ------- | ------- | ----- | ---- |
 | Pluralsight.com | 40% off ($179/269 yr) | 11/22 | [link](https://www.pluralsight.com/offer/2021/bf-cm-40-off) |
 | Practical-devsecops.com | 15% Off! | 11/20 | [link](https://www.practical-devsecops.com/black-friday/) |
 | Offensive-security.com |  SOC-200 & WEB-200 $1999 | 11/20 | [link](https://www.offensive-security.com/learn/) |
