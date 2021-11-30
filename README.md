@@ -21,7 +21,7 @@ No affiliate codes or anything, just good deals I've found.
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
 | The Cyber Plumber's Handbook, Lab Guide, and Interactive Lab Access | $5 deal for all 3 | 11/26 | [link](https://gumroad.com/l/cph_book_and_lab/blackfriday2020) |
-| Elevation of Privilege and Cornucopia card games at Agile Stationery `INFOSEC30` | 30% off 3 or more decks | 12/08 | [link](https://agilestationery.co.uk/discount/INFOSEC30?redirect=%2Fpages%2Fgames-catalogue) |
+| Elevation of Privilege and Cornucopia card games at Agile Stationery | 20% off | 11/29 | [link](https://agilestationery.co.uk/discount/INFOSEC30?redirect=%2Fpages%2Fgames-catalogue) |
 
 ## Elearning
 
@@ -37,7 +37,7 @@ No affiliate codes or anything, just good deals I've found.
 | Cloudacademy.com | Save $170 on annual ($249/year) | 11/26 | [link](https://cloudacademy.com/promos/black-friday/) |
 | Training.dronesec.com | 67% off online | 11/20 | [link](https://training.dronesec.com/p/black-friday-2021) |
 | tcm-sec.com (Cyber Mentor) | 50% off courses | 11/24 | [link](https://academy.tcm-sec.com/) |
-| ITPro.TV | 50% off annual | 11/25 | [link](https://www.itpro.tv/plans/personal/) |
+| ITPro.TV | 50% off annual w/ 2021CYBERSALE | 11/29 | [link](https://www.itpro.tv/plans/personal/) |
 | Codeacademy | 50% off pro w/ code CYBER21 | 11/26 | [link](https://www.codecademy.com) |
 
 
