@@ -30,7 +30,9 @@ No affiliate codes or anything, just good deals I've found.
 | Cloudacademy.com | Save $170 on annual ($249/year) | 11/26 | [link](https://cloudacademy.com/promos/black-friday/) |
 | Training.dronesec.com | 67% off online | 11/20 | [link](https://training.dronesec.com/p/black-friday-2021) |
 | tcm-sec.com (Cyber Mentor) | 50% off courses | 11/24 | [link](https://academy.tcm-sec.com/) |
+| ITPro.TV | 50% off annual | 11/25 | [link](https://www.itpro.tv/plans/personal/) |
 | Codeacademy | 50% off pro w/ code CYBER21 | 11/26 | [link](https://www.codecademy.com) |
+
 
 ## Coding & Development
 
