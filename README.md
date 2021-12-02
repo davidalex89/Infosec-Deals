@@ -91,7 +91,6 @@ No affiliate codes or anything, just good deals I've found.
 | Tenable.io | 50% off pro | 11/25 | [link](https://www.tenable.com/buy) |
 | Securestack | 30% off w/ BLACKFRIDAY21 | 11/20 | [link](https://securestack.com/black-friday-sale/) |
 | Parallels | 20% off Parallels Desktop | 11/24 | [link](https://www.parallels.com/products/desktop/buy/) |
-| Detectify | N/A | 11/25 | N/A |
 | hex-rays.com | 10% on IDA Pro & 25% on IDA Home | 11/26 | https://hex-rays.com/cgi-bin/quote.cgi/login |
 | Shodanhq.com | No BF deal this year | 11/25 | N/A |
 | Binaryedge.io | N/A | 11/26 | N/A |
