@@ -1,3 +1,5 @@
+# Looking for 2022 deals? https://github.com/instadoodledavid/Infosec-Deals-2022
+
 # Ongoing Infosec and Black Friday deals for 2021
 Started doing this a few years ago for Black Friday discounts for Security professionals and developers.
 No affiliate codes or anything, just good deals I've found.
