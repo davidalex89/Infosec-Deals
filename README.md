@@ -128,7 +128,6 @@ No affiliate codes or anything, just good deals I've found.
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
 | Protonmail.com | 40% off | 11/24 | [link](https://proton.me/mail/black-friday?ref=bf_22_mail_new-banner) |
-| Tutanota.com | N/A | 11/24 | N/A |
 
 ## Gear
 
