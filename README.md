@@ -20,6 +20,7 @@ No affiliate codes or anything, just good deals I've found.
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
 | Agilestationery.com | Cybersecurity Games and Tools 15-30% off | 11/24 | [link](https://agilestationery.com/pages/cybersecurity-games-and-tools) |
+| Appsecengineer | THANKSGIVING22 for 25% off pro | 11/27 | [link](https://www.appsecengineer.com/main-menu-pages/pricing) |
 
 ## Elearning
 
@@ -38,7 +39,6 @@ No affiliate codes or anything, just good deals I've found.
 | Codeacademy.com | 50% off Pro annual membership w/ CYBER22 | 11/24 | [link](https://www.codecademy.com) |
 
 ## Coding & Development
-
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
@@ -112,9 +112,6 @@ No affiliate codes or anything, just good deals I've found.
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
 | ISACA | 10% off w/ PRODEXAM10 | 11/27 | [link](https://www.isaca.org/campaigns/cisa-cism-exam-discount) |
-| CompTIA | N/A | 11/24 | N/A |
-| EC-Council | N/A | 11/24 | N/A |
-| ITGovernance.co.uk | N/A | 11/24 | N/A |
 
 ## Education
 
