@@ -13,10 +13,7 @@ No affiliate codes or anything, just good deals I've found.
 | Pragprog.com | Save 40% at Checkout with Code "turkeysale2022" | 11/24 | [link](https://pragprog.com) |
 | eForensics Magazine | 50% off | 11/25 | [link](https://eforensicsmag.com/shop-new/) |
 | Microsoft Press Store | 40-55% off w/ BOOKSGIVING | 11/25 | [link](https://www.microsoftpressstore.com/promotions/happy-booksgiving-buy-2-save-55-on-books-and-ebooks-142354) |
-| Oreilly.com | N/A | 11/25 | N/A |
-| Apress.com | N/A | 11/25 | N/A |
-| HPB.com | N/A | 11/25 | N/A |
-| Packtpub.com | N/A | 11/25 | N/A |
+| Apress.com | Save on selected Apress #books (from 9.99) & #eBooks (from 6.99) | 11/27 | [link](https://twitter.com/Apress/status/1596912124068040704) |
 
 ## Infosec Elearning
 
@@ -39,8 +36,6 @@ No affiliate codes or anything, just good deals I've found.
 | Training.dronesec.com | Course bundle is 40% off w/ GIVETHANKS22 | 11/24 | [link](https://training.dronesec.com/) |
 | tcm-sec.com (Cyber Mentor) | 20-50% off courses | 11/24 | [link](https://tcm-sec.com/coupon/) |
 | Codeacademy.com | 50% off Pro annual membership w/ CYBER22 | 11/24 | [link](https://www.codecademy.com) |
-| Secureninja.com | N/A | 11/25 | N/A |
-| ITPro.TV | N/A | 11/24 | N/A |
 
 ## Coding & Development
 
@@ -48,22 +43,16 @@ No affiliate codes or anything, just good deals I've found.
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
 | Leetcode.com | $30 discount on annual subscriptions w/ "THANKS2022" at check out | 11/24 | [link](https://leetcode.com/subscribe/?ref=lp_pl) |
-| Networkdefense.io | N/A | 11/24 | [link](https://networkdefense.io) |
 | Reactforbeginners.com | All Courses 50% off | 11/24 | [link](https://reactforbeginners.com/) |
-| Coursera.org | N/A | 11/24 | N/A |
-| Gitkraken.com | N/A | 11/24 | N/A |
-| Realpython.com | N/A | 11/24 | N/A |
-| GNS3.teachable.com | N/A | 11/24 | N/A |
-| Linuxfoundation.org | Cyber monday sale coming | 11/24 | N/A |
+| Coursera.org | $100 off ($299 vs $399 for annual plan | 11/27 | [link](https://www.coursera.org/courseraplus/special/coursera-annual-cyber-2022) |
+| Linuxfoundation.org | 30-65% off starting 11/28 | 11/27 | [link](https://training.linuxfoundation.org/) |
 
 ## Pen Testing
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
+| Hacker.house | $550 special offer | 11/27 | [link](https://hacker.house/training/) |
 | Portswigger | N/A | 11/25 | N/A |
-| Fortynorthsecurity.com | N/A | 11/24 | N/A |
-| Hackersacademy.com | N/A | 11/20 | N/A |
-| Hacker.house | N/A | 11/24 | N/A |
 
 ## Tools & Services
 
@@ -84,21 +73,12 @@ No affiliate codes or anything, just good deals I've found.
 | Kon-Boot | 25% off | 11/24 | [link](https://kon-boot.com/?NOVEMBER=1) |
 | Fing | Up to 70% off | 11/24 | [link](https://app.fing.com/internet/account/subscribe) |
 | Proxyman | PROXYMAN_BLACK_FRIDAY_2022 code for 30% off | 11/24 | [link](https://proxyman.io/pricing) |
-| Particle.io | N/A | 11/24 | N/A |
-| Charlesproxy.com | N/A | 11/24 | N/A |
-| Detectify | N/A | 11/24 | N/A |
-| Wizer security training | N/A | 11/24 | N/A |
-| Hitmanpro.com | N/A | 11/24 | N/A |
-| Shodanhq.com | No BF sale this year :( | 11/24 | N/A |
-| Binaryedge.io | N/A | 11/24 | N/A |
 
 ## Password Managers
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
 | Lastpass.com | 25% off | 11/24 | [link](https://www.lastpass.com/pricing) |
-| 1password.com | N/A | 11/24 | N/A |
-| Bitwarden.com | N/A | 11/24 | N/A |
 
 ## Virtual Labs
 
@@ -107,7 +87,7 @@ No affiliate codes or anything, just good deals I've found.
 | Pentesterlab.com | $146.51 instead of $199 1-yr | 11/24 | [link](https://pentesterlab.com/pro) |
 | Whizlabs.com | 20-50% off courses | 11/24 | [link](https://www.whizlabs.com/) |
 | PentesterAcademy.com | 10-20% off plans/bootcamps | 11/24 | [link](https://www.pentesteracademy.com/) |
-| Tryhackme | N/A| 11/24 | N/A |
+| Tryhackme | 20% Off w/ AOC22 | 11/27 | [link](https://tryhackme.com/why-subscribe?utm_campaign=blackfriday) |
 
 ## Products
 
@@ -116,7 +96,6 @@ No affiliate codes or anything, just good deals I've found.
 | ESet.com | 50% off | 11/24 | [link](https://www.eset.com/us/cyber-week-2022/?intcmp=2022-us-hp-bfcm-banner) |
 | Adobe.com | 25% on Creative Cloud | 11/24 | [link](https://www.adobe.com/creativecloud/plans.html?promoid=TPQVL72S&mv=other) |
 | Coreldraw.com | Up to 50% off | 11/24 | [link](https://www.coreldraw.com/en/special-offers/?x-campaign=hsw) |
-| VMware.com | N/A | 11/24 | N/A |
 
 ## Hardware
 
@@ -127,16 +106,12 @@ No affiliate codes or anything, just good deals I've found.
 | Tile.com | Bundle deals, free shipping | 11/24 | [link](https://www.tile.com/products/deals) |
 | Hak5.org | Multiple sales | 11/24 | [link](https://hak5.org/) |
 | hackin9.org | 50% off | 11/25 | [link](https://hakin9.org/shop/) |
-| Southord.com | N/A | 11/24 | N/A |
-| Thinkpeterson.com | N/A | 11/24 | N/A |
-| Maltronics.com | N/A | 11/24 | N/A |
-| Yubico.com | N/A | 11/24 | N/A |
 
 ## Certifications
 
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
-| ISACA | N/A | 11/24 | N/A |
+| ISACA | 10% off w/ PRODEXAM10 | 11/27 | [link](https://www.isaca.org/campaigns/cisa-cism-exam-discount) |
 | CompTIA | N/A | 11/24 | N/A |
 | EC-Council | N/A | 11/24 | N/A |
 | ITGovernance.co.uk | N/A | 11/24 | N/A |
@@ -167,8 +142,7 @@ No affiliate codes or anything, just good deals I've found.
 | Website | Details | As-of | Link |
 | ------- | ------- | ----- | ---- |
 | Namecheap.com | Up to 97% off w/ BFCMTLD22 | 11/24 | [link](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/) |
-| Carrd.co | N/A | 11/24 | N/A |
-| Ghost.org | N/A | 11/24 | N/A |
+
 
 ## Robotics & Electronics
 
