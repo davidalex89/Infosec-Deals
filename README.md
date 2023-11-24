@@ -3,7 +3,7 @@ Started doing this a few years ago for Black Friday discounts for Security profe
 No affiliate codes or anything, just good deals I've found.
 
 I haven't had a chance to update everything here, but there's 0x90n has a more comprehensive and up-to-date list here:
-[link](https://github.com/0x90n/InfoSec-Black-Friday/)
+[https://github.com/0x90n/InfoSec-Black-Friday/](https://github.com/0x90n/InfoSec-Black-Friday/)
 
 
 ## Bookstores
