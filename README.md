@@ -31,7 +31,7 @@ I haven't had a chance to update everything here, but there's 0x90n has a more c
 | ------- | ------- | ----- | ---- |
 | Cyber Plumber's Handbook + Lab | Discount w/ BLACKFRIDAY2023 | 11/24 | [link](https://opsdisk.gumroad.com/l/cphlab/blackfriday2023) |
 | Pluralsight.com | 50% off ($149/224 yr) | 11/24 | [link](https://www.pluralsight.com/pricing/skills?type=individual) |
-| Practical-devsecops.com | Multiple discounts | 11/24 | [link](https://www.practical-devsecops.com/black-friday/) |
+| Practical-devsecops.com | Multiple discounts | 12/31 | [link](https://www.practical-devsecops.com/black-friday/) |
 | Offensive-security.com |  20% off Learn One | 11/24 | [link](https://www.offensive-security.com/learn-one/) |
 | Udemy.com | $9.99 courses until 11/25  | 11/24 | [link](https://www.udemy.com) |
 | Cybrary.it | 50% off | 11/24 | [link](https://www.cybrary.it/limited-time/blackfriday2023) |
