@@ -2,7 +2,7 @@
 
 Updated for 2024. Will continue to update periodically as deals open up.
 
-## Emerging security technologies
+## Emerging Technologies Security
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
