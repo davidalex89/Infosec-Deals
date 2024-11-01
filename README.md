@@ -92,7 +92,7 @@
 | PentesterAcademy.com    |         |       |      |
 | Tryhackme               |         |       |      |
 
-## Products (not updated for 2023)
+## Products
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
