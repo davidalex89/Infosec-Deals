@@ -24,6 +24,7 @@ Updated for 2024. Will continue to update periodically as deals open up.
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
+| Certified AI Security Professional (CAISP) | 15% discount | 11/1 | [link](https://www.practical-devsecops.com/black-friday/)    |
 | Agilestationery.com     |         |       |      |
 | Appsecengineer          |         |       |      |
 | Cyber Plumber's Handbook + Lab | |       |      |
