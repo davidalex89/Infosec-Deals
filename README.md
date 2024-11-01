@@ -1,6 +1,6 @@
 ## Started doing this a few years ago for Black Friday discounts for Security professionals and developers. No affiliate codes or anything, just good deals I've found.
 
-## Updated for 2024. Will continue to update periodically as deals open up.
+Updated for 2024. Will continue to update periodically as deals open up.
 
 ## Emerging security technologies
 
