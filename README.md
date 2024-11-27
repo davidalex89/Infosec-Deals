@@ -24,6 +24,7 @@ Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarc
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
 | Certified AI Security Professional (CAISP) | 15% discount | 11/1 | [link](https://www.practical-devsecops.com/black-friday/)    |
+| Practical-devsecops.com | Multiple discounts good until 12/31 | 11/26 | [link](https://www.practical-devsecops.com/black-friday/) |
 | Agilestationery.com     |30% off when you buy any 3 items         | 11/26     | [link](https://agilestationery.com/collections/black-friday-sale-30-off-3-or-more)    |
 | Appsecengineer          |40% off until 12/6 w/ code LEVELUP40       | 11/26   | [link](https://x.com/abhaybhargav/status/1859290806286205101)     |
 | Pluralsight.com         | Save 50%        | 11/26  | [link](https://www.pluralsight.com/pricing/skills?type=individual)  |
