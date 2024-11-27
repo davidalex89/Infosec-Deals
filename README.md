@@ -18,7 +18,6 @@ Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarc
 | Manning.com             | Designing Kefka systems 45% off | 11/26 | [link](https://www.manning.com/dotd) |
 | Pragprog.com            | Coupon code turkeysale2024 to save 40% on all ebooks and audio books | 11/26  | [link](https://media.pragprog.com/newsletters/2024-11-20.html)|
 | Microsoft Press Store   | Through December 6, 40% savings on the purchase of one book or eBook, and 55% on your purchase of two or more books or eBooks w/ code BOOKSGIVING. | 11/26    | [link](https://www.microsoftpressstore.com/)  |
-| Apress.com              |         |       |      |
 
 ## Elearning
 
@@ -28,22 +27,14 @@ Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarc
 | Agilestationery.com     |30% off when you buy any 3 items         | 11/26     | [link](https://agilestationery.com/collections/black-friday-sale-30-off-3-or-more)    |
 | Appsecengineer          |40% off until 12/6 w/ code LEVELUP40       | 11/26   | [link](https://x.com/abhaybhargav/status/1859290806286205101)     |
 | Pluralsight.com         | Save 50%        | 11/26  | [link](https://www.pluralsight.com/pricing/skills?type=individual)  |
-| Practical-devsecops.com |         |       |      |
-| Offensive-security.com  |         |       |      |
 | Udemy.com               | Courses from $9.99 through Nov 29        | 11/26    | [link](https://www.udemy.com/)     |
-| Cybrary.it              |         |       |      |
 | Educative.io            | Unlimited 50% discount       | 11/26    | [link](https://www.educative.io)     |
-| Training.dronesec.com   |         |       |      |
-| tcm-sec.com (Cyber Mentor) |     |       |      |
-| Codeacademy.com         |         |       |      |
 
 ## Coding & Development
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Leetcode.com            |         |       |      |
-| Coursera.org            |         |       |      |
-| Linuxfoundation.org     |         |       |      |
+| Coursera.org            | Up to $160 off       | 11/26      | [link](https://www.coursera.org/courseraplus/special/global-160-2024)     |
 
 ## Pen Testing
 
@@ -63,19 +54,7 @@ Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarc
 |-------------------------|---------|-------|------|
 | RackNerd            | 1GB VPS in many datacenters (including Dublin now) for only $10.99       | 11/26      | [link](https://www.racknerd.com/BlackFriday/)     |
 | Lowendbox.com           | Deals starting 11/29     | 11/26      | [link](https://lowendbox.com/blog/one-week-from-tomorrow-the-world-will-lose-their-minds-lines-are-already-forming/)    |
-| Tenable.io              |         |       |      |
-| Heimdalsecurity.com     |         |       |      |
-| Securestack             |         |       |      |
 | Parallels               | 25% off     | 11/26      | [link](https://www.parallels.com/products/desktop/)     |
-| hex-rays.com            |         |       |      |
-| 010 Editor              |         |       |      |
-| Kon-Boot                |         |       |      |
-| Fing                    |         |       |      |
-| Proxyman                |         |       |      |
-| hex-rays.com            |         |       |      |
-
-
-RackNerd has a 1GB VPS in many datacenters (including Dublin now) for only $10.99
 
 ## Password Managers
 
@@ -104,17 +83,12 @@ RackNerd has a 1GB VPS in many datacenters (including Dublin now) for only $10.9
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
 | Hak5.org                | Hacked Friday Sale - up to 50% off        | 11/26       | [link](https://shop.hak5.org/pages/bfcm24)     |
-| Buskill open-source hardware/software | |       |      |
-| System76.com            |         |       |      |
-| Tile.com                |         |       |      |
-| hackin9.org             |         |       |      |
 
 ## Certifications
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
 | Certified AI Security Professional (CAISP) | 15% discount | 11/1 | [link](https://www.practical-devsecops.com/black-friday/)    |
-| ISACA                  |         |       |      |
 
 ## Education
 
@@ -146,8 +120,4 @@ RackNerd has a 1GB VPS in many datacenters (including Dublin now) for only $10.9
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Robotshop.com           |         |       |      |
-| Pololu.com              |         |       |      |
-| Hackerboxes.com         |         |       |      |
-| Seeedstudio.com         |         |       |      |
 | Ledger.com              | Various discounts        | 11/26      | [link](https://shop.ledger.com/pages/black-friday)     |
