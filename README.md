@@ -128,6 +128,6 @@ Updated for 2024. Will continue to update periodically as deals open up.
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Optery              | 20% off w/ code listed on site| 11/27      | [link]((https://www.optery.com/)     |
+| Optery              | 20% off w/ code listed on site| 11/27      | [link](https://www.optery.com/)     |
 | Aura Identity Protection | Save up to 75% | 11/27 | [link](https://buy.aura.com/better-protection) |
 
