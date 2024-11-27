@@ -79,6 +79,7 @@ Updated for 2024. Will continue to update periodically as deals open up.
 | ESet.com                | 25-50% off        | 11/26      | [link](https://www.eset.com/us/)     |
 | Adobe.com               | Save up to 50%       | 11/26      | [link](https://www.adobe.com/creativecloud/plans.html?promoid=TBJRLL8W&mv=other)     |
 | Coreldraw.com           | Save up to $170 + incl offers         | 11/26   | [link](https://www.coreldraw.com/en/special-offers/?x-campaign=hsw)     |
+| ProtonVPN  | | Save up to 70% of annual plans | 11/27 | [link](https://protonvpn.com/blackfriday?srsltid=AfmBOoqNJRfnjLYtaEuKv9RH9ARYu6maHqbK29TSCmbQLQRSwJHujpIY)] |
 
 ## Hardware
 
