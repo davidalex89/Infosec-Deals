@@ -12,8 +12,7 @@ Updated for 2024. Will continue to update periodically as deals open up.
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Nostarch.com            | Pre-order Presale 40% off ALL upcoming titles
-Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarch.com/upcoming)  |
+| Nostarch.com            | Pre-order Presale 40% off ALL upcoming titles - Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarch.com/upcoming)  |
 | Humblebundle.com        | Special offers      | 11/26   | [link](https://www.humblebundle.com/store/promo/humble-black-friday-2024/) |
 | Manning.com             | Designing Kefka systems 45% off | 11/26 | [link](https://www.manning.com/dotd) |
 | Pragprog.com            | Coupon code turkeysale2024 to save 40% on all ebooks and audio books | 11/26  | [link](https://media.pragprog.com/newsletters/2024-11-20.html)|
