@@ -40,6 +40,7 @@ Updated for 2024. Will continue to update periodically as deals open up.
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
+| Cyber Plumber's Lab Guide & Access            | Learn offensive-based / red team SSH tunneling, 25% off + free handbook w/ code blackfriday2024 (ends 12/5) | 11/27      | [link](https://opsdisk.gumroad.com/l/cphlab/blackfriday)     |
 | Hacker.house            |         |       |      |
 
 ## Threat Intelligence
