@@ -22,7 +22,7 @@ Updated for 2024. Will continue to update periodically as deals open up.
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Certified AI Security Professional (CAISP) | 15% discount | 11/1 | [link](https://www.practical-devsecops.com/black-friday/)    |
+| Certified AI Security Professional (CAISP) early 15% discount until 12/31 | 11/26 | [link](https://www.practical-devsecops.com/black-friday/)    |
 | Practical-devsecops.com | Multiple discounts good until 12/31 | 11/26 | [link](https://www.practical-devsecops.com/black-friday/) |
 | Agilestationery.com     |30% off when you buy any 3 items         | 11/26     | [link](https://agilestationery.com/collections/black-friday-sale-30-off-3-or-more)    |
 | Appsecengineer          |40% off until 12/6 w/ code LEVELUP40       | 11/26   | [link](https://x.com/abhaybhargav/status/1859290806286205101)     |
