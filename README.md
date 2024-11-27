@@ -32,12 +32,10 @@ Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarc
 | Offensive-security.com  |         |       |      |
 | Udemy.com               | Courses from $9.99 through Nov 29        | 11/26    | [link](https://www.udemy.com/)     |
 | Cybrary.it              |         |       |      |
-| Educative.io            |         |       |      |
-| Cloudacademy.com        |         |       |      |
+| Educative.io            | Unlimited 50% discount       | 11/26    | [link](https://www.educative.io)     |
 | Training.dronesec.com   |         |       |      |
 | tcm-sec.com (Cyber Mentor) |     |       |      |
 | Codeacademy.com         |         |       |      |
-| Eforensics Mag          |         |       |      |
 
 ## Coding & Development
 
@@ -57,59 +55,58 @@ Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarc
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Pulsedive (Threat intel) |        |       |      |
+| Pulsedive (Threat intel) | 30% off Pulsedive Pro w/ code CIRCUITBIRD30   | 11/26      |[link](https://blog.pulsedive.com/black-friday-2024/)     |
 
 ## Tools & Services (not updated for 2023)
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Pulsedive (Threat intel) |        |       |      |
-| hex-rays.com            |         |       |      |
-| Hitmanpro.com           |         |       |      |
-| Heimdalsecurity.com     |         |       |      |
-| Lowendbox.com           |         |       |      |
+| RackNerd            | 1GB VPS in many datacenters (including Dublin now) for only $10.99       | 11/26      | [link](https://www.racknerd.com/BlackFriday/)     |
+| Lowendbox.com           | Deals starting 11/29     | 11/26      | [link](https://lowendbox.com/blog/one-week-from-tomorrow-the-world-will-lose-their-minds-lines-are-already-forming/)    |
 | Tenable.io              |         |       |      |
 | Heimdalsecurity.com     |         |       |      |
-| Lowendbox.com           |         |       |      |
 | Securestack             |         |       |      |
-| Parallels               |         |       |      |
+| Parallels               | 25% off     | 11/26      | [link](https://www.parallels.com/products/desktop/)     |
 | hex-rays.com            |         |       |      |
 | 010 Editor              |         |       |      |
 | Kon-Boot                |         |       |      |
 | Fing                    |         |       |      |
 | Proxyman                |         |       |      |
+| hex-rays.com            |         |       |      |
+
+
+RackNerd has a 1GB VPS in many datacenters (including Dublin now) for only $10.99
 
 ## Password Managers
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Lastpass.com            |         |       |      |
+| 1Password          | 50% off the first year for new customers        | 11/26      | [link](https://start.1password.com/sign-up/?cjdata=MXxOfDB8WXww&c=CYBER24&cjevent=fd0ddf60ac9511ef82f0da220a1eba23&utm_term=Cyber+News%3A+Enjoy+50%25+Off+Individuals+at+1Password%21+New+Customers+Only%21)     |
 
 ## Virtual Labs
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Pentesterlab.com        |         |       |      |
-| Whizlabs.com            |         |       |      |
-| PentesterAcademy.com    |         |       |      |
-| Tryhackme               |         |       |      |
+| Pentesterlab.com        | 26% discount        |11/26       | [link](https://pentesterlab.com/pro?blackfriday=1)     |
+| Whizlabs.com            | 50% off on subscriptions     |  11/26     | [link](https://www.whizlabs.com/pricing/)      |
+| Tryhackme               | 35% off annual subscription        | 11/26      | [link](https://tryhackme.com)      |
 
 ## Products
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| ESet.com                |         |       |      |
-| Adobe.com               |         |       |      |
-| Coreldraw.com           |         |       |      |
+| ESet.com                | 25-50% off        | 11/26      | [link](https://www.eset.com/us/)     |
+| Adobe.com               | Save up to 50%       | 11/26      | [link](https://www.adobe.com/creativecloud/plans.html?promoid=TBJRLL8W&mv=other)     |
+| Coreldraw.com           | Save up to $170 + incl offers         | 11/26   | [link](https://www.coreldraw.com/en/special-offers/?x-campaign=hsw)     |
 
 ## Hardware
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
+| Hak5.org                | Hacked Friday Sale - up to 50% off        | 11/26       | [link](https://shop.hak5.org/pages/bfcm24)     |
 | Buskill open-source hardware/software | |       |      |
 | System76.com            |         |       |      |
 | Tile.com                |         |       |      |
-| Hak5.org                |         |       |      |
 | hackin9.org             |         |       |      |
 
 ## Certifications
@@ -123,8 +120,8 @@ Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarc
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Kaplan.com             |         |       |      |
-| Pearsonitcertification.com |     |       |      |
+| Kaplan.com             |  Save ~15% on various test prep       | 11/26      | [link](https://www.kaptest.com/black-friday?srsltid=AfmBOooUBTN_-pxllADh4zj4RNNiVuzClaorrih8VuIfowRSsiGrqBq2)     |
+| Pearsonitcertification.com | 40-55% discount w/ code BOOKSGIVING    | 11/26       | [link](https://www.pearsonitcertification.com)     |
 
 ## Email
 
@@ -136,8 +133,8 @@ Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarc
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Silentpocket.com        |         |       |      |
-| Itead.cc                |         |       |      |
+| Silentpocket.com        |  Save up to 50% until 12/2       | 11/26      | [link](https://slnt.com/collections/all)     |
+| Itead.cc                |  $10-$30 off w/ codes SNBF10, SNBF20, SNBF30       |  11/26     | [link](https://itead.cc/sonoff-black-friday-sale-2024/)    |
 
 ## Web Design & Hosting
 
@@ -153,4 +150,4 @@ Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarc
 | Pololu.com              |         |       |      |
 | Hackerboxes.com         |         |       |      |
 | Seeedstudio.com         |         |       |      |
-| Ledger.com              |         |       |      |
+| Ledger.com              | Various discounts        | 11/26      | [link](https://shop.ledger.com/pages/black-friday)     |
