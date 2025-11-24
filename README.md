@@ -76,7 +76,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Whizlabs.com            | Up to 60% off with early black friday deals    |  11/23     | [link](https://www.whizlabs.com/pricing/)      |
 | LetsDefend (by hackthebox) | 50% off black friday | 11/23 | [link](https://letsdefend.io/) |
 | Pentesterlab.com        | TBD       | 11/23       | TBD     |
-| Tryhackme               | TBD       | 11/23      | TBD      |
+| Tryhackme               | 40% off annual subscriptions       | 11/23      | [link](https://tryhackme.com/)     |
 
 ## Products
 
