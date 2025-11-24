@@ -34,7 +34,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | EC-Council E-Learning | 50% off, on-demand training discounts until Nov 30th | 11/23 | [link](https://iclass.eccouncil.org/cyber-week/) |
 | MasterClass | Up to 50% off before black friday | 11/23 | [link](https://www.masterclass.com/promotion) |
 | Coursera.org            | $239 for 12 months       | 11/23      | [link](https://www.coursera.org/courseraplus/special/nov-2025-160-off)     |
-| EOY2025 for $250 off any 2025 Infosec Boot Camp | 11/23 | [link](https://www.infosecinstitute.com/courses/promotion/) |
+| Infosec Institute | EOY2025 for $250 off any 2025 Infosec Boot Camp | 11/23 | [link](https://www.infosecinstitute.com/courses/promotion/) |
 | Agilestationery.com     | No announcement yet/TBD         | 11/23     | TBD |
 | Appsecengineer          | Appsecengineer | 11/23   | TBD     |
 
