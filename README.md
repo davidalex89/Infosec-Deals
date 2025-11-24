@@ -138,7 +138,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
 | Optery              | 20% off w/ code n8RjrbAt | 11/23      | [link](https://www.optery.com/)     |
-| Aura Identity Protection | Up to 60% off) | 11/23 | [link](https://www.aura.com/pricing) |
+| Aura Identity Protection | Up to 60% off | 11/23 | [link](https://www.aura.com/pricing) |
 | DeleteMe | 30% off privacy protection plans w/ code BFCM30OFF25 | 11/23 | [link](https://joindeleteme.com/offers/partner/#2-years) |
 
 ## Miscellanious cool stuff
