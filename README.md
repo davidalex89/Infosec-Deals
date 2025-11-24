@@ -24,9 +24,9 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 |-------------------------|---------|-------|------|
 | Practical DevSecOps Training | 15% discount on all Certifications, $500 on Bundles | 11/23 | [link](https://www.practical-devsecops.com/pricing/) |
 |  The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | Offers starting 11/27 | 11/23     | TBD   |
-| Agilestationery.com     | No announcement yet/TBD         | 11/26     | N/A |
-| Appsecengineer          | Appsecengineer | N/A   | N/A     |
-| Pluralsight.com         | Save 50%        | 11/26  | [link](https://www.pluralsight.com/pricing/skills?type=individual)  |
+| Agilestationery.com     | No announcement yet/TBD         | 11/23     | TBD |
+| Appsecengineer          | Appsecengineer | 11/23   | TBD     |
+| Pluralsight.com         | Save 50%        | 11/23  | [link](https://www.pluralsight.com/pricing/skills?type=individual)  |
 | Udemy.com               | Courses from $9.99 through Nov 28        | 11/23    | [link](https://www.udemy.com/)     |
 | Educative.io            | Unlimited 50% discount until 11/23       | 11/23    | [link](https://www.educative.io/unlimited)     |
 
