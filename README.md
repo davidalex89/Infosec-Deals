@@ -18,7 +18,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Pragprog.com            | Save 50% with coupon code save50 | 11/23  | [link](https://media.pragprog.com/newsletters/2025-11-19.html)|
 | Microsoft Press Store   | 40% savings on the purchase of one book or eBook, and 55% on your purchase of 2+ books/eBooks w/ code BOOKSGIVING | 11/23    | [link](https://www.microsoftpressstore.com/promotions/happy-booksgiving-buy-1-save-40-or-buy-2-save-55-on-142354)  |
 
-## Elearning
+## E-learning
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
@@ -30,18 +30,18 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Udemy.com               | Courses from $9.99 through Nov 28        | 11/23    | [link](https://www.udemy.com/)     |
 | Educative.io            | Unlimited 50% discount until 11/23       | 11/23    | [link](https://www.educative.io/unlimited)     |
 
-## Coding & Development
-
-| Website                 | Details | As-of | Link |
-|-------------------------|---------|-------|------|
-| Coursera.org            | $239 for 12 months       | 11/23      | [link](https://www.coursera.org/courseraplus/special/nov-2025-160-off)     |
-
 ## Pen Testing
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
 |  The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | Offers starting 11/27 | 11/23     | TBD   |
 | Hacker.house            |         |       |      |
+
+## Coding & Development
+
+| Website                 | Details | As-of | Link |
+|-------------------------|---------|-------|------|
+| Coursera.org            | $239 for 12 months       | 11/23      | [link](https://www.coursera.org/courseraplus/special/nov-2025-160-off)     |
 
 ## Threat Intelligence
 
