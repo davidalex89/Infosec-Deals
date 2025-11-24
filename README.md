@@ -49,7 +49,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 |-------------------------|---------|-------|------|
 | Pulsedive (Threat intel) | TBD   | 11/23      | TBD |
 
-## Tools & Services (not updated for 2023)
+## Tools & Services
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
