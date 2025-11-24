@@ -28,7 +28,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Appsecengineer          | Appsecengineer | N/A   | N/A     |
 | Pluralsight.com         | Save 50%        | 11/26  | [link](https://www.pluralsight.com/pricing/skills?type=individual)  |
 | Udemy.com               | Courses from $9.99 through Nov 28        | 11/23    | [link](https://www.udemy.com/)     |
-| Educative.io            | Unlimited 50% discount until 11/23       | 11/23    | [link](https://www.educative.io](https://www.educative.io/unlimited)     |
+| Educative.io            | Unlimited 50% discount until 11/23       | 11/23    | [link](https://www.educative.io/unlimited)     |
 
 ## Coding & Development
 
