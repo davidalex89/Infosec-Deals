@@ -29,7 +29,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Practical DevSecOps Training | 15% discount on all Certifications, up to $500 on Bundles | 11/23 | [link](https://www.practical-devsecops.com/pricing/) |
+| Practical DevSecOps Training | 15% discount on all Training programs, up to $500 on Bundles | 11/23 | [link](https://www.practical-devsecops.com/pricing/) |
 | CodeAcademy | 60% off a year of Pro/Pro Student/Teams | 11/23 | [link](https://www.codecademy.com/) |
 | Pluralsight.com         | Save 50%        | 11/23  | [link](https://www.pluralsight.com/pricing/skills?type=individual)  |
 | Udemy.com               | Courses from $9.99 through Nov 28        | 11/23    | [link](https://www.udemy.com/)     |
