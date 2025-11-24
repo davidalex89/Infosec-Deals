@@ -6,7 +6,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Practical DevSecOps Training | 15% discount on all Certifications, $500 on Bundles | 11/23 | [link](https://www.practical-devsecops.com/pricing/) |
+| Practical DevSecOps Training (AI Security - CAISP) | 15% discount on all Certifications, $500 on Bundles | 11/23 | [link](https://www.practical-devsecops.com/pricing/) |
 
 ## Bookstores
 
