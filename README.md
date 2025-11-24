@@ -34,6 +34,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | EC-Council E-Learning | 50% off, on-demand training discounts until Nov 30th | 11/23 | [link](https://iclass.eccouncil.org/cyber-week/) |
 | MasterClass | Up to 50% off before black friday | 11/23 | [link](https://www.masterclass.com/promotion) |
 | Coursera.org            | $239 for 12 months       | 11/23      | [link](https://www.coursera.org/courseraplus/special/nov-2025-160-off)     |
+| EOY2025 for $250 off any 2025 Infosec Boot Camp | 11/23 | [link](https://www.infosecinstitute.com/courses/promotion/) |
 | Agilestationery.com     | No announcement yet/TBD         | 11/23     | TBD |
 | Appsecengineer          | Appsecengineer | 11/23   | TBD     |
 
@@ -85,6 +86,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Adobe.com               | Save 50% on Photoshop, Illustrator, etc       | 11/23      | [link](https://www.adobe.com/products/special-offers.html?promoid=MH16SFKV&mv=other)     |
 | Coreldraw.com           | Save 30% + get Spaced Out - CorelDRAW Painterly Brush Pack FREE (worth $29.99)         | 11/23   | [link](https://www.coreldraw.com/en/special-offers/)     |
 | ProtonVPN  | Save up to 70% of annual plans | 11/23 | [link](https://protonvpn.com/black-friday) |
+
 ## Hardware
 
 | Website                 | Details | As-of | Link |
@@ -120,6 +122,8 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Ifixit | Various black friday discounts | 11/23 | [link](https://www.ifixit.com/promotions/black-friday-holiday) |
 | Ledger.com              | Up to 50% discount/$90 BTC        | 11/23      | [link](https://shop.ledger.com/pages/black-friday)     |
 | Phillips Robotics | Various black friday discounts | 11/23 | [link](https://www.phillipscorp.com/black-friday-deals/) |
+| Robotshop robotics | Up to 70% off | 11/23 | [link](https://www.robotshop.com/collections/on-sale) |
+| Makeblock Robotics | Up to 63% off | 11/23 | [link](https://www.makeblock.com/pages/bfcm-2025) |
 | Silentpocket.com        |  TBD       | 11/23      | TBD     |
 
 ## Web Design & Hosting
@@ -143,6 +147,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 |-------------------------|---------|-------|------|
 | Lego (BF deals start 11/28 | TBD | 11/23 | [link](https://www.lego.com/en-us/black-friday-deals) |
 | Techwear-outfits | 20% off everything w/ code BM25 | 11/23 | [link](https://techwear-outfits.com/) |
+| Robosen store (mini robotics, high quality movie toy replicas) | Up to $409 off & deals | 11/23 | [link](https://us.robosen.com/pages/promotion) |
 
 
 
