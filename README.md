@@ -13,7 +13,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
 | Nostarch.com            | Pre-order Presale 40% off ALL upcoming titles - Use code PREORDER on select books until 11/28   | 11/26 | [link](https://nostarch.com/upcoming)  |
-| Humblebundle.com        | A year of choice for $124.99 w/ code HOLIDAY25, other deals    | 11/23   | [link]([https://www.humblebundle.com/store/promo/humble-black-friday-2024/) |
+| Humblebundle.com        | A year of choice for $124.99 w/ code HOLIDAY25, other deals    | 11/23   | [link](https://www.humblebundle.com/store/promo/humble-black-friday-2024/) |
 | Manning.com             | 40% off with sign up and save | 11/23 | [link](https://deals.manning.com/sign-up-to-emails-and-save-40-digital/) |
 | Pragprog.com            | Save 50% with coupon code save50 | 11/23  | [link](https://media.pragprog.com/newsletters/2025-11-19.html)|
 | Microsoft Press Store   | 40% savings on the purchase of one book or eBook, and 55% on your purchase of 2+ books/eBooks w/ code BOOKSGIVING | 11/23    | [link](https://www.microsoftpressstore.com/promotions/happy-booksgiving-buy-1-save-40-or-buy-2-save-55-on-142354)  |
