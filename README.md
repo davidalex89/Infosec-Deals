@@ -6,8 +6,8 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Practical DevSecOps Training (AI Security - CAISP) | 15% discount on all Certifications, $500 on Bundles. Save $150 on Certified AI Security Professional | 11/23 | [link](https://www.practical-devsecops.com/pricing/) |
-| Practical DevSecOps Training (Certified API Security - CASP) | Save $120 on API Security Training | 11/23 | [link](https://www.practical-devsecops.com/certified-api-security-professional/) |
+| Practical DevSecOps Training (AI Security - CAISP) | 15% discount on all Certifications, $500 on Bundles. Save $150 on Certified AI Security Professional | 11/23 | [link](https://www.practical-devsecops.com/infosec-black-friday-deals-2025/) |
+| Practical DevSecOps Training (Certified API Security - CASP) | Save $120 on API Security Training | 11/23 | [link](https://www.practical-devsecops.com/infosec-black-friday-deals-2025/) |
 
 ## Bookstores
 
@@ -25,24 +25,27 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 |-------------------------|---------|-------|------|
 | Practical DevSecOps Training | 15% discount on all Certifications, $500 on Bundles | 11/23 | [link](https://www.practical-devsecops.com/pricing/) |
 |  The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | Offers starting 11/27 | 11/23     | TBD   |
-| Agilestationery.com     | No announcement yet/TBD         | 11/23     | TBD |
-| Appsecengineer          | Appsecengineer | 11/23   | TBD     |
+| CodeAcademy | 60% off a year of Pro/Pro Student/Teams | 11/23 | [link](https://www.codecademy.com/) |
 | Pluralsight.com         | Save 50%        | 11/23  | [link](https://www.pluralsight.com/pricing/skills?type=individual)  |
 | Udemy.com               | Courses from $9.99 through Nov 28        | 11/23    | [link](https://www.udemy.com/)     |
 | Educative.io            | Unlimited 50% discount until 11/23       | 11/23    | [link](https://www.educative.io/unlimited)     |
+| Cisco University | Save 40% from Nov 24th through Dec 1st | 11/23 | [link](https://www.cisco.com/site/us/en/learn/training-certifications/learning-deals.html) |
+| TCM Security | Up to 50% off through Dec 1st | 11/12 | [link](https://academy.tcm-sec.com/) |
+| EC-Council E-Learning | 50% off, on-demand training discounts until Nov 30th | 11/23 | [link](https://iclass.eccouncil.org/cyber-week/) |
+| MasterClass | Up to 50% off before black friday | 11/23 | [link](https://www.masterclass.com/promotion) |
+| Coursera.org            | $239 for 12 months       | 11/23      | [link](https://www.coursera.org/courseraplus/special/nov-2025-160-off)     |
+| Agilestationery.com     | No announcement yet/TBD         | 11/23     | TBD |
+| Appsecengineer          | Appsecengineer | 11/23   | TBD     |
+
+
 
 ## Pen Testing
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
 |  The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | Offers starting 11/27 | 11/23     | TBD   |
-| Hacker.house            |         |       |      |
+| Hacker.house            |         |       |      |last
 
-## Coding & Development
-
-| Website                 | Details | As-of | Link |
-|-------------------------|---------|-------|------|
-| Coursera.org            | $239 for 12 months       | 11/23      | [link](https://www.coursera.org/courseraplus/special/nov-2025-160-off)     |
 
 ## Threat Intelligence
 
@@ -62,14 +65,16 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| 1Password          | TBD     | 11/23      | TBD     |
+| LastPass | 10-50% off different plans | 11/23 | [link](https://www.lastpass.com/pricing) |
+| 1Password          | TBD     | 11/23      | TBD  |
 
-## Virtual Labs
+## Virtual Labs & Pen-test training
 
 | Website                 | Details | As-of | Link |
-|-------------------------|---------|-------|------|
-| Pentesterlab.com        | TBD       | 11/23       | TBD     |
+|-------------------------|---------|-------|------
 | Whizlabs.com            | Up to 60% off with early black friday deals    |  11/23     | [link](https://www.whizlabs.com/pricing/)      |
+| LetsDefend (by hackthebox) | 50% off black friday | 11/23 | [link](https://letsdefend.io/) |
+| Pentesterlab.com        | TBD       | 11/23       | TBD     |
 | Tryhackme               | TBD       | 11/23      | TBD      |
 
 ## Products
@@ -96,8 +101,10 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Kaplan.com             |  Save up to $1,500 or 30% on select test prep       | 11/26      | [link](https://www.kaptest.com/)|
-| Pearsonitcertification.com | 40-55% on buy 1/buy 2+ w/ code BOOKSGIVING    | 11/26       | [link](https://www.pearsonitcertification.com/promotions/happy-booksgiving-buy-1-save-40-or-buy-2-save-55-on-142353)    |
+| Kaplan.com             |  Save up to $1,500 or 30% on select test prep       | 11/23      | [link](https://www.kaptest.com/)|
+| Pearsonitcertification.com | 40-55% on buy 1/buy 2+ w/ code BOOKSGIVING    | 11/23       | [link](https://www.pearsonitcertification.com/promotions/happy-booksgiving-buy-1-save-40-or-buy-2-save-55-on-142353)    |
+| QA.com | Various black friday discounts | 11/23 | [link](https://www.qa.com/browse/black-friday/) |
+| ASME (American Society of Mechanical Engineers) | 30% discount during Cyber Monday Sale, 11/21-12/5 | 11/23 | [link](https://www.asme.org/learning-development/learning-benefits-discounts) |
 
 ## Email
 
@@ -105,12 +112,15 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 |-------------------------|---------|-------|------|
 | Protonmail.com          | 50% discount on Mail Plus/Unlimited      | 11/23      | [link](https://proton.me/mail/black-friday)     |
 
-## Gear
+## Gear & Gadgets
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Silentpocket.com        |  TBD       | 11/23      | TBD     |
 | Itead.cc                |  40%/$10-50 off w/ codes SOBF10, SPBF30, SOBF50       |  11/23     | [link](https://sonoff.tech/en-us/pages/2025-black-friday-sale)    |
+| Ifixit | Various black friday discounts | 11/23 | [link](https://www.ifixit.com/promotions/black-friday-holiday) |
+| Ledger.com              | Up to 50% discount/$90 BTC        | 11/23      | [link](https://shop.ledger.com/pages/black-friday)     |
+| Phillips Robotics | Various black friday discounts | 11/23 | [link](https://www.phillipscorp.com/black-friday-deals/) |
+| Silentpocket.com        |  TBD       | 11/23      | TBD     |
 
 ## Web Design & Hosting
 
@@ -118,11 +128,6 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 |-------------------------|---------|-------|------|
 | Namecheap.com           | Black Friday Matrix Deals        | 11/23      | [link](https://www.namecheap.com/domain-web-hosting-ssl-deals/black-friday/)     |
 
-## Robotics & Electronics
-
-| Website                 | Details | As-of | Link |
-|-------------------------|---------|-------|------|
-| Ledger.com              | Up to 50% discount/$90 BTC        | 11/23      | [link](https://shop.ledger.com/pages/black-friday)     |
 
 ## Data Protection & Privacy
 
@@ -130,4 +135,14 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 |-------------------------|---------|-------|------|
 | Optery              | 20% off w/ code n8RjrbAt | 11/23      | [link](https://www.optery.com/)     |
 | Aura Identity Protection | Up to 60% off) | 11/23 | [link](https://www.aura.com/pricing) |
+| DeleteMe | 30% off privacy protection plans w/ code BFCM30OFF25 | 11/23 | [link](https://joindeleteme.com/offers/partner/#2-years) |
+
+## Miscellanious cool stuff
+
+| Website                 | Details | As-of | Link |
+|-------------------------|---------|-------|------|
+| Lego (BF deals start 11/28 | TBD | 11/23 | [link](https://www.lego.com/en-us/black-friday-deals) |
+| Techwear-outfits | 20% off everything w/ code BM25 | 11/23 | [link](https://techwear-outfits.com/) |
+
+
 
