@@ -6,8 +6,8 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Practical DevSecOps Training (AI Security - CAISP) | 15% discount on all Certifications, $500 on Bundles. Save $150 on Certified AI Security Professional | 11/23 | [link](https://www.practical-devsecops.com/infosec-black-friday-deals-2025/) |
-| Practical DevSecOps Training (Certified API Security - CASP) | Save $120 on API Security Training | 11/23 | [link](https://www.practical-devsecops.com/infosec-black-friday-deals-2025/) |
+| Practical DevSecOps - AI Security | Save $150 on Certified AI Security Professional, 15% discount on all Certifications, up to $500 with Bundles | 11/23 | [link](https://www.practical-devsecops.com/certified-ai-security-professional/) |
+| Practical DevSecOps - API Security | Save $150 on Certified API Security Professional, 15% discount on all Certifications, up to $500 with Bundles | 11/23 | [link](https://www.practical-devsecops.com/certified-api-security-professional/) |
 
 ## Bookstores
 
@@ -19,12 +19,17 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Pragprog.com            | Save 50% with coupon code save50 | 11/23  | [link](https://media.pragprog.com/newsletters/2025-11-19.html)|
 | Microsoft Press Store   | 40% savings on the purchase of one book or eBook, and 55% on your purchase of 2+ books/eBooks w/ code BOOKSGIVING | 11/23    | [link](https://www.microsoftpressstore.com/promotions/happy-booksgiving-buy-1-save-40-or-buy-2-save-55-on-142354)  |
 
-## E-learning
+## Certifications
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
 | Practical DevSecOps Training | 15% discount on all Certifications, $500 on Bundles | 11/23 | [link](https://www.practical-devsecops.com/pricing/) |
-|  The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | Offers starting 11/27 | 11/23     | TBD   |
+
+## E-learning
+
+| Website                 | Details | As-of | Link |
+|-------------------------|---------|-------|------|
+| Practical DevSecOps Training | 15% discount on all Certifications, up to $500 on Bundles | 11/23 | [link](https://www.practical-devsecops.com/pricing/) |
 | CodeAcademy | 60% off a year of Pro/Pro Student/Teams | 11/23 | [link](https://www.codecademy.com/) |
 | Pluralsight.com         | Save 50%        | 11/23  | [link](https://www.pluralsight.com/pricing/skills?type=individual)  |
 | Udemy.com               | Courses from $9.99 through Nov 28        | 11/23    | [link](https://www.udemy.com/)     |
@@ -38,15 +43,15 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Agilestationery.com     | No announcement yet/TBD         | 11/23     | TBD |
 | Appsecengineer          | Appsecengineer | 11/23   | TBD     |
 
-
-
-## Pen Testing
+## Virtual Labs & Pen-test training
 
 | Website                 | Details | As-of | Link |
-|-------------------------|---------|-------|------|
-|  The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | Offers starting 11/27 | 11/23     | TBD   |
-| Hacker.house            |         |       |      |last
-
+|-------------------------|---------|-------|------
+| The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | Offers starting 11/27 | 11/23     | TBD   |
+| Whizlabs.com            | Up to 60% off with early black friday deals    |  11/23     | [link](https://www.whizlabs.com/pricing/)      |
+| LetsDefend (by hackthebox) | 50% off black friday | 11/23 | [link](https://letsdefend.io/) |
+| Tryhackme               | 40% off annual subscriptions       | 11/23      | [link](https://tryhackme.com/)     |
+| Pentesterlab.com        | TBD       | 11/23       | TBD     |
 
 ## Threat Intelligence
 
@@ -70,15 +75,6 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | LastPass | 10-50% off different plans | 11/23 | [link](https://www.lastpass.com/pricing) |
 | 1Password          | TBD     | 11/23      | TBD  |
 
-## Virtual Labs & Pen-test training
-
-| Website                 | Details | As-of | Link |
-|-------------------------|---------|-------|------
-| Whizlabs.com            | Up to 60% off with early black friday deals    |  11/23     | [link](https://www.whizlabs.com/pricing/)      |
-| LetsDefend (by hackthebox) | 50% off black friday | 11/23 | [link](https://letsdefend.io/) |
-| Pentesterlab.com        | TBD       | 11/23       | TBD     |
-| Tryhackme               | 40% off annual subscriptions       | 11/23      | [link](https://tryhackme.com/)     |
-
 ## Products
 
 | Website                 | Details | As-of | Link |
@@ -96,13 +92,6 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | System76 | $75-300 off until Nov 24th | 11/23 | [link](https://system76.com/specials) |
 | Life360 (Tile) | Up to 40% off Tiles | 11/23 | [link](https://www.life360.com/tile-trackers) |
 
-
-
-## Certifications
-
-| Website                 | Details | As-of | Link |
-|-------------------------|---------|-------|------|
-| Practical DevSecOps Training | 15% discount on all Certifications, $500 on Bundles | 11/23 | [link](https://www.practical-devsecops.com/pricing/) |
 
 ## Education
 
