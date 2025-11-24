@@ -6,8 +6,8 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Practical DevSecOps - AI Security | Save $150 on Certified AI Security Professional, 15% discount on all Certifications, up to $500 with Bundles | 11/23 | [link](https://www.practical-devsecops.com/certified-ai-security-professional/) |
-| Practical DevSecOps - API Security | Save $150 on Certified API Security Professional, 15% discount on all Certifications, up to $500 with Bundles | 11/23 | [link](https://www.practical-devsecops.com/certified-api-security-professional/) |
+| Practical DevSecOps - AI Security | Save $150 on Certified AI Security Professional | 11/23 | [link](https://www.practical-devsecops.com/certified-ai-security-professional/) |
+| Practical DevSecOps - API Security | Save $150 on Certified API Security Professional | 11/23 | [link](https://www.practical-devsecops.com/certified-api-security-professional/) |
 
 ## Bookstores
 
