@@ -58,6 +58,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
+| Proxyman | 30% off w/ code BLACKFRIDAY2025 | 11/23 | [link](https://proxyman.com/) |
 | RackNerd            | Multiple deals       | 11/23      | [link](https://www.racknerd.com/BlackFriday/)     |
 | Lowendbox.com           | Deals starting      | 11/23      | [link](https://lowendbox.com)    |
 | Parallels               | 50% off Parallels Desktop     | 11/23      | [link](https://www.parallels.com/products/desktop/buy/)     |
@@ -92,6 +93,10 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
 | Hak5.org                | Hacked November Sale - up to 58% off        | 11/23       | [link](https://hak5.org/collections/bfcm)     |
+| System76 | $75-300 off until Nov 24th | 11/23 | [link](https://system76.com/specials) |
+| Life360 (Tile) | Up to 40% off Tiles | 11/23 | [link](https://www.life360.com/tile-trackers) |
+
+
 
 ## Certifications
 
