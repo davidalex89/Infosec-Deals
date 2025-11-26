@@ -13,7 +13,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Nostarch.com            | TBD   | 11/23 | [link](https://nostarch.com/upcoming)  |
+| Nostarch.com            | 42% off w/ code BLACKFRIDAY25 (ends 12/2)   | 11/25 | [link](https://nostarch.com/)  |
 | Humblebundle.com        | A year of choice for $124.99 w/ code HOLIDAY25, other deals    | 11/23   | [link](https://www.humblebundle.com/store/promo/humble-black-friday-2024/) |
 | Manning.com             | 40% off with sign up and save | 11/23 | [link](https://deals.manning.com/sign-up-to-emails-and-save-40-digital/) |
 | Pragprog.com            | Save 50% with coupon code save50 | 11/23  | [link](https://media.pragprog.com/newsletters/2025-11-19.html)|
@@ -40,24 +40,25 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | MasterClass | Up to 50% off before black friday | 11/23 | [link](https://www.masterclass.com/promotion) |
 | Coursera.org            | $239 for 12 months       | 11/23      | [link](https://www.coursera.org/courseraplus/special/nov-2025-160-off)     |
 | Infosec Institute | EOY2025 for $250 off any 2025 Infosec Boot Camp | 11/23 | [link](https://www.infosecinstitute.com/courses/promotion/) |
-| Agilestationery.com     | No announcement yet/TBD         | 11/23     | TBD |
-| Appsecengineer          | Appsecengineer | 11/23   | TBD     |
+| Agilestationery.com     | No announcement yet/TBD         | 11/25     | TBD |
+| Appsecengineer          | Appsecengineer | 11/25   | TBD     |
 
 ## Virtual Labs & Pen-test training
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------
-| The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | Offers starting 11/27 | 11/23     | TBD   |
+| The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | Learn offensive-based / red team SSH tunneling, 50% off + free handbook w/ code 2025bf (ends 12/6) | 11/25     | [link](https://opsdisk.gumroad.com/l/cphlab/2025bf)   |
+| Tryhackme               | 40% off annual subscriptions       | 11/23      | [link](https://tryhackme.com/)     |
+| Pentesterlab.com        | ~25% off ($146/ann instead of $199, or $20/mo      | 11/25       | [link](https://pentesterlab.com/pro)     |
 | Whizlabs.com            | Up to 60% off with early black friday deals    |  11/23     | [link](https://www.whizlabs.com/pricing/)      |
 | LetsDefend (by hackthebox) | 50% off black friday | 11/23 | [link](https://letsdefend.io/) |
-| Tryhackme               | 40% off annual subscriptions       | 11/23      | [link](https://tryhackme.com/)     |
-| Pentesterlab.com        | TBD       | 11/23       | TBD     |
+| CyberWareFare Labs | 70-90% off plans & bundles, no coupon needed | 11/25 | [link](https://cyberwarfare.live/) |
 
 ## Threat Intelligence
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
-| Pulsedive (Threat intel) | TBD   | 11/23      | TBD |
+| Pulsedive (Threat intel) | 30% Off 12 Months of Pro w/ code BLACKFRIDAY25 until 12/1 | 11/23      | [link](https://blog.pulsedive.com/black-friday-2025/) |
 
 ## Tools & Services
 
@@ -118,7 +119,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Phillips Robotics | Various black friday discounts | 11/23 | [link](https://www.phillipscorp.com/black-friday-deals/) |
 | Robotshop robotics | Up to 70% off | 11/23 | [link](https://www.robotshop.com/collections/on-sale) |
 | Makeblock Robotics | Up to 63% off | 11/23 | [link](https://www.makeblock.com/pages/bfcm-2025) |
-| Silentpocket.com        |  TBD       | 11/23      | TBD     |
+| Silentpocket.com        |  15-25% off       | 11/25      | [link](https://slnt.com/pages/black-friday-sale)     |
 
 ## Web Design & Hosting
 
