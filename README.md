@@ -40,6 +40,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | MasterClass | Up to 50% off before black friday | 11/23 | [link](https://www.masterclass.com/promotion) |
 | Coursera.org            | $239 for 12 months       | 11/23      | [link](https://www.coursera.org/courseraplus/special/nov-2025-160-off)     |
 | Infosec Institute | EOY2025 for $250 off any 2025 Infosec Boot Camp | 11/23 | [link](https://www.infosecinstitute.com/courses/promotion/) |
+| SecureNinja | Black Friday Cyber Takeover - 50% tuition on certain plans | 11/27 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
 | Agilestationery.com     | No announcement yet/TBD         | 11/25     | TBD |
 | Appsecengineer          | Appsecengineer | 11/25   | TBD     |
 
@@ -53,6 +54,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Whizlabs.com            | Up to 60% off with early black friday deals    |  11/23     | [link](https://www.whizlabs.com/pricing/)      |
 | LetsDefend (by hackthebox) | 50% off black friday | 11/23 | [link](https://letsdefend.io/) |
 | CyberWareFare Labs | 70-90% off plans & bundles, no coupon needed | 11/25 | [link](https://cyberwarfare.live/) |
+| INE (formerly PentesterAcademy) | Save $150-750 on plans | 11/27 | [link](https://checkout.ine.com/#subscriptions) |
 
 ## Threat Intelligence
 
@@ -120,6 +122,8 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Robotshop robotics | Up to 70% off | 11/23 | [link](https://www.robotshop.com/collections/on-sale) |
 | Makeblock Robotics | Up to 63% off | 11/23 | [link](https://www.makeblock.com/pages/bfcm-2025) |
 | Silentpocket.com        |  15-25% off       | 11/25      | [link](https://slnt.com/pages/black-friday-sale)     |
+| Pololu.com tech | $10/20/30 off w/ codes BFDISC10, BFDISC20, BFDISC30 | 11/27 | [link](https://www.pololu.com/blackfriday2025) |
+| Seeedstudio AI/robotics hardware | $25/60/100 off $150/350/600 w/ codes BF25OFF150, BF60OFF350, BF100OFF600 | 11/27 | [link](https://www.seeedstudio.com/thanksgiving-2025) |
 
 ## Web Design & Hosting
 
@@ -141,6 +145,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
 | Chess.com | 50% Premium (no ads, play coach, etc) | 11/27 | [link](https://www.chess.com/membership?c=no_ads) |
+| Memorysteel.com | 20% off w/ code BlackSteel20 (and support Ukraine!) | 11/27 | [link](https://memorysteelua.shop/) |
 | Lego (BF deals start 11/28 | TBD | 11/23 | [link](https://www.lego.com/en-us/black-friday-deals) |
 | Techwear-outfits | 20% off everything w/ code BM25 | 11/23 | [link](https://techwear-outfits.com/) |
 | Robosen store (mini robotics, high quality movie toy replicas) | Up to $409 off & deals | 11/23 | [link](https://us.robosen.com/pages/promotion) |
@@ -149,8 +154,7 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | All-clad cookware | Solid cookware discounts, some as high ~40-50% | 11/27 | [link](https://www.all-clad.com/blackfriday) |
 | Eufy robotics | 25% off w/ code BFCMEUF25 | 11/27 | [link](https://www.eufy.com/eufy-sales) |
 | Barnes & Noble | Buy 1 get 1 50% off B&N Collectible Editions | 11/27 | [link](https://www.barnesandnoble.com/b/buy-one-get-one-50-off-bn-collectible-editions/_/N-2uo4) |
-| 
-
+| Allbirds | Up to 50% off | 11/27 | [link](https://www.allbirds.com/collections/sale-mens) |
 
 
 
