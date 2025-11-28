@@ -140,9 +140,20 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 
 | Website                 | Details | As-of | Link |
 |-------------------------|---------|-------|------|
+| Chess.com | 50% Premium (no ads, play coach, etc) | 11/27 | [link](https://www.chess.com/membership?c=no_ads) |
 | Lego (BF deals start 11/28 | TBD | 11/23 | [link](https://www.lego.com/en-us/black-friday-deals) |
 | Techwear-outfits | 20% off everything w/ code BM25 | 11/23 | [link](https://techwear-outfits.com/) |
 | Robosen store (mini robotics, high quality movie toy replicas) | Up to $409 off & deals | 11/23 | [link](https://us.robosen.com/pages/promotion) |
+| Wyze IOT Black Friday deals | Up to 60% off, 10-15% off with Prime purchase | 11/27 | [link](https://www.wyze.com/pages/black-friday-cyber-monday) |
+| Sonos ARC 5.0.2 Sound bar | $399 (-$200) | 11/27 | [link](https://www.bestbuy.com/product/sonos-arc-5-0-2-channel-smart-soundbar-with-dolby-atmos-white) |
+| All-clad cookware | Solid cookware discounts, some as high ~40-50% | 11/27 | [link](https://www.all-clad.com/blackfriday) |
+| Eufy robotics | 25% off w/ code BFCMEUF25 | 11/27 | [link](https://www.eufy.com/eufy-sales) |
+| Barnes & Noble | Buy 1 get 1 50% off B&N Collectible Editions | 11/27 | [link](https://www.barnesandnoble.com/b/buy-one-get-one-50-off-bn-collectible-editions/_/N-2uo4) |
+| 
+
+
+
+
 
 
 
