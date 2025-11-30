@@ -55,6 +55,8 @@ Updated for 2025, as of Sunday 11/23. Will continue to update periodically as de
 | LetsDefend (by hackthebox) | 50% off black friday | 11/23 | [link](https://letsdefend.io/) |
 | CyberWareFare Labs | 70-90% off plans & bundles, no coupon needed | 11/25 | [link](https://cyberwarfare.live/) |
 | INE (formerly PentesterAcademy) | Save $150-750 on plans | 11/27 | [link](https://checkout.ine.com/#subscriptions) |
+| TheXero Training academy | 65% OFF Wireless Mastery  | 11/27 | [link](https://training.thexero.co.uk/p/2025-black-friday-sale) |
+
 
 ## Threat Intelligence
 
