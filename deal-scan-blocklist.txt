@@ -4,3 +4,5 @@ barnesandnoble.com
 infosecinstitute.com
 media.pragprog.com
 robotshop.com
+masterclass.com
+namecheap.com
