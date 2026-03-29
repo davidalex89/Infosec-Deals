@@ -3,19 +3,21 @@
 Read http(s) links from README.md. Skip any host listed in deal-scan-blocklist.txt
 (no HTTP request — those sites have refused scans before).
 
-For each remaining unique URL: fetch once. On 403, append that host to the blocklist
-and stop touching that host forever. On success, send trimmed page text to GitHub Models
-and ask for sale descriptions + links.
+For each remaining unique URL: fetch once. On 403, append that host to the blocklist.
+On success, send trimmed page text to an LLM and ask for JSON: sale descriptions + links.
 
-Writes deal-scan-test.md: only columns Description | Link (no status codes, no keyword hits).
+Backends (pick one):
+  • Local Ollama — set USE_OLLAMA=1 (no GITHUB_TOKEN). Optional: OLLAMA_URL, OLLAMA_MODEL.
+  • GitHub Models — GITHUB_TOKEN set and USE_OLLAMA unset/false. Optional: DEALS_MODEL.
 
-Env:
-  GITHUB_TOKEN  — required (repo workflow or local `gh auth token`)
-  DEALS_MODEL   — optional, default openai/gpt-4.1
+Output defaults to deal-scan.local.md (gitignored). Override with --out.
+
+Quick smoke test:
+  USE_OLLAMA=1 OLLAMA_MODEL=llama3.2 python3 scripts/deal_scan_test.py --limit 3
 
 Usage (repo root):
-  export GITHUB_TOKEN=...
-  python3 scripts/deal_scan_test.py
+  USE_OLLAMA=1 python3 scripts/deal_scan_test.py
+  GITHUB_TOKEN=... python3 scripts/deal_scan_test.py
 """
 
 from __future__ import annotations
@@ -36,7 +38,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 README_DEFAULT = ROOT / "README.md"
-OUT_DEFAULT = ROOT / "deal-scan-test.md"
+OUT_DEFAULT = ROOT / "deal-scan.local.md"
 BLOCKLIST_DEFAULT = ROOT / "deal-scan-blocklist.txt"
 
 LINK_RE = re.compile(r"\[[^\]]*\]\((https?://[^\s\)]+)\)", re.IGNORECASE)
@@ -47,6 +49,14 @@ MAX_BYTES = 500_000
 FETCH_TIMEOUT = 25
 MAX_TEXT_FOR_MODEL = 28_000
 MODEL_SLEEP_SEC = 0.6
+
+SYSTEM_PROMPT = (
+    "You extract active promotional offers from webpage text for a curated infosec/tech deals list. "
+    "Respond with ONLY valid JSON: {\"deals\":[{\"description\":\"short plain English\",\"link\":\"https://...\"}]} . "
+    "Use an absolute https URL for link when the page names a specific offer URL; otherwise use the page URL given. "
+    "If there is no clear current sale/discount/promo/coupon, return {\"deals\":[]}. "
+    "At most 3 deals per page. No markdown, no commentary outside JSON."
+)
 
 
 class _Stripper(HTMLParser):
@@ -117,7 +127,7 @@ def extract_links(md: str) -> list[str]:
     return list(seen.keys())
 
 
-def http_post_json(url: str, headers: dict, payload: dict) -> dict:
+def http_post_json(url: str, headers: dict, payload: dict, timeout: int = 120) -> dict:
     data = json.dumps(payload).encode("utf-8")
     req = urllib.request.Request(
         url,
@@ -129,7 +139,7 @@ def http_post_json(url: str, headers: dict, payload: dict) -> dict:
         },
         method="POST",
     )
-    with urllib.request.urlopen(req, timeout=120) as resp:
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
         body = resp.read().decode("utf-8")
         return json.loads(body) if body.strip() else {}
 
@@ -178,34 +188,7 @@ def _parse_json_object(content: str) -> dict:
         raise
 
 
-def extract_deals_with_model(token: str, model: str, page_url: str, page_text: str) -> list[dict]:
-    snippet = page_text[:MAX_TEXT_FOR_MODEL]
-    if len(page_text) > MAX_TEXT_FOR_MODEL:
-        snippet += "\n\n[…truncated…]"
-    system = (
-        "You extract active promotional offers from webpage text for a curated infosec/tech deals list. "
-        "Respond with ONLY valid JSON: {\"deals\":[{\"description\":\"short plain English\",\"link\":\"https://...\"}]} . "
-        "Use an absolute https URL for link when the page names a specific offer URL; otherwise use the page URL given. "
-        "If there is no clear current sale/discount/promo/coupon, return {\"deals\":[]}. "
-        "At most 3 deals per page. No markdown, no commentary outside JSON."
-    )
-    user = f"Page URL: {page_url}\n\nPage text:\n{snippet}"
-    payload = {
-        "model": model,
-        "messages": [
-            {"role": "system", "content": system},
-            {"role": "user", "content": user},
-        ],
-        "temperature": 0.2,
-        "max_tokens": 1200,
-    }
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2026-03-10",
-    }
-    data = http_post_json(GITHUB_MODELS_URL, headers, payload)
-    content = data["choices"][0]["message"]["content"]
+def parse_deals_json(content: str, page_url: str) -> list[dict]:
     parsed = _parse_json_object(content)
     deals = parsed.get("deals", [])
     out: list[dict] = []
@@ -219,19 +202,89 @@ def extract_deals_with_model(token: str, model: str, page_url: str, page_text: s
     return out
 
 
+def llm_extract_deals_github(token: str, model: str, page_url: str, page_text: str) -> list[dict]:
+    snippet = page_text[:MAX_TEXT_FOR_MODEL]
+    if len(page_text) > MAX_TEXT_FOR_MODEL:
+        snippet += "\n\n[…truncated…]"
+    user = f"Page URL: {page_url}\n\nPage text:\n{snippet}"
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": user},
+        ],
+        "temperature": 0.2,
+        "max_tokens": 1200,
+    }
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2026-03-10",
+    }
+    data = http_post_json(GITHUB_MODELS_URL, headers, payload)
+    content = data["choices"][0]["message"]["content"]
+    return parse_deals_json(content, page_url)
+
+
+def llm_extract_deals_ollama(base_url: str, model: str, page_url: str, page_text: str) -> list[dict]:
+    snippet = page_text[:MAX_TEXT_FOR_MODEL]
+    if len(page_text) > MAX_TEXT_FOR_MODEL:
+        snippet += "\n\n[…truncated…]"
+    user = f"Page URL: {page_url}\n\nPage text:\n{snippet}"
+    url = base_url.rstrip("/") + "/api/chat"
+    payload: dict = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": user},
+        ],
+        "stream": False,
+        "options": {"temperature": 0.2},
+        "format": "json",
+    }
+    data = http_post_json(url, {}, payload, timeout=600)
+    content = data.get("message", {}).get("content", "")
+    if not content:
+        raise RuntimeError(f"empty Ollama response: {data!r}")
+    return parse_deals_json(content, page_url)
+
+
+def _truthy_env(name: str) -> bool:
+    return os.environ.get(name, "").strip().lower() in ("1", "true", "yes", "on")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--readme", type=Path, default=README_DEFAULT)
     ap.add_argument("--out", type=Path, default=OUT_DEFAULT)
     ap.add_argument("--blocklist", type=Path, default=BLOCKLIST_DEFAULT)
+    ap.add_argument(
+        "--limit",
+        type=int,
+        default=0,
+        metavar="N",
+        help="only process first N fetchable URLs (after blocklist); 0 = no limit",
+    )
     args = ap.parse_args()
 
+    use_ollama = _truthy_env("USE_OLLAMA")
     token = os.environ.get("GITHUB_TOKEN", "").strip()
-    if not token:
-        print("GITHUB_TOKEN is required for GitHub Models.", file=sys.stderr)
-        return 1
 
-    model = os.environ.get("DEALS_MODEL", "openai/gpt-4.1").strip()
+    if use_ollama:
+        ollama_base = os.environ.get("OLLAMA_URL", "http://127.0.0.1:11434").strip()
+        ollama_model = os.environ.get("OLLAMA_MODEL", "llama3.2").strip()
+        backend_label = f"Ollama ({ollama_model} @ {ollama_base})"
+        extract_fn = lambda url, plain: llm_extract_deals_ollama(ollama_base, ollama_model, url, plain)
+    elif token:
+        gh_model = os.environ.get("DEALS_MODEL", "openai/gpt-4.1").strip()
+        backend_label = f"GitHub Models ({gh_model})"
+        extract_fn = lambda url, plain: llm_extract_deals_github(token, gh_model, url, plain)
+    else:
+        print(
+            "Set USE_OLLAMA=1 for local Ollama, or set GITHUB_TOKEN for GitHub Models.",
+            file=sys.stderr,
+        )
+        return 1
 
     if not args.readme.is_file():
         print(f"Missing {args.readme}", file=sys.stderr)
@@ -245,8 +298,12 @@ def main() -> int:
     skipped_blocklist = 0
     skipped_fetch_fail = 0
     newly_blocked = 0
+    processed = 0
 
     for url in urls:
+        if args.limit and processed >= args.limit:
+            break
+
         p = urlparse(url)
         if p.scheme not in ("http", "https") or not p.netloc:
             continue
@@ -263,26 +320,29 @@ def main() -> int:
             continue
 
         if code is None or (code and code >= 400):
-            print(f"Skip (no model): {url} — {code} {err[:80]}", file=sys.stderr)
+            print(f"Skip (no LLM): {url} — {code} {err[:80]}", file=sys.stderr)
             skipped_fetch_fail += 1
             continue
 
         plain = html_to_text(body)
         try:
-            deals = extract_deals_with_model(token, model, url, plain)
+            deals = extract_fn(url, plain)
         except Exception as e:
-            print(f"Model error for {url}: {e}", file=sys.stderr)
+            print(f"LLM error for {url}: {e}", file=sys.stderr)
             skipped_fetch_fail += 1
             time.sleep(MODEL_SLEEP_SEC)
             continue
 
+        processed += 1
         for d in deals:
             rows.append((d["description"], d["link"]))
         time.sleep(MODEL_SLEEP_SEC)
 
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [
-        "# Deal scan (GitHub Models)",
+        "# Deal scan",
+        "",
+        f"**Backend:** {backend_label}",
         "",
         f"Generated **{ts}** from links in `{args.readme.name}`.",
         "",
@@ -303,7 +363,7 @@ def main() -> int:
     args.out.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(
         f"Wrote {args.out} — {len(rows)} deal row(s); "
-        f"{skipped_blocklist} skipped (blocklist); {skipped_fetch_fail} fetch/model skips; {newly_blocked} new 403→blocklist.",
+        f"{skipped_blocklist} skipped (blocklist); {skipped_fetch_fail} fetch/LLM skips; {newly_blocked} new 403→blocklist.",
         file=sys.stderr,
     )
     return 0
