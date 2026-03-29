@@ -1,51 +1,52 @@
 #!/usr/bin/env python3
 """
-Extract http(s) links from README.md, dedupe by site origin (scheme + host → /),
-fetch each homepage, and look for crude sale/discount signals in the HTML text.
-Origins that return 403 (or time out) are omitted from the report.
+Read http(s) links from README.md. Skip any host listed in deal-scan-blocklist.txt
+(no HTTP request — those sites have refused scans before).
 
-Writes deal-scan-test.md in the repo root. No dependencies beyond stdlib.
+For each remaining unique URL: fetch once. On 403, append that host to the blocklist
+and stop touching that host forever. On success, send trimmed page text to GitHub Models
+and ask for sale descriptions + links.
 
-Usage (from repo root):
+Writes deal-scan-test.md: only columns Description | Link (no status codes, no keyword hits).
+
+Env:
+  GITHUB_TOKEN  — required (repo workflow or local `gh auth token`)
+  DEALS_MODEL   — optional, default openai/gpt-4.1
+
+Usage (repo root):
+  export GITHUB_TOKEN=...
   python3 scripts/deal_scan_test.py
-  python3 scripts/deal_scan_test.py --readme path/to/README.md --out deal-scan-test.md
 """
 
 from __future__ import annotations
 
 import argparse
 import html
+import json
+import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
-from collections import OrderedDict
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import urlparse, urlunparse
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 README_DEFAULT = ROOT / "README.md"
 OUT_DEFAULT = ROOT / "deal-scan-test.md"
+BLOCKLIST_DEFAULT = ROOT / "deal-scan-blocklist.txt"
 
 LINK_RE = re.compile(r"\[[^\]]*\]\((https?://[^\s\)]+)\)", re.IGNORECASE)
 
-# Crude signals — false positives/negatives expected; this is a test sweep.
-KEYWORD_CHECKS: list[tuple[str, re.Pattern[str]]] = [
-    ("black friday", re.compile(r"\bblack\s+friday\b", re.I)),
-    ("cyber monday", re.compile(r"\bcyber\s+monday\b", re.I)),
-    ("sale", re.compile(r"\bsale\b", re.I)),
-    ("discount", re.compile(r"\bdiscount\b", re.I)),
-    ("promo", re.compile(r"\bpromo(tion| code)?\b", re.I)),
-    ("coupon", re.compile(r"\bcoupon\b", re.I)),
-    ("% off", re.compile(r"(\b%\s*off\b|\d+\s*%\s*off|\bsave\s+\d+\s*%)", re.I)),
-    ("bundle / for $", re.compile(r"\bx\s+for\s+\$", re.I)),
-]
-
-USER_AGENT = "Infosec-Deals-scan-test/1.0 (+https://github.com/davidalex89/Infosec-Deals)"
+GITHUB_MODELS_URL = "https://models.github.ai/inference/chat/completions"
+HTTP_USER_AGENT = "Infosec-Deals-scan/1.0 (+https://github.com/davidalex89/Infosec-Deals)"
 MAX_BYTES = 500_000
-TIMEOUT_SEC = 20
+FETCH_TIMEOUT = 25
+MAX_TEXT_FOR_MODEL = 28_000
+MODEL_SLEEP_SEC = 0.6
 
 
 class _Stripper(HTMLParser):
@@ -74,145 +75,237 @@ def html_to_text(raw: str) -> str:
     return t
 
 
-def extract_links(md: str) -> list[str]:
-    return [m.group(1).rstrip(").,;") for m in LINK_RE.finditer(md)]
+def normalize_host(netloc: str) -> str:
+    n = netloc.lower().split("@")[-1]
+    if ":" in n:
+        n = n.split(":")[0]
+    if n.startswith("www."):
+        n = n[4:]
+    return n
 
 
-def origin_url(url: str) -> str | None:
-    try:
-        p = urlparse(url)
-        if p.scheme not in ("http", "https") or not p.netloc:
-            return None
-        netloc = p.netloc.split("@")[-1].lower()
-        if ":" in netloc and netloc.count(":") == 1:
-            host, port = netloc.rsplit(":", 1)
-            if port.isdigit() and host:
-                netloc = f"{host}:{port}"
-        scheme = p.scheme.lower()
-        return urlunparse((scheme, netloc, "/", "", "", ""))
-    except Exception:
-        return None
-
-
-def dedupe_origins(urls: list[str]) -> OrderedDict[str, str]:
-    """Map normalized netloc (host[:port]) -> preferred origin URL (https wins)."""
-    by_host: dict[str, tuple[str, int]] = {}
-    for u in urls:
-        o = origin_url(u)
-        if not o:
+def load_blocklist(path: Path) -> set[str]:
+    if not path.is_file():
+        return set()
+    out: set[str] = set()
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
             continue
-        p = urlparse(o)
-        host = p.netloc
-        score = 1 if p.scheme == "https" else 0
-        prev = by_host.get(host)
-        if prev is None or score > prev[1]:
-            by_host[host] = (o, score)
-    out: OrderedDict[str, str] = OrderedDict()
-    for host in sorted(by_host.keys()):
-        out[host] = by_host[host][0]
+        out.add(normalize_host(line))
     return out
+
+
+def add_host_to_blocklist(path: Path, netloc: str) -> None:
+    host = normalize_host(netloc)
+    if not host:
+        return
+    cur = load_blocklist(path)
+    if host in cur:
+        return
+    with open(path, "a", encoding="utf-8") as f:
+        f.write(f"{host}\n")
+    print(f"Added to blocklist (no future requests): {host}", file=sys.stderr)
+
+
+def extract_links(md: str) -> list[str]:
+    seen: dict[str, None] = {}
+    for m in LINK_RE.finditer(md):
+        u = m.group(1).rstrip(").,;")
+        if u not in seen:
+            seen[u] = None
+    return list(seen.keys())
+
+
+def http_post_json(url: str, headers: dict, payload: dict) -> dict:
+    data = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(
+        url,
+        data=data,
+        headers={
+            "User-Agent": HTTP_USER_AGENT,
+            **headers,
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        body = resp.read().decode("utf-8")
+        return json.loads(body) if body.strip() else {}
 
 
 def fetch(url: str) -> tuple[int | None, str, str]:
     req = urllib.request.Request(
         url,
-        headers={"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml;q=0.9,*/*;q=0.8"},
+        headers={"User-Agent": HTTP_USER_AGENT, "Accept": "text/html,application/xhtml+xml;q=0.9,*/*;q=0.8"},
         method="GET",
     )
     try:
-        with urllib.request.urlopen(req, timeout=TIMEOUT_SEC) as resp:
+        with urllib.request.urlopen(req, timeout=FETCH_TIMEOUT) as resp:
             code = resp.getcode()
             raw = resp.read(MAX_BYTES + 1)
             if len(raw) > MAX_BYTES:
                 raw = raw[:MAX_BYTES]
-            charset = "utf-8"
-            ct = resp.headers.get_content_charset()
-            if ct:
-                charset = ct
+            charset = resp.headers.get_content_charset() or "utf-8"
             text = raw.decode(charset, errors="replace")
             return code, text, ""
     except urllib.error.HTTPError as e:
-        body = e.read().decode("utf-8", errors="replace")[:5000]
+        try:
+            body = e.read().decode("utf-8", errors="replace")[:5000]
+        except Exception:
+            body = ""
         return e.code, body, str(e)
     except Exception as e:
         return None, "", str(e)
 
 
-def find_hits(plain: str) -> list[str]:
-    return [label for label, pat in KEYWORD_CHECKS if pat.search(plain)]
+def _parse_json_object(content: str) -> dict:
+    text = content.strip()
+    if text.startswith("```"):
+        lines = text.split("\n")
+        if lines and lines[0].startswith("```"):
+            lines = lines[1:]
+        if lines and lines[-1].strip().startswith("```"):
+            lines = lines[:-1]
+        text = "\n".join(lines).strip()
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        start = text.find("{")
+        end = text.rfind("}")
+        if start != -1 and end > start:
+            return json.loads(text[start : end + 1])
+        raise
 
 
-def _is_timeout_error(err: str) -> bool:
-    e = err.lower()
-    return "timed out" in e or "timeout" in e
+def extract_deals_with_model(token: str, model: str, page_url: str, page_text: str) -> list[dict]:
+    snippet = page_text[:MAX_TEXT_FOR_MODEL]
+    if len(page_text) > MAX_TEXT_FOR_MODEL:
+        snippet += "\n\n[…truncated…]"
+    system = (
+        "You extract active promotional offers from webpage text for a curated infosec/tech deals list. "
+        "Respond with ONLY valid JSON: {\"deals\":[{\"description\":\"short plain English\",\"link\":\"https://...\"}]} . "
+        "Use an absolute https URL for link when the page names a specific offer URL; otherwise use the page URL given. "
+        "If there is no clear current sale/discount/promo/coupon, return {\"deals\":[]}. "
+        "At most 3 deals per page. No markdown, no commentary outside JSON."
+    )
+    user = f"Page URL: {page_url}\n\nPage text:\n{snippet}"
+    payload = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": system},
+            {"role": "user", "content": user},
+        ],
+        "temperature": 0.2,
+        "max_tokens": 1200,
+    }
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        "X-GitHub-Api-Version": "2026-03-10",
+    }
+    data = http_post_json(GITHUB_MODELS_URL, headers, payload)
+    content = data["choices"][0]["message"]["content"]
+    parsed = _parse_json_object(content)
+    deals = parsed.get("deals", [])
+    out: list[dict] = []
+    for d in deals[:3]:
+        if not isinstance(d, dict):
+            continue
+        desc = str(d.get("description", "")).strip()
+        link = str(d.get("link", "")).strip() or page_url
+        if desc:
+            out.append({"description": desc, "link": link})
+    return out
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Homepage sale-keyword test scan for README links.")
+    ap = argparse.ArgumentParser()
     ap.add_argument("--readme", type=Path, default=README_DEFAULT)
     ap.add_argument("--out", type=Path, default=OUT_DEFAULT)
+    ap.add_argument("--blocklist", type=Path, default=BLOCKLIST_DEFAULT)
     args = ap.parse_args()
 
-    if not args.readme.is_file():
-        print(f"Missing README: {args.readme}", file=sys.stderr)
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
+    if not token:
+        print("GITHUB_TOKEN is required for GitHub Models.", file=sys.stderr)
         return 1
 
-    md = args.readme.read_text(encoding="utf-8")
-    links = extract_links(md)
-    origins = dedupe_origins(links)
+    model = os.environ.get("DEALS_MODEL", "openai/gpt-4.1").strip()
 
+    if not args.readme.is_file():
+        print(f"Missing {args.readme}", file=sys.stderr)
+        return 1
+
+    blocklist = load_blocklist(args.blocklist)
+    md = args.readme.read_text(encoding="utf-8")
+    urls = extract_links(md)
+
+    rows: list[tuple[str, str]] = []
+    skipped_blocklist = 0
+    skipped_fetch_fail = 0
+    newly_blocked = 0
+
+    for url in urls:
+        p = urlparse(url)
+        if p.scheme not in ("http", "https") or not p.netloc:
+            continue
+        host = normalize_host(p.netloc)
+        if host in blocklist:
+            skipped_blocklist += 1
+            continue
+
+        code, body, err = fetch(url)
+        if code == 403:
+            add_host_to_blocklist(args.blocklist, p.netloc)
+            blocklist.add(host)
+            newly_blocked += 1
+            continue
+
+        if code is None or (code and code >= 400):
+            print(f"Skip (no model): {url} — {code} {err[:80]}", file=sys.stderr)
+            skipped_fetch_fail += 1
+            continue
+
+        plain = html_to_text(body)
+        try:
+            deals = extract_deals_with_model(token, model, url, plain)
+        except Exception as e:
+            print(f"Model error for {url}: {e}", file=sys.stderr)
+            skipped_fetch_fail += 1
+            time.sleep(MODEL_SLEEP_SEC)
+            continue
+
+        for d in deals:
+            rows.append((d["description"], d["link"]))
+        time.sleep(MODEL_SLEEP_SEC)
+
+    ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [
-        "# Deal scan test (homepage / origin only)",
+        "# Deal scan (GitHub Models)",
         "",
-        f"Generated **{datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}** from links in `{args.readme.name}`.",
+        f"Generated **{ts}** from links in `{args.readme.name}`.",
         "",
-        "For each **unique site** (`scheme://host/`), we fetch the **root path** only — not the specific deal URL from the README. ",
-        "Keyword hits are **noisy** (banners, footers, unrelated copy). Use this as a quick smoke test, not ground truth.",
+        f"Hosts in `{args.blocklist.name}` are **never requested** (403 history). ",
+        f"This run: **{skipped_blocklist}** URL(s) skipped via blocklist, **{newly_blocked}** new host(s) added after 403.",
         "",
-        "Origins that return **403 Forbidden** (or fetch **timeout**) are **not listed** — we do not treat those homepages as scanned.",
-        "",
-        "| Origin fetched | HTTP | Keyword-ish hits | Notes |",
-        "|----------------|------|------------------|-------|",
+        "| Description | Link |",
+        "|-------------|------|",
     ]
 
-    listed = 0
-    n_forbidden = 0
-    n_timeout = 0
-
-    for _host, origin in origins.items():
-        code, body, err = fetch(origin)
-        if code == 403:
-            n_forbidden += 1
-            continue
-        if err and not body:
-            if _is_timeout_error(err):
-                n_timeout += 1
-                continue
-            lines.append(f"| `{origin}` | — | — | {err[:120].replace('|', '/')} |")
-            listed += 1
-            continue
-        plain = html_to_text(body) if body else ""
-        hits = find_hits(plain)
-        hit_cell = ", ".join(f"`{h}`" for h in hits[:8]) if hits else "—"
-        if len(hits) > 8:
-            hit_cell += f" (+{len(hits) - 8} more)"
-        code_s = str(code) if code is not None else "—"
-        note = err[:100] if err else ""
-        lines.append(f"| `{origin}` | {code_s} | {hit_cell} | {note.replace('|', '/')} |")
-        listed += 1
-
-    stats = (
-        f"**Summary:** {listed} origin(s) in table, {n_forbidden} skipped (403), {n_timeout} skipped (timeout), "
-        f"{len(origins)} unique origins from {len(links)} README links."
-    )
-    for i, line in enumerate(lines):
-        if line.startswith("| Origin fetched |"):
-            lines.insert(i, "")
-            lines.insert(i, stats)
-            break
+    if not rows:
+        lines.append("| *No promotional offers extracted this run.* | — |")
+    else:
+        for desc, link in rows:
+            safe = desc.replace("|", "/")
+            lines.append(f"| {safe} | [link]({link}) |")
 
     args.out.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"Wrote {args.out} ({listed} listed, {n_forbidden}×403 skipped, {n_timeout}×timeout skipped).")
+    print(
+        f"Wrote {args.out} — {len(rows)} deal row(s); "
+        f"{skipped_blocklist} skipped (blocklist); {skipped_fetch_fail} fetch/model skips; {newly_blocked} new 403→blocklist.",
+        file=sys.stderr,
+    )
     return 0
 
 
