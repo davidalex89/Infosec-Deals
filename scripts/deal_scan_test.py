@@ -2,24 +2,28 @@
 """
 Read http(s) links from README.md. Skip hosts in deal-scan-blocklist.txt (no request).
 
-For each URL: fetch HTML, strip to text, crude keyword/heuristic pass → **Yes** / **No**
-whether the page plausibly mentions a sale, discount, promo, coupon, etc.
+For each URL: fetch HTML, strip to text, then either:
+  • Keyword heuristics → **Yes** / **No** (default), or
+  • Local **Ollama** (`USE_OLLAMA=1`) → JSON {sale, rationale} for smarter yes/no.
 
-This is intentionally dumb (no LLM). Wire Ollama/GitHub later if you want smarter text.
+If Ollama errors, falls back to heuristics for that row (noted in output).
 
-Output: deal-scan.local.md (gitignored by default). Options: --out, --limit N.
+Output: deal-scan.local.md (gitignored). Options: --out, --limit N.
 
 Usage (repo root):
   python3 scripts/deal_scan_test.py
-  python3 scripts/deal_scan_test.py --limit 10
+  USE_OLLAMA=1 OLLAMA_MODEL=llama3.2 python3 scripts/deal_scan_test.py --limit 5
 """
 
 from __future__ import annotations
 
 import argparse
 import html
+import json
+import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
 from datetime import datetime, timezone
@@ -36,6 +40,16 @@ LINK_RE = re.compile(r"\[[^\]]*\]\((https?://[^\s\)]+)\)", re.IGNORECASE)
 HTTP_USER_AGENT = "Infosec-Deals-scan/1.0 (+https://github.com/davidalex89/Infosec-Deals)"
 MAX_BYTES = 500_000
 FETCH_TIMEOUT = 25
+MAX_TEXT_OLLAMA = 14_000
+OLLAMA_CHAT_TIMEOUT = 300
+OLLAMA_SLEEP_SEC = 0.4
+
+OLLAMA_SYSTEM = (
+    "You classify whether a web page's visible text describes an active promotional offer "
+    "(sale, discount, coupon code, limited-time deal, bundle pricing, holiday promo). "
+    "Marketing fluff without a concrete offer → sale false. "
+    "Reply with ONLY valid JSON: {\"sale\": true or false, \"rationale\": \"<=20 words\"}"
+)
 
 # If any pattern matches (case-insensitive on plain text), we report **Yes**.
 SALE_PATTERNS: list[tuple[str, re.Pattern[str]]] = [
@@ -151,13 +165,87 @@ def detect_sale(plain: str) -> tuple[bool, list[str]]:
     return (len(hits) > 0), hits
 
 
+def _truthy_env(name: str) -> bool:
+    return os.environ.get(name, "").strip().lower() in ("1", "true", "yes", "on")
+
+
+def _coerce_bool(v: object) -> bool:
+    if isinstance(v, bool):
+        return v
+    if isinstance(v, str):
+        return v.strip().lower() in ("true", "yes", "1")
+    return bool(v)
+
+
+def _parse_json_object(content: str) -> dict:
+    text = content.strip()
+    if text.startswith("```"):
+        lines = text.split("\n")
+        if lines and lines[0].startswith("```"):
+            lines = lines[1:]
+        if lines and lines[-1].strip().startswith("```"):
+            lines = lines[:-1]
+        text = "\n".join(lines).strip()
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        start = text.find("{")
+        end = text.rfind("}")
+        if start != -1 and end > start:
+            return json.loads(text[start : end + 1])
+        raise
+
+
+def http_post_json(url: str, payload: dict, timeout: int) -> dict:
+    data = json.dumps(payload).encode("utf-8")
+    req = urllib.request.Request(
+        url,
+        data=data,
+        headers={"User-Agent": HTTP_USER_AGENT, "Content-Type": "application/json"},
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        body = resp.read().decode("utf-8")
+        return json.loads(body) if body.strip() else {}
+
+
+def ollama_classify_sale(base_url: str, model: str, page_url: str, plain: str) -> tuple[bool, str]:
+    snippet = plain[:MAX_TEXT_OLLAMA]
+    if len(plain) > MAX_TEXT_OLLAMA:
+        snippet += "\n\n[…truncated…]"
+    user = f"Page URL: {page_url}\n\nPage text:\n{snippet}"
+    endpoint = base_url.rstrip("/") + "/api/chat"
+    payload: dict = {
+        "model": model,
+        "messages": [
+            {"role": "system", "content": OLLAMA_SYSTEM},
+            {"role": "user", "content": user},
+        ],
+        "stream": False,
+        "options": {"temperature": 0.1},
+        "format": "json",
+    }
+    data = http_post_json(endpoint, payload, OLLAMA_CHAT_TIMEOUT)
+    raw = (data.get("message") or {}).get("content", "")
+    if not raw:
+        raise RuntimeError("empty Ollama message")
+    parsed = _parse_json_object(raw)
+    sale = _coerce_bool(parsed.get("sale", False))
+    rationale = str(parsed.get("rationale", "")).strip() or "(no rationale)"
+    return sale, rationale
+
+
 def main() -> int:
-    ap = argparse.ArgumentParser(description="Heuristic sale yes/no scan for README links.")
+    ap = argparse.ArgumentParser(description="Sale yes/no scan for README links (heuristic and/or Ollama).")
     ap.add_argument("--readme", type=Path, default=README_DEFAULT)
     ap.add_argument("--out", type=Path, default=OUT_DEFAULT)
     ap.add_argument("--blocklist", type=Path, default=BLOCKLIST_DEFAULT)
     ap.add_argument("--limit", type=int, default=0, metavar="N", help="max successful fetches; 0 = all")
     args = ap.parse_args()
+
+    use_ollama = _truthy_env("USE_OLLAMA")
+    ollama_base = os.environ.get("OLLAMA_URL", "http://127.0.0.1:11434").strip()
+    ollama_model = os.environ.get("OLLAMA_MODEL", "llama3.2").strip()
 
     if not args.readme.is_file():
         print(f"Missing {args.readme}", file=sys.stderr)
@@ -167,7 +255,7 @@ def main() -> int:
     md = args.readme.read_text(encoding="utf-8")
     urls = extract_links(md)
 
-    rows: list[tuple[str, str, str]] = []  # url, Yes|No, matched hints
+    rows: list[tuple[str, str, str]] = []  # url, Yes|No, notes
     skipped_blocklist = 0
     skipped_fetch = 0
     newly_blocked = 0
@@ -201,26 +289,53 @@ def main() -> int:
 
         processed += 1
         plain = html_to_text(body)
-        yes, hits = detect_sale(plain)
-        if yes:
-            n_yes += 1
-            hint = ", ".join(hits[:6]) + ("…" if len(hits) > 6 else "")
-            rows.append((url, "**Yes**", hint))
+        heur_yes, hits = detect_sale(plain)
+        heur_hint = ", ".join(hits[:6]) + ("…" if len(hits) > 6 else "") if hits else "—"
+
+        if use_ollama:
+            try:
+                o_yes, rationale = ollama_classify_sale(ollama_base, ollama_model, url, plain)
+                if o_yes:
+                    n_yes += 1
+                    yn = "**Yes**"
+                else:
+                    n_no += 1
+                    yn = "**No**"
+                notes = f"{rationale} _Heuristic: {'Yes' if heur_yes else 'No'} ({heur_hint})._"
+                rows.append((url, yn, notes))
+            except Exception as e:
+                print(f"Ollama failed for {url}: {e}", file=sys.stderr)
+                if heur_yes:
+                    n_yes += 1
+                    rows.append((url, "**Yes**", f"(Ollama error, heuristic) {heur_hint}"))
+                else:
+                    n_no += 1
+                    rows.append((url, "**No**", f"(Ollama error, heuristic) {heur_hint}"))
+            time.sleep(OLLAMA_SLEEP_SEC)
         else:
-            n_no += 1
-            rows.append((url, "**No**", "—"))
+            if heur_yes:
+                n_yes += 1
+                rows.append((url, "**Yes**", heur_hint))
+            else:
+                n_no += 1
+                rows.append((url, "**No**", "—"))
 
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    mode = (
+        f"**Ollama** `{ollama_model}` @ `{ollama_base}` (heuristic shown for comparison)."
+        if use_ollama
+        else "**Heuristic keywords** only (no LLM)."
+    )
     lines = [
-        "# Deal scan (heuristic only, no LLM)",
+        "# Deal scan",
         "",
-        f"Generated **{ts}** from `{args.readme.name}`. **Yes** = at least one keyword pattern matched in page text (noisy).",
+        f"Generated **{ts}** from `{args.readme.name}`. {mode}",
         "",
         f"**Summary:** {n_yes} Yes / {n_no} No (among {processed} pages fetched). "
         f"Blocklist skips: {skipped_blocklist}; fetch failures: {skipped_fetch}; new 403→blocklist: {newly_blocked}.",
         "",
-        "| URL | Sale detected? | Matched patterns (if any) |",
-        "|-----|----------------|---------------------------|",
+        "| URL | Sale detected? | Notes |",
+        "|-----|----------------|-------|",
     ]
     for u, yn, hint in rows:
         safe_u = u.replace("|", "%7C")
