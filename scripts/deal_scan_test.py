@@ -2,6 +2,7 @@
 """
 Extract http(s) links from README.md, dedupe by site origin (scheme + host → /),
 fetch each homepage, and look for crude sale/discount signals in the HTML text.
+Origins that return 403 (or time out) are omitted from the report.
 
 Writes deal-scan-test.md in the repo root. No dependencies beyond stdlib.
 
@@ -141,6 +142,11 @@ def find_hits(plain: str) -> list[str]:
     return [label for label, pat in KEYWORD_CHECKS if pat.search(plain)]
 
 
+def _is_timeout_error(err: str) -> bool:
+    e = err.lower()
+    return "timed out" in e or "timeout" in e
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="Homepage sale-keyword test scan for README links.")
     ap.add_argument("--readme", type=Path, default=README_DEFAULT)
@@ -163,16 +169,27 @@ def main() -> int:
         "For each **unique site** (`scheme://host/`), we fetch the **root path** only — not the specific deal URL from the README. ",
         "Keyword hits are **noisy** (banners, footers, unrelated copy). Use this as a quick smoke test, not ground truth.",
         "",
-        f"**Unique origins:** {len(origins)} (from {len(links)} markdown links).",
+        "Origins that return **403 Forbidden** (or fetch **timeout**) are **not listed** — we do not treat those homepages as scanned.",
         "",
         "| Origin fetched | HTTP | Keyword-ish hits | Notes |",
         "|----------------|------|------------------|-------|",
     ]
 
+    listed = 0
+    n_forbidden = 0
+    n_timeout = 0
+
     for _host, origin in origins.items():
         code, body, err = fetch(origin)
+        if code == 403:
+            n_forbidden += 1
+            continue
         if err and not body:
+            if _is_timeout_error(err):
+                n_timeout += 1
+                continue
             lines.append(f"| `{origin}` | — | — | {err[:120].replace('|', '/')} |")
+            listed += 1
             continue
         plain = html_to_text(body) if body else ""
         hits = find_hits(plain)
@@ -182,9 +199,20 @@ def main() -> int:
         code_s = str(code) if code is not None else "—"
         note = err[:100] if err else ""
         lines.append(f"| `{origin}` | {code_s} | {hit_cell} | {note.replace('|', '/')} |")
+        listed += 1
+
+    stats = (
+        f"**Summary:** {listed} origin(s) in table, {n_forbidden} skipped (403), {n_timeout} skipped (timeout), "
+        f"{len(origins)} unique origins from {len(links)} README links."
+    )
+    for i, line in enumerate(lines):
+        if line.startswith("| Origin fetched |"):
+            lines.insert(i, "")
+            lines.insert(i, stats)
+            break
 
     args.out.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"Wrote {args.out} ({len(origins)} origins).")
+    print(f"Wrote {args.out} ({listed} listed, {n_forbidden}×403 skipped, {n_timeout}×timeout skipped).")
     return 0
 
 

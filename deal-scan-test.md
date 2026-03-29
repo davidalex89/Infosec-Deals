@@ -1,11 +1,13 @@
 # Deal scan test (homepage / origin only)
 
-Generated **2026-03-29 09:27 UTC** from links in `README.md`.
+Generated **2026-03-29 09:32 UTC** from links in `README.md`.
 
 For each **unique site** (`scheme://host/`), we fetch the **root path** only — not the specific deal URL from the README. 
 Keyword hits are **noisy** (banners, footers, unrelated copy). Use this as a quick smoke test, not ground truth.
 
-**Unique origins:** 66 (from 69 markdown links).
+Origins that return **403 Forbidden** (or fetch **timeout**) are **not listed** — we do not treat those homepages as scanned.
+
+**Summary:** 61 origin(s) in table, 4 skipped (403), 1 skipped (timeout), 66 unique origins from 69 README links.
 
 | Origin fetched | HTTP | Keyword-ish hits | Notes |
 |----------------|------|------------------|-------|
@@ -18,8 +20,7 @@ Keyword hits are **noisy** (banners, footers, unrelated copy). Use this as a qui
 | `https://iclass.eccouncil.org/` | 200 | — |  |
 | `https://joindeleteme.com/` | 200 | `discount`, `promo`, `coupon` |  |
 | `https://letsdefend.io/` | 200 | `discount`, `% off` |  |
-| `https://lowendbox.com/` | 200 | `black friday`, `discount` |  |
-| `https://media.pragprog.com/` | 403 | — | HTTP Error 403: Forbidden |
+| `https://lowendbox.com/` | 200 | `discount` |  |
 | `https://memorysteelua.shop/` | 200 | `sale`, `discount`, `promo` |  |
 | `https://nostarch.com/` | 200 | `sale` |  |
 | `https://opsdisk.gumroad.com/` | 200 | — |  |
@@ -40,8 +41,6 @@ Keyword hits are **noisy** (banners, footers, unrelated copy). Use this as a qui
 | `https://www.allbirds.com/` | 200 | `sale` |  |
 | `https://www.asme.org/` | 200 | — |  |
 | `https://www.aura.com/` | 200 | `sale` |  |
-| `https://www.barnesandnoble.com/` | 403 | — | HTTP Error 403: Forbidden |
-| `https://www.bestbuy.com/` | — | — | The read operation timed out |
 | `https://www.chess.com/` | 200 | — |  |
 | `https://www.cisco.com/` | 200 | — |  |
 | `https://www.codecademy.com/` | 200 | — |  |
@@ -52,7 +51,6 @@ Keyword hits are **noisy** (banners, footers, unrelated copy). Use this as a qui
 | `https://www.eufy.com/` | 200 | `sale`, `discount`, `% off` |  |
 | `https://www.humblebundle.com/` | 200 | `sale`, `promo` |  |
 | `https://www.ifixit.com/` | 200 | — |  |
-| `https://www.infosecinstitute.com/` | 403 | — | HTTP Error 403: Forbidden |
 | `https://www.kaptest.com/` | 200 | `sale`, `discount`, `promo` |  |
 | `https://www.lastpass.com/` | 200 | `discount`, `coupon`, `% off` |  |
 | `https://www.lego.com/` | 200 | `sale` |  |
@@ -70,7 +68,6 @@ Keyword hits are **noisy** (banners, footers, unrelated copy). Use this as a qui
 | `https://www.practical-devsecops.com/` | 200 | `promo` |  |
 | `https://www.qa.com/` | 200 | — |  |
 | `https://www.racknerd.com/` | 200 | `discount`, `promo`, `% off` |  |
-| `https://www.robotshop.com/` | 403 | — | HTTP Error 403: Forbidden |
 | `https://www.seeedstudio.com/` | 200 | `sale`, `discount`, `coupon`, `% off` |  |
 | `https://www.udemy.com/` | 200 | `discount`, `coupon`, `% off` |  |
 | `https://www.whizlabs.com/` | 200 | — |  |
