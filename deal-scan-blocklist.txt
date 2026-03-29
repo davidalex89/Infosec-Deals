@@ -1,8 +1,0 @@
-# Hosts (one per line, no scheme) that returned 403 — never fetched again.
-# Normalized: leading www. stripped, lowercase.
-barnesandnoble.com
-infosecinstitute.com
-media.pragprog.com
-robotshop.com
-masterclass.com
-namecheap.com
