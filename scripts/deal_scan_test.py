@@ -1,34 +1,25 @@
 #!/usr/bin/env python3
 """
-Read http(s) links from README.md. Skip any host listed in deal-scan-blocklist.txt
-(no HTTP request — those sites have refused scans before).
+Read http(s) links from README.md. Skip hosts in deal-scan-blocklist.txt (no request).
 
-For each remaining unique URL: fetch once. On 403, append that host to the blocklist.
-On success, send trimmed page text to an LLM and ask for JSON: sale descriptions + links.
+For each URL: fetch HTML, strip to text, crude keyword/heuristic pass → **Yes** / **No**
+whether the page plausibly mentions a sale, discount, promo, coupon, etc.
 
-Backends (pick one):
-  • Local Ollama — set USE_OLLAMA=1 (no GITHUB_TOKEN). Optional: OLLAMA_URL, OLLAMA_MODEL.
-  • GitHub Models — GITHUB_TOKEN set and USE_OLLAMA unset/false. Optional: DEALS_MODEL.
+This is intentionally dumb (no LLM). Wire Ollama/GitHub later if you want smarter text.
 
-Output defaults to deal-scan.local.md (gitignored). Override with --out.
-
-Quick smoke test:
-  USE_OLLAMA=1 OLLAMA_MODEL=llama3.2 python3 scripts/deal_scan_test.py --limit 3
+Output: deal-scan.local.md (gitignored by default). Options: --out, --limit N.
 
 Usage (repo root):
-  USE_OLLAMA=1 python3 scripts/deal_scan_test.py
-  GITHUB_TOKEN=... python3 scripts/deal_scan_test.py
+  python3 scripts/deal_scan_test.py
+  python3 scripts/deal_scan_test.py --limit 10
 """
 
 from __future__ import annotations
 
 import argparse
 import html
-import json
-import os
 import re
 import sys
-import time
 import urllib.error
 import urllib.request
 from datetime import datetime, timezone
@@ -42,21 +33,24 @@ OUT_DEFAULT = ROOT / "deal-scan.local.md"
 BLOCKLIST_DEFAULT = ROOT / "deal-scan-blocklist.txt"
 
 LINK_RE = re.compile(r"\[[^\]]*\]\((https?://[^\s\)]+)\)", re.IGNORECASE)
-
-GITHUB_MODELS_URL = "https://models.github.ai/inference/chat/completions"
 HTTP_USER_AGENT = "Infosec-Deals-scan/1.0 (+https://github.com/davidalex89/Infosec-Deals)"
 MAX_BYTES = 500_000
 FETCH_TIMEOUT = 25
-MAX_TEXT_FOR_MODEL = 28_000
-MODEL_SLEEP_SEC = 0.6
 
-SYSTEM_PROMPT = (
-    "You extract active promotional offers from webpage text for a curated infosec/tech deals list. "
-    "Respond with ONLY valid JSON: {\"deals\":[{\"description\":\"short plain English\",\"link\":\"https://...\"}]} . "
-    "Use an absolute https URL for link when the page names a specific offer URL; otherwise use the page URL given. "
-    "If there is no clear current sale/discount/promo/coupon, return {\"deals\":[]}. "
-    "At most 3 deals per page. No markdown, no commentary outside JSON."
-)
+# If any pattern matches (case-insensitive on plain text), we report **Yes**.
+SALE_PATTERNS: list[tuple[str, re.Pattern[str]]] = [
+    ("black friday", re.compile(r"\bblack\s+friday\b", re.I)),
+    ("cyber monday", re.compile(r"\bcyber\s+monday\b", re.I)),
+    ("sale", re.compile(r"\bsale\b", re.I)),
+    ("discount", re.compile(r"\bdiscount\b", re.I)),
+    ("promo", re.compile(r"\bpromo(tion| code)?\b", re.I)),
+    ("coupon", re.compile(r"\bcoupon\b", re.I)),
+    ("code", re.compile(r"\b(promo|coupon)\s+code\b", re.I)),
+    ("% off", re.compile(r"\d+\s*%\s*off|\b%\s*off\b", re.I)),
+    ("save %", re.compile(r"\bsave\s+\d+\s*%", re.I)),
+    ("off sitewide", re.compile(r"\boff\s+sitewide\b", re.I)),
+    ("limited time", re.compile(r"\blimited\s+time\s+(offer|deal|sale)\b", re.I)),
+]
 
 
 class _Stripper(HTMLParser):
@@ -127,23 +121,6 @@ def extract_links(md: str) -> list[str]:
     return list(seen.keys())
 
 
-def http_post_json(url: str, headers: dict, payload: dict, timeout: int = 120) -> dict:
-    data = json.dumps(payload).encode("utf-8")
-    req = urllib.request.Request(
-        url,
-        data=data,
-        headers={
-            "User-Agent": HTTP_USER_AGENT,
-            **headers,
-            "Content-Type": "application/json",
-        },
-        method="POST",
-    )
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        body = resp.read().decode("utf-8")
-        return json.loads(body) if body.strip() else {}
-
-
 def fetch(url: str) -> tuple[int | None, str, str]:
     req = urllib.request.Request(
         url,
@@ -169,122 +146,18 @@ def fetch(url: str) -> tuple[int | None, str, str]:
         return None, "", str(e)
 
 
-def _parse_json_object(content: str) -> dict:
-    text = content.strip()
-    if text.startswith("```"):
-        lines = text.split("\n")
-        if lines and lines[0].startswith("```"):
-            lines = lines[1:]
-        if lines and lines[-1].strip().startswith("```"):
-            lines = lines[:-1]
-        text = "\n".join(lines).strip()
-    try:
-        return json.loads(text)
-    except json.JSONDecodeError:
-        start = text.find("{")
-        end = text.rfind("}")
-        if start != -1 and end > start:
-            return json.loads(text[start : end + 1])
-        raise
-
-
-def parse_deals_json(content: str, page_url: str) -> list[dict]:
-    parsed = _parse_json_object(content)
-    deals = parsed.get("deals", [])
-    out: list[dict] = []
-    for d in deals[:3]:
-        if not isinstance(d, dict):
-            continue
-        desc = str(d.get("description", "")).strip()
-        link = str(d.get("link", "")).strip() or page_url
-        if desc:
-            out.append({"description": desc, "link": link})
-    return out
-
-
-def llm_extract_deals_github(token: str, model: str, page_url: str, page_text: str) -> list[dict]:
-    snippet = page_text[:MAX_TEXT_FOR_MODEL]
-    if len(page_text) > MAX_TEXT_FOR_MODEL:
-        snippet += "\n\n[…truncated…]"
-    user = f"Page URL: {page_url}\n\nPage text:\n{snippet}"
-    payload = {
-        "model": model,
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user},
-        ],
-        "temperature": 0.2,
-        "max_tokens": 1200,
-    }
-    headers = {
-        "Authorization": f"Bearer {token}",
-        "Accept": "application/vnd.github+json",
-        "X-GitHub-Api-Version": "2026-03-10",
-    }
-    data = http_post_json(GITHUB_MODELS_URL, headers, payload)
-    content = data["choices"][0]["message"]["content"]
-    return parse_deals_json(content, page_url)
-
-
-def llm_extract_deals_ollama(base_url: str, model: str, page_url: str, page_text: str) -> list[dict]:
-    snippet = page_text[:MAX_TEXT_FOR_MODEL]
-    if len(page_text) > MAX_TEXT_FOR_MODEL:
-        snippet += "\n\n[…truncated…]"
-    user = f"Page URL: {page_url}\n\nPage text:\n{snippet}"
-    url = base_url.rstrip("/") + "/api/chat"
-    payload: dict = {
-        "model": model,
-        "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user},
-        ],
-        "stream": False,
-        "options": {"temperature": 0.2},
-        "format": "json",
-    }
-    data = http_post_json(url, {}, payload, timeout=600)
-    content = data.get("message", {}).get("content", "")
-    if not content:
-        raise RuntimeError(f"empty Ollama response: {data!r}")
-    return parse_deals_json(content, page_url)
-
-
-def _truthy_env(name: str) -> bool:
-    return os.environ.get(name, "").strip().lower() in ("1", "true", "yes", "on")
+def detect_sale(plain: str) -> tuple[bool, list[str]]:
+    hits = [name for name, pat in SALE_PATTERNS if pat.search(plain)]
+    return (len(hits) > 0), hits
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser()
+    ap = argparse.ArgumentParser(description="Heuristic sale yes/no scan for README links.")
     ap.add_argument("--readme", type=Path, default=README_DEFAULT)
     ap.add_argument("--out", type=Path, default=OUT_DEFAULT)
     ap.add_argument("--blocklist", type=Path, default=BLOCKLIST_DEFAULT)
-    ap.add_argument(
-        "--limit",
-        type=int,
-        default=0,
-        metavar="N",
-        help="only process first N fetchable URLs (after blocklist); 0 = no limit",
-    )
+    ap.add_argument("--limit", type=int, default=0, metavar="N", help="max successful fetches; 0 = all")
     args = ap.parse_args()
-
-    use_ollama = _truthy_env("USE_OLLAMA")
-    token = os.environ.get("GITHUB_TOKEN", "").strip()
-
-    if use_ollama:
-        ollama_base = os.environ.get("OLLAMA_URL", "http://127.0.0.1:11434").strip()
-        ollama_model = os.environ.get("OLLAMA_MODEL", "llama3.2").strip()
-        backend_label = f"Ollama ({ollama_model} @ {ollama_base})"
-        extract_fn = lambda url, plain: llm_extract_deals_ollama(ollama_base, ollama_model, url, plain)
-    elif token:
-        gh_model = os.environ.get("DEALS_MODEL", "openai/gpt-4.1").strip()
-        backend_label = f"GitHub Models ({gh_model})"
-        extract_fn = lambda url, plain: llm_extract_deals_github(token, gh_model, url, plain)
-    else:
-        print(
-            "Set USE_OLLAMA=1 for local Ollama, or set GITHUB_TOKEN for GitHub Models.",
-            file=sys.stderr,
-        )
-        return 1
 
     if not args.readme.is_file():
         print(f"Missing {args.readme}", file=sys.stderr)
@@ -294,11 +167,13 @@ def main() -> int:
     md = args.readme.read_text(encoding="utf-8")
     urls = extract_links(md)
 
-    rows: list[tuple[str, str]] = []
+    rows: list[tuple[str, str, str]] = []  # url, Yes|No, matched hints
     skipped_blocklist = 0
-    skipped_fetch_fail = 0
+    skipped_fetch = 0
     newly_blocked = 0
     processed = 0
+    n_yes = 0
+    n_no = 0
 
     for url in urls:
         if args.limit and processed >= args.limit:
@@ -320,52 +195,43 @@ def main() -> int:
             continue
 
         if code is None or (code and code >= 400):
-            print(f"Skip (no LLM): {url} — {code} {err[:80]}", file=sys.stderr)
-            skipped_fetch_fail += 1
-            continue
-
-        plain = html_to_text(body)
-        try:
-            deals = extract_fn(url, plain)
-        except Exception as e:
-            print(f"LLM error for {url}: {e}", file=sys.stderr)
-            skipped_fetch_fail += 1
-            time.sleep(MODEL_SLEEP_SEC)
+            rows.append((url, "—", f"fetch failed ({code}) {err[:60]}"))
+            skipped_fetch += 1
             continue
 
         processed += 1
-        for d in deals:
-            rows.append((d["description"], d["link"]))
-        time.sleep(MODEL_SLEEP_SEC)
+        plain = html_to_text(body)
+        yes, hits = detect_sale(plain)
+        if yes:
+            n_yes += 1
+            hint = ", ".join(hits[:6]) + ("…" if len(hits) > 6 else "")
+            rows.append((url, "**Yes**", hint))
+        else:
+            n_no += 1
+            rows.append((url, "**No**", "—"))
 
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [
-        "# Deal scan",
+        "# Deal scan (heuristic only, no LLM)",
         "",
-        f"**Backend:** {backend_label}",
+        f"Generated **{ts}** from `{args.readme.name}`. **Yes** = at least one keyword pattern matched in page text (noisy).",
         "",
-        f"Generated **{ts}** from links in `{args.readme.name}`.",
+        f"**Summary:** {n_yes} Yes / {n_no} No (among {processed} pages fetched). "
+        f"Blocklist skips: {skipped_blocklist}; fetch failures: {skipped_fetch}; new 403→blocklist: {newly_blocked}.",
         "",
-        f"Hosts in `{args.blocklist.name}` are **never requested** (403 history). ",
-        f"This run: **{skipped_blocklist}** URL(s) skipped via blocklist, **{newly_blocked}** new host(s) added after 403.",
-        "",
-        "| Description | Link |",
-        "|-------------|------|",
+        "| URL | Sale detected? | Matched patterns (if any) |",
+        "|-----|----------------|---------------------------|",
     ]
+    for u, yn, hint in rows:
+        safe_u = u.replace("|", "%7C")
+        safe_h = hint.replace("|", "/")
+        lines.append(f"| `{safe_u}` | {yn} | {safe_h} |")
 
-    if not rows:
-        lines.append("| *No promotional offers extracted this run.* | — |")
-    else:
-        for desc, link in rows:
-            safe = desc.replace("|", "/")
-            lines.append(f"| {safe} | [link]({link}) |")
-
+    args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(
-        f"Wrote {args.out} — {len(rows)} deal row(s); "
-        f"{skipped_blocklist} skipped (blocklist); {skipped_fetch_fail} fetch/LLM skips; {newly_blocked} new 403→blocklist.",
-        file=sys.stderr,
-    )
+
+    print(f"Yes: {n_yes}  No: {n_no}  (fetched pages: {processed})", file=sys.stderr)
+    print(f"Wrote {args.out}", file=sys.stderr)
     return 0
 
 
