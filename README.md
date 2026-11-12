@@ -23,7 +23,6 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | Infosec Institute | TBD | 11/11 | TBD |
 | Agilestationery.com | TBD | 11/11 | TBD |
 | 13Cubed | TBD | 11/11 | TBD |
-| Invictus Incident Response | TBD | 11/11 | TBD |
 | CloudBreach | TBD | 11/11 | TBD |
 | Hexordia | TBD | 11/11 | TBD |
 
@@ -45,6 +44,7 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | iximiuz Labs | 50% off annual ($5/mo), lifetime deal is back, through 11/30 | 11/11 | [link](https://labs.iximiuz.com/pricing) |
 | LabEx | Pro 2 years for $149 instead of $199 | 11/11 | [link](https://labex.io/pricing) |
 | 8kSec Academy | Discounted course prices until 11/15 | 11/11 | [link](https://academy.8ksec.io/) |
+| OffSec | 20% off Learn One ($550 off), 20-year anniversary sale, limited time | 11/11 | [link](https://www.offsec.com/) |
 | The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | TBD | 11/11 | TBD |
 | Tryhackme | TBD | 11/11 | TBD |
 | Pentesterlab.com | TBD | 11/11 | TBD |
@@ -52,7 +52,6 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | LetsDefend (by hackthebox) | TBD | 11/11 | TBD |
 | CyberWareFare Labs | TBD | 11/11 | TBD |
 | INE (formerly PentesterAcademy) | TBD | 11/11 | TBD |
-| OffSec | TBD | 11/11 | TBD |
 | Zero-Point Security | TBD | 11/11 | TBD |
 | Altered Security | TBD | 11/11 | TBD |
 
@@ -113,6 +112,7 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
 | Makeblock Robotics | Black Friday sale live: 10% off under $1,000, 15% off over $1,000, select items up to 63% off | 11/11 | [link](https://www.makeblock.com/pages/bfcm-2026) |
+| Minisforum | Up to 50% off, Nov 11-30 | 11/11 | [link](https://store.minisforum.com/pages/minisforum-black-friday) |
 | UniFi | Black Friday sale listed on the store, details not posted yet | 11/11 | [link](https://store.ui.com/us/en) |
 | System76 | TBD | 11/11 | TBD |
 | Life360 (Tile) | TBD | 11/11 | TBD |
@@ -124,7 +124,6 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | Silentpocket.com | TBD | 11/11 | TBD |
 | Pololu.com tech | TBD | 11/11 | TBD |
 | Seeedstudio AI/robotics hardware | TBD | 11/11 | TBD |
-| Minisforum | TBD | 11/11 | TBD |
 
 ## Miscellaneous
 
