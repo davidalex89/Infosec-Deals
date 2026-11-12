@@ -107,9 +107,9 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
 | Hak5.org | Up to 60% off Holiday Gift Packs, plus $5-10 off best-selling pentest gear w/ code H4CK3DN0V26 | 11/11 | [link](https://hak5.org/) |
-| KSEC Labs | Black Friday Sale section is up on the store, details not checked | 11/11 | [link](https://labs.ksec.co.uk/) |
 | Yubico | TBD | 11/11 | TBD |
 | Covert Instruments | TBD | 11/11 | TBD |
+| KSEC Labs | TBD | 11/11 | TBD |
 
 ## Gear, Gadgets & Maker
 
