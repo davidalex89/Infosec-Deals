@@ -89,10 +89,10 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
 | Parallels | Black Friday started: 50% off Parallels Desktop Standard and Pro | 11/11 | [link](https://www.parallels.com/products/desktop/buy/) |
+| Adobe.com | 50% off the first 3 months of Creative Cloud Pro | 11/11 | [link](https://www.adobe.com/products/special-offers.html) |
+| Coreldraw.com | Black Friday starts early: 30% off CorelDRAW Graphics Suite and Go annual plans | 11/11 | [link](https://www.coreldraw.com/en/special-offers/) |
 | Pulsedive (Threat intel) | TBD | 11/11 | TBD |
 | Proxyman | TBD | 11/11 | TBD |
-| Adobe.com | TBD | 11/11 | TBD |
-| Coreldraw.com | TBD | 11/11 | TBD |
 
 ## Hosting & Domains
 
@@ -107,9 +107,9 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
 | Hak5.org | Up to 60% off Holiday Gift Packs, plus $5-10 off best-selling pentest gear w/ code H4CK3DN0V26 | 11/11 | [link](https://hak5.org/) |
+| KSEC Labs | Black Friday Sale section is up on the store, details not checked | 11/11 | [link](https://labs.ksec.co.uk/) |
 | Yubico | TBD | 11/11 | TBD |
 | Covert Instruments | TBD | 11/11 | TBD |
-| KSEC Labs | TBD | 11/11 | TBD |
 
 ## Gear, Gadgets & Maker
 
@@ -135,11 +135,11 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 |---------|---------|-------|------|
 | Eufy robotics | Early access live, main sale 11/19-30, up to $1,100 off | 11/11 | [link](https://www.eufy.com/eufy-sales) |
 | Allbirds | Black Friday early access, up to 70% off select styles | 11/11 | [link](https://www.allbirds.com/collections/sale-mens) |
+| Techwear-outfits | Black Month: extra 15% off orders over $100 w/ code BLXCK15 | 11/11 | [link](https://techwear-outfits.com/) |
 | Lego | Black Friday starts 11/27, Insiders Weekend 11/21-22, Cyber Monday 11/30 | 11/11 | [link](https://www.lego.com/en-us/black-friday-deals) |
 | Wyze IOT Black Friday deals | Black Friday page is up, sale "starts soon" | 11/11 | [link](https://www.wyze.com/pages/black-friday-cyber-monday) |
 | All-clad cookware | Black Friday event announced, not started yet | 11/11 | [link](https://www.all-clad.com/blackfriday) |
 | Chess.com | TBD | 11/11 | TBD |
 | Memorysteel.com | TBD | 11/11 | TBD |
-| Techwear-outfits | TBD | 11/11 | TBD |
 | Robosen store (mini robotics, high quality movie toy replicas) | TBD | 11/11 | TBD |
 | Barnes & Noble | TBD | 11/11 | TBD |
