@@ -113,6 +113,7 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
 | Makeblock Robotics | Black Friday sale live: 10% off under $1,000, 15% off over $1,000, select items up to 63% off | 11/11 | [link](https://www.makeblock.com/pages/bfcm-2026) |
+| UniFi | Black Friday sale listed on the store, details not posted yet | 11/11 | [link](https://store.ui.com/us/en) |
 | System76 | TBD | 11/11 | TBD |
 | Life360 (Tile) | TBD | 11/11 | TBD |
 | Itead.cc | TBD | 11/11 | TBD |
@@ -123,7 +124,6 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | Silentpocket.com | TBD | 11/11 | TBD |
 | Pololu.com tech | TBD | 11/11 | TBD |
 | Seeedstudio AI/robotics hardware | TBD | 11/11 | TBD |
-| UniFi | TBD | 11/11 | TBD |
 | Minisforum | TBD | 11/11 | TBD |
 
 ## Miscellaneous
