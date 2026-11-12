@@ -142,5 +142,4 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | Memorysteel.com | TBD | 11/11 | TBD |
 | Techwear-outfits | TBD | 11/11 | TBD |
 | Robosen store (mini robotics, high quality movie toy replicas) | TBD | 11/11 | TBD |
-| Sonos ARC 5.0.2 Sound bar | TBD | 11/11 | TBD |
 | Barnes & Noble | TBD | 11/11 | TBD |
