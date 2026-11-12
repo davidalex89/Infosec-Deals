@@ -2,6 +2,8 @@
 
 Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each section, then announced ones. TBD means no 2026 deal confirmed yet. Last year's list is in [2025-Deals.md](2025-Deals.md). Will continue to update periodically as deals open up.
 
+Pull requests are welcome if you spot a deal I missed.
+
 ## Training & Certifications
 
 | Website | Details | As-of | Link |
