@@ -60,7 +60,7 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
 | Elsevier (Syngress, Morgan Kaufmann) | Black Friday sale, up to 40% off sitewide | 11/11 | [link](https://shop.elsevier.com/special-offers/black-friday) |
-| Nostarch.com | TBD | 11/11 | TBD |
+| Nostarch.com | Veterans Day sale: 30% off w/ code SAVE30, veterans 35% off w/ code IMAVET35, through 11/12 | 11/11 | [link](https://nostarch.com/) |
 | Humblebundle.com | TBD | 11/11 | TBD |
 | Manning.com | TBD | 11/11 | TBD |
 | Pragprog.com | TBD | 11/11 | TBD |
