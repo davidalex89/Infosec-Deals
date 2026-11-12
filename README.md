@@ -59,12 +59,16 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
+| Elsevier (Syngress, Morgan Kaufmann) | Up to 40% off sitewide per its Black Friday page (page is undated, confirm at checkout) | 11/11 | [link](https://shop.elsevier.com/special-offers/black-friday) |
 | Nostarch.com | TBD | 11/11 | TBD |
 | Humblebundle.com | TBD | 11/11 | TBD |
 | Manning.com | TBD | 11/11 | TBD |
 | Pragprog.com | TBD | 11/11 | TBD |
 | Microsoft Press Store | TBD | 11/11 | TBD |
 | Pearsonitcertification.com | TBD | 11/11 | TBD |
+| O'Reilly | TBD | 11/11 | TBD |
+| Cisco Press | TBD | 11/11 | TBD |
+| Apress / Springer | TBD | 11/11 | TBD |
 
 ## Privacy & Security Services
 
