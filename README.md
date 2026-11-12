@@ -59,7 +59,7 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
-| Elsevier (Syngress, Morgan Kaufmann) | Up to 40% off sitewide per its Black Friday page (page is undated, confirm at checkout) | 11/11 | [link](https://shop.elsevier.com/special-offers/black-friday) |
+| Elsevier (Syngress, Morgan Kaufmann) | Black Friday sale, up to 40% off sitewide | 11/11 | [link](https://shop.elsevier.com/special-offers/black-friday) |
 | Nostarch.com | TBD | 11/11 | TBD |
 | Humblebundle.com | TBD | 11/11 | TBD |
 | Manning.com | TBD | 11/11 | TBD |
@@ -117,11 +117,11 @@ Updated for 2026, as of Wednesday 11/11. Live sales are listed first in each sec
 |---------|---------|-------|------|
 | Makeblock Robotics | Black Friday sale live: 10% off under $1,000, 15% off over $1,000, select items up to 63% off | 11/11 | [link](https://www.makeblock.com/pages/bfcm-2026) |
 | Minisforum | Up to 50% off, Nov 11-30 | 11/11 | [link](https://store.minisforum.com/pages/minisforum-black-friday) |
+| Ifixit | Black Friday & holiday sale, select kits and bundles discounted | 11/11 | [link](https://www.ifixit.com/Store/Black-Friday-Holiday) |
 | UniFi | Black Friday sale listed on the store, details not posted yet | 11/11 | [link](https://store.ui.com/us/en) |
 | System76 | TBD | 11/11 | TBD |
 | Life360 (Tile) | TBD | 11/11 | TBD |
 | Itead.cc | TBD | 11/11 | TBD |
-| Ifixit | TBD | 11/11 | TBD |
 | Ledger.com | TBD | 11/11 | TBD |
 | Phillips Robotics | TBD | 11/11 | TBD |
 | Robotshop robotics | TBD | 11/11 | TBD |
