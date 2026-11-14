@@ -17,6 +17,7 @@ Pull requests are welcome if you spot a deal I missed.
 | SecureNinja | 40% off tuition on select courses (page is undated, confirm at checkout) | 11/14 | [link](https://secureninja.com/promo/expert-cybersecurity-training.html) |
 | Infosec Institute | $250 off any boot camp w/ code SAVE2026, through 12/31 | 11/14 | [link](https://www.infosecinstitute.com/) |
 | QA.com | Black Friday 2026 page is up, offers not posted yet | 11/14 | [link](https://www.qa.com/browse/black-friday/) |
+| OnlySecurity | Announced for 11/23 to 11/30: 15% off every course not already on sale, the first payment of Plus or Max membership and the KSEC All Access pass, applied automatically at checkout | 11/14 | [link](https://onlysecurity.com/black-friday/) |
 | CodeAcademy | TBD | 11/14 | TBD |
 | Pluralsight.com | TBD | 11/14 | TBD |
 | Udemy.com | TBD | 11/14 | TBD |
@@ -111,7 +112,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Hak5.org | Up to 60% off Holiday Gift Packs, plus $5-10 off best-selling pentest gear w/ code H4CK3DN0V26 | 11/11 | [link](https://hak5.org/) |
 | Yubico | TBD | 11/14 | TBD |
 | Covert Instruments | TBD | 11/14 | TBD |
-| KSEC Labs | TBD | 11/11 | TBD |
+| KSEC Labs (UK) and KSEC EU | Announced for 11/23 to 11/30: spend and save up to £300 off (EU up to €250 off), free gifts from £50 (EU €90), 3 for 2 on RFID cards and tags, and deal prices on RFID and lock picking kits. Members get early access from 11/23, everyone from 11/27 | 11/14 | [UK](https://labs.ksec.co.uk/black-friday-sale/) / [EU](https://eu.ksec.co.uk/black-friday-sale/) |
 
 ## Gear, Gadgets & Maker
 
