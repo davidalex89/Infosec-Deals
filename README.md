@@ -18,6 +18,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Infosec Institute | $250 off any boot camp w/ code SAVE2026, through 12/31 | 11/15 | [link](https://www.infosecinstitute.com/) |
 | QA.com | Black Friday 2026 page is up, offers not posted yet | 11/15 | [link](https://www.qa.com/browse/black-friday/) |
 | OnlySecurity | Announced for 11/23 to 11/30: 15% off every course not already on sale, the first payment of Plus or Max membership and the KSEC All Access pass, applied automatically at checkout | 11/15 | [link](https://onlysecurity.com/black-friday/) |
+| Practical TLS | SSL/TLS deep dive (includes TLS 1.3): $50 instead of $297 (83% off). Code BF2026TLS, through 12/6 | 11/16 | [link](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS) |
 | CodeAcademy | TBD | 11/15 | TBD |
 | Pluralsight.com | TBD | 11/15 | TBD |
 | Udemy.com | TBD | 11/15 | TBD |
