@@ -28,7 +28,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Agilestationery.com | TBD | 11/15 | TBD |
 | 13Cubed | TBD | 11/15 | TBD |
 | CloudBreach | TBD | 11/15 | TBD |
-| Hexordia | TBD | 11/15 | TBD |
+| Hexordia | Announced for 11/23 to 12/7: 35% off Hexordia classes (on-demand and virtual live) and class vouchers w/ code 26BF35 (ends 11:59 PM ET) | 11/16 | [link](https://learn.hexordia.com/s/store) |
 
 ## AI Security Training
 
