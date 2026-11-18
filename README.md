@@ -27,7 +27,7 @@ Pull requests are welcome if you spot a deal I missed.
 | MasterClass | TBD | 11/15 | TBD |
 | Agilestationery.com | TBD | 11/15 | TBD |
 | 13Cubed | TBD | 11/15 | TBD |
-| CloudBreach | TBD | 11/15 | TBD |
+| CloudBreach | 30% Off all Cloud Security Trainings & Certifications | 11/18 | [link](https://cloudbreach.io/blackfriday)  |
 | Hexordia | Announced for 11/23 to 12/7: 35% off Hexordia classes (on-demand and virtual live) and class vouchers w/ code 26BF35 (ends 11:59 PM ET) | 11/16 | [link](https://learn.hexordia.com/s/store) |
 
 ## AI Security Training
