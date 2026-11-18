@@ -8,7 +8,7 @@ Pull requests are welcome if you spot a deal I missed.
 
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
-| Practical DevSecOps | 15% off all certifications and training, up to $600 off bundles | 11/15 | [link](https://www.practical-devsecops.com/infosec-black-friday-deals-2026/) |
+| Practical DevSecOps | 15% off all certifications and training, up to $600 off bundles | 11/15 | [link](https://www.practical-devsecops.com/black-friday-sale-2026/) |
 | Educative.io | 50% off Unlimited annual plans | 11/15 | [link](https://www.educative.io/unlimited) |
 | TrainSec | Most single courses almost half price w/ code BF2026, November only | 11/15 | [link](https://trainsec.net/cybersecurity-courses-black-friday-2026/) |
 | Coursera.org | Coursera Plus $239 for 12 months (40% off), ends 11/30 | 11/15 | [link](https://www.coursera.org/courseraplus) |
@@ -34,7 +34,7 @@ Pull requests are welcome if you spot a deal I missed.
 
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
-| Practical DevSecOps - AI Security | 15% off Certified AI Security Professional | 11/15 | [link](https://www.practical-devsecops.com/certified-ai-security-professional/) |
+| Practical DevSecOps - AI Security | Save $164.85 - Certified AI Security Professional | 11/15 | [link](https://www.practical-devsecops.com/certified-ai-security-professional/) |
 | Appsecengineer | TBD | 11/15 | TBD |
 | Modernsecurity.io | TBD | 11/15 | TBD |
 
