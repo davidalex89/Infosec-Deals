@@ -95,6 +95,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Parallels | Black Friday started: 50% off Parallels Desktop Standard and Pro | 11/15 | [link](https://www.parallels.com/products/desktop/buy/) |
 | Adobe.com | Save 57% for Black Friday: Creative Cloud Pro $29.99/mo instead of $69.99, ends 11/27 | 11/15 | [link](https://www.adobe.com/products/special-offers.html) |
 | Coreldraw.com | Black Friday starts early: 30% off CorelDRAW Graphics Suite and Go annual plans | 11/15 | [link](https://www.coreldraw.com/en/special-offers/) |
+| Akev (HTTP(S) debugging proxy) | Black Friday: 30% off the Akev Pro licence, one-time, $34.30 instead of $49, with code BLACKFRIDAY, until 12/6 | 11/18 | [link](https://akev.dev/pricing) |
 | Pulsedive (Threat intel) | TBD | 11/15 | TBD |
 | Proxyman | TBD | 11/15 | TBD |
 
