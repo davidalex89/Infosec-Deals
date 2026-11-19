@@ -98,6 +98,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Akev (HTTP(S) debugging proxy) | Black Friday: 30% off the Akev Pro licence, one-time, $34.30 instead of $49, with code BLACKFRIDAY, until 12/6 | 11/18 | [link](https://akev.dev/pricing) |
 | Pulsedive (Threat intel) | TBD | 11/15 | TBD |
 | Proxyman | TBD | 11/15 | TBD |
+| Scanify | Pro for $1; free URL, file and IP scans; 1,000 API checks/mo free; offer ends 12/19 | 11/19 | [link](https://scanify.to/pricing) |
 
 ## Hosting & Domains
 
