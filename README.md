@@ -36,6 +36,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
 | Practical DevSecOps - AI Security | Save $164.85 - Certified AI Security Professional | 11/15 | [link](https://www.practical-devsecops.com/certified-ai-security-professional/) |
+| GenAI Security Lab | 40% off yearly plan ($228 → $136.80) and 4-Month Pass ($99 → $59.40), sale live, ends 11/30 | 11/19 | [link](https://genaisecuritylab.com/pricing) |
 | Appsecengineer | TBD | 11/15 | TBD |
 | Modernsecurity.io | TBD | 11/15 | TBD |
 
@@ -51,6 +52,7 @@ Pull requests are welcome if you spot a deal I missed.
 | OffSec | 20% off Learn One ($550 off), 20-year anniversary sale, limited time | 11/15 | [link](https://www.offsec.com/) |
 | Whizlabs.com | Early-bird Black Friday: Premium $169/yr (was $189), Elite $229/yr (was $259). The banner's "up to 50%" compares yearly to monthly billing | 11/15 | [link](https://www.whizlabs.com/black-friday/) |
 | CyberWareFare Labs | Black Friday sale live: certifications from $9, up to 90% off bundles | 11/15 | [link](https://cyberwarfare.live/) |
+| GenAI Security Lab | 40% off 200+ hands-on AI security labs: yearly plan ($228 → $136.80) and 4-Month Pass ($99 → $59.40), sale live, ends 11/30 | 11/19 | [link](https://genaisecuritylab.com/pricing) |
 | The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | TBD | 11/15 | TBD |
 | Tryhackme | TBD | 11/15 | TBD |
 | 8kSec Academy | TBD | 11/15 | TBD |
