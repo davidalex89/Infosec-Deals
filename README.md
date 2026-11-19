@@ -29,6 +29,7 @@ Pull requests are welcome if you spot a deal I missed.
 | 13Cubed | TBD | 11/15 | TBD |
 | CloudBreach | 30% Off all Cloud Security Trainings & Certifications | 11/18 | [link](https://cloudbreach.io/blackfriday)  |
 | Hexordia | Announced for 11/23 to 12/7: 35% off Hexordia classes (on-demand and virtual live) and class vouchers w/ code 26BF35 (ends 11:59 PM ET) | 11/16 | [link](https://learn.hexordia.com/s/store) |
+| [CyberWarFare Labs](https://cyberwarfare.live/) | Up to 90% off cybersecurity course bundles, individual certifications starting at $5, Infinity Yearly Access for $49 with 2 free certifications, and Infinity Monthly Access for $5. Coupons: `INFINITY49` (Yearly), `INFINITY5` (Monthly) | 11/19 | [link](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) |
 
 ## AI Security Training
 
