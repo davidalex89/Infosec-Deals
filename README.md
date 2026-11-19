@@ -98,6 +98,10 @@ Pull requests are welcome if you spot a deal I missed.
 | Akev (HTTP(S) debugging proxy) | Black Friday: 30% off the Akev Pro licence, one-time, $34.30 instead of $49, with code BLACKFRIDAY, until 12/6 | 11/18 | [link](https://akev.dev/pricing) |
 | Pulsedive (Threat intel) | TBD | 11/15 | TBD |
 | Proxyman | TBD | 11/15 | TBD |
+| Exploit Pack | 20% off (€1,200 → €960); code `LIFETIME` upgrades the promotional licence to Lifetime; ends 11/30 | 11/19 | [link](https://www.exploitpack.com/products/exploit-pack) |
+| Control Pack | 20% off (€1,200 → €960); code `LIFETIME` upgrades the promotional licence to Lifetime; ends 11/30 | 11/19 | [link](https://www.exploitpack.com/products/control-pack) |
+| Kernel Pack | 20% off (€1,200 → €960); code `LIFETIME` upgrades the promotional licence to Lifetime; ends 11/30 | 11/19 | [link](https://www.exploitpack.com/products/kernel-pack) |
+| Ultimate Pack + AI | Black Friday offensive-security bundle for €4,000; includes Exploit Pack, Control Pack and Kernel Pack with integrated AI; no coupon; ends 11/30 | 11/19 | [link](https://www.exploitpack.com/products/ultimate-pack-discount) |
 
 ## Hosting & Domains
 
