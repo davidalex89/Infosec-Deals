@@ -55,9 +55,9 @@ Pull requests are welcome if you spot a deal I missed.
 | Whizlabs.com | Early-bird Black Friday: Premium $169/yr (was $189), Elite $229/yr (was $259), ends 11/28. The banner's "up to 50%" compares yearly to monthly billing | 11/20 | [link](https://www.whizlabs.com/black-friday/) |
 | CyberWarFare Labs | Black Friday sale live: certifications from $9, up to 90% off bundles | 11/20 | [link](https://cyberwarfare.live/) |
 | GenAI Security Lab | 40% off 200+ hands-on AI security labs: yearly plan ($228 → $136.80) and 4-Month Pass ($99 → $59.40), sale live, ends 11/30 | 11/19 | [link](https://genaisecuritylab.com/pricing) |
+| 8kSec Academy | 15% off all on-demand mobile & AI security courses with code `8KSECBLACKFRIDAY` | 11/20 | [link](https://academy.8ksec.io/) |
 | The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | TBD | 11/20 | TBD |
 | Tryhackme | TBD | 11/20 | TBD |
-| 8kSec Academy | TBD | 11/20 | TBD |
 | Pentesterlab.com | TBD | 11/20 | TBD |
 | LetsDefend (by hackthebox) | TBD | 11/20 | TBD |
 | INE (formerly PentesterAcademy) | TBD | 11/20 | TBD |
