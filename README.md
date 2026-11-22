@@ -25,6 +25,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Cisco University | 40% off Cisco U. Essentials Nov 23 - Dec 1, Cyber Monday doorbusters Nov 30 | 11/20 | [link](https://www.cisco.com/site/us/en/learn/training-certifications/learning-deals.html) |
 | OnlySecurity | Announced for 11/23 to 11/30: 15% off every course not already on sale, the first payment of Plus or Max membership and the KSEC All Access pass, applied automatically at checkout | 11/20 | [link](https://onlysecurity.com/black-friday/) |
 | Hexordia | Announced for 11/23 to 12/7: 35% off Hexordia classes (on-demand and virtual live) and class vouchers w/ code 26BF35 (ends 11:59 PM ET) | 11/16 | [link](https://learn.hexordia.com/s/store) |
+| pwn.guide | Black Friday: 20% off every plan forever, renewals and lifetime included, w/ code BLKFRI20, card checkout, ends 12/5 | 11/21 | [link](https://pwn.guide/pricing) |
 | 8kSec Academy | 15% off all on-demand mobile & AI security courses with code `8KSECBLACKFRIDAY` | 11/20 | [link](https://academy.8ksec.io/) |
 | CodeAcademy | TBD | 11/20 | TBD |
 | Pluralsight.com | TBD | 11/20 | TBD |
