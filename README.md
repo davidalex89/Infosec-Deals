@@ -22,16 +22,17 @@ Pull requests are welcome if you spot a deal I missed.
 | TCM Security | 50% off the first payment on any Academy membership (applied at checkout), 20% off certifications, learning paths and live training, ends 11/30 | 11/20 | [link](https://tcm-sec.com/academy/) |
 | EC-Council E-Learning | 25% off w/ code CYBERSALE26, expires 11/30 (site banner, does not say which courses) | 11/20 | [link](https://iclass.eccouncil.org/cyber-week/) |
 | MasterClass | 50% off annual memberships before Black Friday ($5, $8 or $10/mo billed annually), offer ends soon | 11/20 | [link](https://www.masterclass.com/) |
+| CodeAcademy | Cyber Week sale: 60% off a year of Pro or Pro Student w/ code BF2026, through 11/28 | 11/22 | [link](https://www.codecademy.com/) |
+| 13Cubed | Black Friday: $100 off w/ code BLACKFRIDAY2026, through 11/30 | 11/22 | [link](https://training.13cubed.com/) |
 | Cisco University | 40% off Cisco U. Essentials Nov 23 - Dec 1, Cyber Monday doorbusters Nov 30 | 11/20 | [link](https://www.cisco.com/site/us/en/learn/training-certifications/learning-deals.html) |
 | OnlySecurity | Announced for 11/23 to 11/30: 15% off every course not already on sale, the first payment of Plus or Max membership and the KSEC All Access pass, applied automatically at checkout | 11/20 | [link](https://onlysecurity.com/black-friday/) |
 | Hexordia | Announced for 11/23 to 12/7: 35% off Hexordia classes (on-demand and virtual live) and class vouchers w/ code 26BF35 (ends 11:59 PM ET) | 11/16 | [link](https://learn.hexordia.com/s/store) |
+| SANS / GIAC | Announced for 11/24 to 12/1: 30% off select GIAC products (Applied Knowledge Certifications, extensions, practice exams, demo questions) w/ code 30Cyber26, bought through your GIAC account | 11/22 | [link](https://www.giac.org/) |
 | pwn.guide | Black Friday: 20% off every plan forever, renewals and lifetime included, w/ code BLKFRI20, card checkout, ends 12/5 | 11/21 | [link](https://pwn.guide/pricing) |
 | 8kSec Academy | 15% off all on-demand mobile & AI security courses with code `8KSECBLACKFRIDAY` | 11/20 | [link](https://academy.8ksec.io/) |
-| CodeAcademy | TBD | 11/20 | TBD |
-| Pluralsight.com | TBD | 11/20 | TBD |
-| Udemy.com | TBD | 11/20 | TBD |
-| Agilestationery.com | TBD | 11/20 | TBD |
-| 13Cubed | TBD | 11/20 | TBD |
+| Pluralsight.com | TBD | 11/22 | TBD |
+| Udemy.com | TBD | 11/22 | TBD |
+| Agilestationery.com | TBD | 11/22 | TBD |
 
 ## AI Security Training
 
@@ -39,8 +40,8 @@ Pull requests are welcome if you spot a deal I missed.
 |---------|---------|-------|------|
 | Practical DevSecOps - AI Security | Save $164.85 - Certified AI Security Professional | 11/20 | [link](https://www.practical-devsecops.com/certified-ai-security-professional/) |
 | GenAI Security Lab | 40% off yearly plan ($228 → $136.80) and 4-Month Pass ($99 → $59.40), sale live, ends 11/30 | 11/19 | [link](https://genaisecuritylab.com/pricing) |
-| Appsecengineer | TBD | 11/20 | TBD |
-| Modernsecurity.io | TBD | 11/20 | TBD |
+| Modernsecurity.io | Black Friday sale: 20% off w/ code msec-bf20, no end date posted | 11/22 | [link](https://www.modernsecurity.io/) |
+| Appsecengineer | TBD | 11/22 | TBD |
 
 ## Hands-on Labs & Pentest Training
 
@@ -56,13 +57,13 @@ Pull requests are welcome if you spot a deal I missed.
 | CyberWarFare Labs | Black Friday sale live: certifications from $9, up to 90% off bundles | 11/20 | [link](https://cyberwarfare.live/) |
 | GenAI Security Lab | 40% off 200+ hands-on AI security labs: yearly plan ($228 → $136.80) and 4-Month Pass ($99 → $59.40), sale live, ends 11/30 | 11/19 | [link](https://genaisecuritylab.com/pricing) |
 | 8kSec Academy | 15% off all on-demand mobile & AI security courses with code `8KSECBLACKFRIDAY` | 11/20 | [link](https://academy.8ksec.io/) |
-| The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | TBD | 11/20 | TBD |
-| Tryhackme | TBD | 11/20 | TBD |
-| Pentesterlab.com | TBD | 11/20 | TBD |
-| LetsDefend (by hackthebox) | TBD | 11/20 | TBD |
-| INE (formerly PentesterAcademy) | TBD | 11/20 | TBD |
-| Zero-Point Security | TBD | 11/20 | TBD |
-| Altered Security | TBD | 11/20 | TBD |
+| INE (formerly PentesterAcademy) | Black Friday, 11/20 to 12/1, applied at checkout: Premium $499/yr (was $799, new subscribers), Skill Dive $199 (was $299), cert vouchers $149-299 (were $250-450), cert + training bundles $179-349 | 11/22 | [link](https://learn.ine.com/2026-black-friday-promotions) |
+| Altered Security | Announced for 11/23 to 12/6: 20% off all courses & bootcamps, +5% off when buying 2 or more, no code needed | 11/22 | [link](https://www.alteredsecurity.com/) |
+| The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | TBD | 11/22 | TBD |
+| Tryhackme | TBD | 11/22 | TBD |
+| Pentesterlab.com | TBD | 11/22 | TBD |
+| LetsDefend (by hackthebox) | TBD | 11/22 | TBD |
+| Zero-Point Security | TBD | 11/22 | TBD |
 
 ## Books
 
@@ -70,14 +71,14 @@ Pull requests are welcome if you spot a deal I missed.
 |---------|---------|-------|------|
 | Elsevier (Syngress, Morgan Kaufmann) | Black Friday sale, up to 40% off sitewide | 11/20 | [link](https://shop.elsevier.com/special-offers/black-friday) |
 | Apress / Springer | Cyber Sale: selected Springer and Apress eBooks and softcovers for $17.99 each, through 11/30 | 11/20 | [link](https://link.springer.com/shop/cyber-sale/en-us/) |
-| Nostarch.com | TBD | 11/20 | TBD |
-| Humblebundle.com | TBD | 11/20 | TBD |
-| Manning.com | TBD | 11/20 | TBD |
-| Pragprog.com | TBD | 11/20 | TBD |
-| Microsoft Press Store | TBD | 11/20 | TBD |
-| Pearsonitcertification.com | TBD | 11/20 | TBD |
-| O'Reilly | TBD | 11/20 | TBD |
-| Cisco Press | TBD | 11/20 | TBD |
+| Nostarch.com | Announced for 11/24 to 11/29: 40% off sitewide | 11/22 | [link](https://nostarch.com/) |
+| Humblebundle.com | TBD | 11/22 | TBD |
+| Manning.com | TBD | 11/22 | TBD |
+| Pragprog.com | TBD | 11/22 | TBD |
+| Microsoft Press Store | TBD | 11/22 | TBD |
+| Pearsonitcertification.com | TBD | 11/22 | TBD |
+| O'Reilly | TBD | 11/22 | TBD |
+| Cisco Press | TBD | 11/22 | TBD |
 
 ## Privacy & Security Services
 
@@ -89,9 +90,9 @@ Pull requests are welcome if you spot a deal I missed.
 | 1Password | Holiday sale: 25% off Individual ($2.99/mo) and Families ($4.49/mo) for the first year, new customers, billed yearly | 11/20 | [link](https://1password.com/promo/individual-family/holiday-sale) |
 | ESet.com | Black Friday: 50% off ESET HOME Security plans, ends 12/3 | 11/20 | [link](https://www.eset.com/us/home/protection-plans/) |
 | Tuta Mail | Black Friday: 2 years for the price of 1 on Revolutionary or Legend (new yearly subscriptions, desktop/web only) | 11/20 | [link](https://tuta.com/pricing) |
-| LastPass | TBD | 11/20 | TBD |
-| Aura Identity Protection | TBD | 11/20 | TBD |
-| DeleteMe | TBD | 11/20 | TBD |
+| LastPass | TBD | 11/22 | TBD |
+| Aura Identity Protection | TBD | 11/22 | TBD |
+| DeleteMe | TBD | 11/22 | TBD |
 
 ## Tools & Software
 
@@ -103,7 +104,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Coreldraw.com | Black Friday starts early: 30% off CorelDRAW Graphics Suite and Go annual plans | 11/20 | [link](https://www.coreldraw.com/en/special-offers/) |
 | Akev (HTTP(S) debugging proxy) | Black Friday: 30% off the Akev Pro licence, one-time, $34.30 instead of $49, with code BLACKFRIDAY, until 12/6 | 11/18 | [link](https://akev.dev/pricing) |
 | Proxyman | Black Friday: 30% off w/ code BF2026, this week only | 11/20 | [link](https://proxyman.com/pricing) |
-| Pulsedive (Threat intel) | TBD | 11/20 | TBD |
+| Pulsedive (Threat intel) | TBD | 11/22 | TBD |
 
 ## Hosting & Domains
 
@@ -137,8 +138,8 @@ Pull requests are welcome if you spot a deal I missed.
 | Robotshop robotics | Early Black Friday Robot Deals: up to 50% off robots, kits, parts and tools, through 11/30 | 11/20 | [link](https://www.robotshop.com/collections/on-sale) |
 | Silentpocket.com | 20% off sitewide plus free gift tiers ($150+ RFID blocking wallet, $250+ Faraday sling), applied automatically | 11/20 | [link](https://slnt.com/) |
 | Seeedstudio AI/robotics hardware | $20 off every $200 on 500+ selected items (no code), clearance 20-60% off, through 11/30 | 11/20 | [link](https://www.seeedstudio.com/page/black-friday-sale-2026) |
-| Phillips Robotics | TBD | 11/20 | TBD |
-| Pololu.com tech | TBD | 11/20 | TBD |
+| Phillips Robotics | TBD | 11/22 | TBD |
+| Pololu.com tech | TBD | 11/22 | TBD |
 
 ## Miscellaneous
 
@@ -152,5 +153,5 @@ Pull requests are welcome if you spot a deal I missed.
 | Robosen store (mini robotics, high quality movie toy replicas) | Black Friday sale live: up to $509 off, MINI add-ons 50% off, 11/19 to 12/2 | 11/20 | [link](https://us.robosen.com/pages/black-friday-sale-2026) |
 | Barnes & Noble | Black Friday deals live: 50% off the biggest hardcovers and select paperbacks, buy one get one 50% off Collectible Editions | 11/20 | [link](https://www.barnesandnoble.com/pages/black-friday-cyber-monday-deals) |
 | Lego | Black Friday starts 11/27, Insiders Weekend 11/21-22, Cyber Monday 11/30 | 11/20 | [link](https://www.lego.com/en-us/black-friday-deals) |
-| Chess.com | TBD | 11/20 | TBD |
-| Memorysteel.com | TBD | 11/20 | TBD |
+| Chess.com | TBD | 11/22 | TBD |
+| Memorysteel.com | TBD | 11/22 | TBD |
