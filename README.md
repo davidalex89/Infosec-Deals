@@ -72,8 +72,8 @@ Pull requests are welcome if you spot a deal I missed.
 | Elsevier (Syngress, Morgan Kaufmann) | Black Friday sale, up to 40% off sitewide | 11/20 | [link](https://shop.elsevier.com/special-offers/black-friday) |
 | Apress / Springer | Cyber Sale: selected Springer and Apress eBooks and softcovers for $17.99 each, through 11/30 | 11/20 | [link](https://link.springer.com/shop/cyber-sale/en-us/) |
 | Nostarch.com | Announced for 11/24 to 11/29: 40% off sitewide | 11/22 | [link](https://nostarch.com/) |
-| Humblebundle.com | TBD | 11/22 | TBD |
-| Manning.com | TBD | 11/22 | TBD |
+| Humblebundle.com | Pay-what-you-want security book bundles: AI Cybersecurity Career Blueprint (Packt, 25 books) and Certifications and Security for Cloud and DevOps (Wiley, 20 books), through 11/30 | 11/22 | [link](https://www.humblebundle.com/books) |
+| Manning.com | 40% off sitewide "all this week" (no end date posted) | 11/22 | [link](https://www.manning.com/) |
 | Pragprog.com | TBD | 11/22 | TBD |
 | Microsoft Press Store | TBD | 11/22 | TBD |
 | Pearsonitcertification.com | TBD | 11/22 | TBD |
