@@ -105,6 +105,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Akev (HTTP(S) debugging proxy) | Black Friday: 30% off the Akev Pro licence, one-time, $34.30 instead of $49, with code BLACKFRIDAY, until 12/6 | 11/18 | [link](https://akev.dev/pricing) |
 | Proxyman | Black Friday: 30% off w/ code BF2026, this week only | 11/20 | [link](https://proxyman.com/pricing) |
 | Pulsedive (Threat intel) | TBD | 11/22 | TBD |
+| VibeShield (Web App Security Scanner) | 78% off one-time Fix Unlock ($2 instead of $9, or $5 instead of $29 for 3-app suite); free 116-check passive scan (JS bundle secrets, 10 Observatory headers, CSP, 28 paths, Supabase RLS), no signup; offer ends 12/02 | 11/22 | [link](https://vibe-checker.appwrite.network/) |
 
 ## Hosting & Domains
 
