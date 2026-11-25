@@ -86,7 +86,7 @@ Pull requests are welcome if you spot a deal I missed.
 |---------|---------|-------|------|
 | ProtonVPN | 70% off VPN Plus 1-year plan ($2.99/mo) | 11/20 | [link](https://protonvpn.com/black-friday) |
 | Protonmail.com | 50% off Proton Unlimited | 11/20 | [link](https://proton.me/mail/black-friday) |
-| Optery | 20% off w/ code FALL2026 | 11/20 | [link](https://www.optery.com/) |
+| Optery | Thanksgiving sale: 20% off w/ code THANKS2026, no end date posted | 11/24 | [link](https://www.optery.com/) |
 | 1Password | Holiday sale: 25% off Individual ($2.99/mo) and Families ($4.49/mo) for the first year, new customers, billed yearly | 11/20 | [link](https://1password.com/promo/individual-family/holiday-sale) |
 | ESet.com | Black Friday: 50% off ESET HOME Security plans, ends 12/3 | 11/20 | [link](https://www.eset.com/us/home/protection-plans/) |
 | Tuta Mail | Black Friday: 2 years for the price of 1 on Revolutionary or Legend (new yearly subscriptions, desktop/web only) | 11/20 | [link](https://tuta.com/pricing) |
