@@ -59,7 +59,7 @@ Pull requests are welcome if you spot a deal I missed.
 | 8kSec Academy | 15% off all on-demand mobile & AI security courses with code `8KSECBLACKFRIDAY` | 11/20 | [link](https://academy.8ksec.io/) |
 | INE (formerly PentesterAcademy) | Black Friday, 11/20 to 12/1, applied at checkout: Premium $499/yr (was $799, new subscribers), Skill Dive $199 (was $299), cert vouchers $149-299 (were $250-450), cert + training bundles $179-349 | 11/22 | [link](https://learn.ine.com/2026-black-friday-promotions) |
 | Altered Security | Announced for 11/23 to 12/6: 20% off all courses & bootcamps, +5% off when buying 2 or more, no code needed | 11/22 | [link](https://www.alteredsecurity.com/) |
-| The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | TBD | 11/22 | TBD |
+| The Cyber Plumber's Lab Guide and Interactive Access | Learn offensive-based / red team SSH tunneling, 50% off + free handbook w/ code 2w6k4ok (ends 12/2) | 11/24     | [link](https://opsdisk.gumroad.com/l/cphlab/2w6k4ok)   |
 | Tryhackme | TBD | 11/22 | TBD |
 | Pentesterlab.com | TBD | 11/22 | TBD |
 | LetsDefend (by hackthebox) | TBD | 11/22 | TBD |
