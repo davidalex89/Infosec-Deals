@@ -29,7 +29,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Hexordia | Announced for 11/23 to 12/7: 35% off Hexordia classes (on-demand and virtual live) and class vouchers w/ code 26BF35 (ends 11:59 PM ET) | 11/16 | [link](https://learn.hexordia.com/s/store) |
 | SANS / GIAC | Announced for 11/24 to 12/1: 30% off select GIAC products (Applied Knowledge Certifications, extensions, practice exams, demo questions) w/ code 30Cyber26, bought through your GIAC account | 11/22 | [link](https://www.giac.org/) |
 | pwn.guide | Black Friday: 20% off every plan forever, renewals and lifetime included, w/ code BLKFRI20, card checkout, ends 12/5 | 11/21 | [link](https://pwn.guide/pricing) |
-| 8kSec Academy | 15% off all on-demand mobile & AI security courses with code `8KSECBLACKFRIDAY` | 11/20 | [link](https://academy.8ksec.io/) |
+| 8kSec Academy | 15% off all on-demand mobile & AI security courses with code `BLACKFRIDAY15` | 11/20 | [link](https://academy.8ksec.io/) |
 | Pluralsight.com | TBD | 11/22 | TBD |
 | Udemy.com | TBD | 11/22 | TBD |
 | Agilestationery.com | TBD | 11/22 | TBD |
@@ -56,7 +56,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Whizlabs.com | Early-bird Black Friday: Premium $169/yr (was $189), Elite $229/yr (was $259), ends 11/28. The banner's "up to 50%" compares yearly to monthly billing | 11/20 | [link](https://www.whizlabs.com/black-friday/) |
 | CyberWarFare Labs | Black Friday sale live: certifications from $9, up to 90% off bundles | 11/20 | [link](https://cyberwarfare.live/) |
 | GenAI Security Lab | 40% off 200+ hands-on AI security labs: yearly plan ($228 → $136.80) and 4-Month Pass ($99 → $59.40), sale live, ends 11/30 | 11/19 | [link](https://genaisecuritylab.com/pricing) |
-| 8kSec Academy | 15% off all on-demand mobile & AI security courses with code `8KSECBLACKFRIDAY` | 11/20 | [link](https://academy.8ksec.io/) |
+| 8kSec Academy | 15% off all on-demand mobile & AI security courses with code `BLACKFRIDAY15` | 11/20 | [link](https://academy.8ksec.io/) |
 | INE (formerly PentesterAcademy) | Black Friday, 11/20 to 12/1, applied at checkout: Premium $499/yr (was $799, new subscribers), Skill Dive $199 (was $299), cert vouchers $149-299 (were $250-450), cert + training bundles $179-349 | 11/22 | [link](https://learn.ine.com/2026-black-friday-promotions) |
 | Altered Security | Announced for 11/23 to 12/6: 20% off all courses & bootcamps, +5% off when buying 2 or more, no code needed | 11/22 | [link](https://www.alteredsecurity.com/) |
 | The Cyber Plumber's Lab Guide and Interactive Access (NOTE: offer begins 11/27) | TBD | 11/22 | TBD |
