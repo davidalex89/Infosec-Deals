@@ -32,6 +32,10 @@ Pull requests are welcome if you spot a deal I missed.
 | 8kSec Academy | 15% off all on-demand mobile & AI security courses with code `BLACKFRIDAY15` | 11/20 | [link](https://academy.8ksec.io/) |
 | Pluralsight.com | Black Friday: 60% off new individual plans (first month or first year, excludes Tech Essentials), applied at checkout, ends 12/6 | 11/24 | [link](https://www.pluralsight.com/individuals/pricing) |
 | Udemy.com | Black Friday: courses from $11.99, ends 11/27 | 11/24 | [link](https://www.udemy.com/) |
+| Just Hacking Training | Black Friday: 25% off everything w/ code BFF25 | 11/24 | [link](https://www.justhacking.com/) |
+| Antisyphon Training | Black Friday: $1,500 for a year of on-demand training, 60% off WWHF Denver virtual tickets | 11/24 | [link](https://www.antisyphontraining.com/) |
+| Zero To Mastery | Black Friday: 66% off annual membership w/ code BFCM26 | 11/24 | [link](https://zerotomastery.io/) |
+| Frontend Masters (master.dev) | Black Friday: 40% off the first month w/ code BLACK2026, site countdown ends 11/30 | 11/24 | [link](https://master.dev/) |
 | Agilestationery.com | TBD | 11/24 | TBD |
 
 ## AI Security Training
@@ -74,6 +78,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Nostarch.com | Black Friday: 40% off sitewide w/ code BOOKHAUL, 11/24 to 11/29, then 50% off ebooks on Cyber Monday 11/30 | 11/24 | [link](https://nostarch.com/) |
 | Humblebundle.com | Pay-what-you-want security book bundles: AI Cybersecurity Career Blueprint (Packt, 25 books) and Certifications and Security for Cloud and DevOps (Wiley, 20 books), through 11/30 | 11/22 | [link](https://www.humblebundle.com/books) |
 | Manning.com | 40% off sitewide "all this week" (no end date posted) | 11/22 | [link](https://www.manning.com/) |
+| Packt | Save 30% on the Packt Library subscription w/ code SAVE30SUB, no end date posted | 11/24 | [link](https://www.packtpub.com/) |
 | Pragprog.com | TBD | 11/24 | TBD |
 | Microsoft Press Store | TBD | 11/24 | TBD |
 | Pearsonitcertification.com | TBD | 11/24 | TBD |
@@ -140,6 +145,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Silentpocket.com | 20% off sitewide plus free gift tiers ($150+ RFID blocking wallet, $250+ Faraday sling), applied automatically | 11/20 | [link](https://slnt.com/) |
 | Seeedstudio AI/robotics hardware | $20 off every $200 on 500+ selected items (no code), clearance 20-60% off, through 11/30 | 11/20 | [link](https://www.seeedstudio.com/page/black-friday-sale-2026) |
 | Pololu.com tech | Black Friday/Cyber Monday sale: discounts on over a thousand products via coupon links on the sale page, through 12/1 | 11/24 | [link](https://www.pololu.com/blackfriday2026) |
+| Trezor | Black Friday: up to 40% off hardware wallets, bundles and backups | 11/24 | [link](https://trezor.io/) |
 | Phillips Robotics | TBD | 11/24 | TBD |
 
 ## Miscellaneous
