@@ -37,6 +37,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Zero To Mastery | Black Friday: 66% off annual membership w/ code BFCM26 | 11/24 | [link](https://zerotomastery.io/) |
 | Frontend Masters (master.dev) | Black Friday: 40% off the first month w/ code BLACK2026, site countdown ends 11/30 | 11/24 | [link](https://master.dev/) |
 | Agilestationery.com | TBD | 11/24 | TBD |
+| SecurityPaths Academy: Recon Zero to Hero (CRP) | Black Friday: 25% off the recon course with 13 hands-on labs and the CRP practical exam, applied at checkout (BLACKFRIDAY26): €299.25 instead of €399, course in English and Spanish, through 11/30 | 11/25 | [link](https://academy.securitypaths.com/course/certified-recon-professional-crp) |
 
 ## AI Security Training
 
