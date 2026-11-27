@@ -94,6 +94,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Website | Details | As-of | Link |
 |---------|---------|-------|------|
 | ProtonVPN | 70% off VPN Plus 1-year plan ($2.99/mo) | 11/20 | [link](https://protonvpn.com/black-friday) |
+| PureVPN | Exclusive: 1-year plan for $19.95 (92% off, about $1.66/mo), incl. Tracker Blocker, Password Manager, Remove My Data, Dark Web Monitoring; 31-day money-back; valid until 12/1; submitted by the PureVPN team | 11/28 | [link](https://identity.purevpn.com/bfcm?utm_source=github&utm_medium=referral&utm_campaign=bfcm2026_creatoros&utm_content=creatoros) |
 | Protonmail.com | 50% off Proton Unlimited | 11/20 | [link](https://proton.me/mail/black-friday) |
 | Optery | Thanksgiving sale: 20% off w/ code THANKS2026, no end date posted | 11/24 | [link](https://www.optery.com/) |
 | 1Password | Holiday sale: 25% off Individual ($2.99/mo) and Families ($4.49/mo) for the first year, new customers, billed yearly | 11/20 | [link](https://1password.com/promo/individual-family/holiday-sale) |
