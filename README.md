@@ -50,7 +50,7 @@ Pull requests are welcome if you spot a deal I missed.
 | GenAI Security Lab | 40% off yearly plan ($228 → $136.80) and 4-Month Pass ($99 → $59.40), sale live, ends 11/30 | 11/19 | [link](https://genaisecuritylab.com/pricing) |
 | Modernsecurity.io | Black Friday sale: 20% off w/ code msec-bf20, no end date posted | 11/22 | [link](https://www.modernsecurity.io/) |
 | Appsecengineer | Black Friday banner: 40% off w/ code LEVELUP40 (the same code was running before Black Friday) | 11/24 | [link](https://www.appsecengineer.com/individuals/pricing) |
-| The Cyber Instructor: AI for Cybersecurity (live bootcamp) | Black Friday: 30% off w/ code BF30 ($1,469 instead of $2,099), 6-week live cohort Jan 15 to Feb 26, 2027, no ML background required, through 12/4 | 11/27 | [link](https://learn.thecyberinstructor.com/program/ai-for-cybersecurity-jan-2027-8031) |
+| The Cyber Instructor: AI for Cybersecurity (live bootcamp) | Black Friday: 30% off w/ code BF30 ($1,469 instead of $2,099), 6-week live cohort Jan 15 to Feb 26, 2027, no ML background required, through 12/4 | 11/27 | [link](https://link.thecyberinstructor.com/aiforcyber) |
 
 ## Hands-on Labs & Pentest Training
 
