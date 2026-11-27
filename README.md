@@ -114,6 +114,7 @@ Pull requests are welcome if you spot a deal I missed.
 | VibeShield (Web App Security Scanner) | 78% off one-time Fix Unlock ($2 instead of $9, or $5 instead of $29 for 3-app suite); free 116-check passive scan (JS bundle secrets, 10 Observatory headers, CSP, 28 paths, Supabase RLS), no signup; offer ends 12/02 | 11/22 | [link](https://shipbastion.com/) |
 | Pulsedive (Threat intel) | Black Friday: 35% off annual Pulsedive Pro w/ code BFCM26, new customers, through 12/1 | 11/24 | [link](https://pulsedive.com/) |
 | TablePlus (database client) | Black Friday: 25% off w/ code BLACK_FRIDAY_2026 | 11/27 | [link](https://tableplus.com/) |
+| Context.dev (web search and scraping APIs) | Black Friday: 30% off any new purchase of a paid plan for one year, automatically applied; no code. Nov 27-Dec 1, 2026, ending Dec 2 at 00:00 EST (05:00 UTC) | 11/27 | [link](https://www.context.dev/pricing) |
 
 ## Hosting & Domains
 
