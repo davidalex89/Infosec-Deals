@@ -1,6 +1,6 @@
 ## 2026 Infosec Deals - Started doing this a few years ago for Black Friday discounts for Security professionals and developers. No affiliate codes or anything, just good deals I've found.
 
-Updated for 2026, as of Tuesday 11/24. Live sales are listed first in each section, then announced ones. TBD means no 2026 deal confirmed yet. Last year's list is in [2025-Deals.md](2025-Deals.md). Will continue to update periodically as deals open up.
+Updated for 2026, as of Friday 11/27. Live sales are listed first in each section, then announced ones. TBD means no 2026 deal confirmed yet. Last year's list is in [2025-Deals.md](2025-Deals.md). Will continue to update periodically as deals open up.
 
 Pull requests are welcome if you spot a deal I missed.
 
@@ -36,8 +36,10 @@ Pull requests are welcome if you spot a deal I missed.
 | Antisyphon Training | Black Friday: $1,500 for a year of on-demand training, 60% off WWHF Denver virtual tickets | 11/24 | [link](https://www.antisyphontraining.com/) |
 | Zero To Mastery | Black Friday: 66% off annual membership w/ code BFCM26 | 11/24 | [link](https://zerotomastery.io/) |
 | Frontend Masters (master.dev) | Black Friday: 40% off the first month w/ code BLACK2026, site countdown ends 11/30 | 11/24 | [link](https://master.dev/) |
-| Agilestationery.com | TBD | 11/24 | TBD |
 | SecurityPaths Academy: Recon Zero to Hero (CRP) | Black Friday: 25% off the recon course with 13 hands-on labs and the CRP practical exam, applied at checkout (BLACKFRIDAY26): €299.25 instead of €399, course in English and Spanish, through 11/30 | 11/25 | [link](https://academy.securitypaths.com/course/certified-recon-professional-crp) |
+| Centri (formerly Security Blue Team) | Black Friday: up to 40% off certifications (BTL2 and CSOM 40%, CDEA 20%, BTL1 and CPTA 10%), 11/27 to 12/4 | 11/27 | [link](https://www.centri.org/black-friday) |
+| Brilliant.org | Black Friday: 30% off annual Premium plans | 11/27 | [link](https://brilliant.org/subscribe/) |
+| Agilestationery.com | TBD | 11/27 | TBD |
 
 ## AI Security Training
 
@@ -67,8 +69,7 @@ Pull requests are welcome if you spot a deal I missed.
 | The Cyber Plumber's Lab Guide and Interactive Access | Learn offensive-based / red team SSH tunneling, 50% off + free handbook w/ code 2w6k4ok (ends 12/2) | 11/24     | [link](https://opsdisk.gumroad.com/l/cphlab/2w6k4ok)   |
 | Tryhackme | Black Friday: 40% off annual Premium and MAX, code BF2026 applied automatically, ends 11/27 | 11/24 | [link](https://tryhackme.com/pricing) |
 | Pentesterlab.com | Black Friday: PRO $146.52/yr (was $199.99), Student 3-month $25.99 (was $34.99), Code Review training $699 (was $899), ends 12/2 | 11/24 | [link](https://pentesterlab.com/pro) |
-| LetsDefend (by hackthebox) | TBD | 11/24 | TBD |
-| Zero-Point Security | TBD | 11/24 | TBD |
+| Zero-Point Security | TBD | 11/27 | TBD |
 
 ## Books
 
@@ -80,11 +81,11 @@ Pull requests are welcome if you spot a deal I missed.
 | Humblebundle.com | Pay-what-you-want security book bundles: AI Cybersecurity Career Blueprint (Packt, 25 books) and Certifications and Security for Cloud and DevOps (Wiley, 20 books), through 11/30 | 11/22 | [link](https://www.humblebundle.com/books) |
 | Manning.com | 40% off sitewide "all this week" (no end date posted) | 11/22 | [link](https://www.manning.com/) |
 | Packt | Save 30% on the Packt Library subscription w/ code SAVE30SUB, no end date posted | 11/24 | [link](https://www.packtpub.com/) |
-| Pragprog.com | TBD | 11/24 | TBD |
-| Microsoft Press Store | TBD | 11/24 | TBD |
-| Pearsonitcertification.com | TBD | 11/24 | TBD |
-| O'Reilly | TBD | 11/24 | TBD |
-| Cisco Press | TBD | 11/24 | TBD |
+| Pragprog.com | TBD | 11/27 | TBD |
+| Microsoft Press Store | TBD | 11/27 | TBD |
+| Pearsonitcertification.com | TBD | 11/27 | TBD |
+| O'Reilly | TBD | 11/27 | TBD |
+| Cisco Press | TBD | 11/27 | TBD |
 
 ## Privacy & Security Services
 
@@ -112,6 +113,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Proxyman | Black Friday: 30% off w/ code BF2026, this week only | 11/20 | [link](https://proxyman.com/pricing) |
 | VibeShield (Web App Security Scanner) | 78% off one-time Fix Unlock ($2 instead of $9, or $5 instead of $29 for 3-app suite); free 116-check passive scan (JS bundle secrets, 10 Observatory headers, CSP, 28 paths, Supabase RLS), no signup; offer ends 12/02 | 11/22 | [link](https://shipbastion.com/) |
 | Pulsedive (Threat intel) | Black Friday: 35% off annual Pulsedive Pro w/ code BFCM26, new customers, through 12/1 | 11/24 | [link](https://pulsedive.com/) |
+| TablePlus (database client) | Black Friday: 25% off w/ code BLACK_FRIDAY_2026 | 11/27 | [link](https://tableplus.com/) |
 
 ## Hosting & Domains
 
@@ -129,6 +131,8 @@ Pull requests are welcome if you spot a deal I missed.
 | KSEC Labs (UK) and KSEC EU | Daily flash deals running now through 11/30. Main sale 11/23 to 11/30: spend and save up to £300 off (EU up to €250 off), free gifts from £50 (EU €90), 3 for 2 on RFID cards and tags, and deal prices on RFID and lock picking kits. Members get early access from 11/23, everyone from 11/27 | 11/20 | [UK](https://labs.ksec.co.uk/black-friday-sale/) / [EU](https://eu.ksec.co.uk/black-friday-sale/) |
 | Yubico | Black Friday Sale: 15% off YubiKey 5 Series, YubiKey Bio Series and Security Key Series, up to 4 keys, one order per customer, applied in cart, through 11/30 | 11/20 | [link](https://www.yubico.com/store/2026/black-friday-sale/) |
 | Covert Instruments | Black Friday Sale live 11/20 through 12/6 | 11/20 | [link](https://covertinstruments.com/) |
+| Lab401 | Black Friday: 10% off storewide | 11/27 | [link](https://lab401.com/) |
+| Nitrokey | Black Friday: 10% off everything plus a free pin, 11/27 to 11/28 only | 11/27 | [link](https://www.nitrokey.com/news/2026/protect-more-pay-less-10-everything-black-friday) |
 
 ## Gear, Gadgets & Maker
 
@@ -147,7 +151,12 @@ Pull requests are welcome if you spot a deal I missed.
 | Seeedstudio AI/robotics hardware | $20 off every $200 on 500+ selected items (no code), clearance 20-60% off, through 11/30 | 11/20 | [link](https://www.seeedstudio.com/page/black-friday-sale-2026) |
 | Pololu.com tech | Black Friday/Cyber Monday sale: discounts on over a thousand products via coupon links on the sale page, through 12/1 | 11/24 | [link](https://www.pololu.com/blackfriday2026) |
 | Trezor | Black Friday: up to 40% off hardware wallets, bundles and backups | 11/24 | [link](https://trezor.io/) |
-| Phillips Robotics | TBD | 11/24 | TBD |
+| GL.iNet | Black Friday: up to 15% off selected routers and KVMs, through 11/30 | 11/27 | [link](https://www.gl-inet.com/en-us/pages/blackfriday2026) |
+| Keychron | BFCM: keyboards up to 40% off, mice, keycaps and switches up to 20% off, plus $30 off $300+, through 11/30 | 11/27 | [link](https://www.keychron.com/collections/keychron-black-friday-2026-us) |
+| Pimoroni | Black Friday / Cyber Monday: roughly 10-20% off selected Raspberry Pi gear, e-paper displays and badges | 11/27 | [link](https://shop.pimoroni.com/en-us/collections/special-offers) |
+| M5Stack | Black Friday: 5-20% off selected ESP32 dev kits, sensors and units, through 12/1 | 11/27 | [link](https://shop.m5stack.com/pages/2026-black-friday-sale) |
+| Prusa | Black Friday: up to 40% off Prusament filament, free shipping over $200, gifts with CORE printers, through 11/30 | 11/27 | [link](https://www.prusa3d.com/page/black-friday-2026/) |
+| Phillips Robotics | TBD | 11/27 | TBD |
 
 ## Miscellaneous
 
@@ -162,4 +171,4 @@ Pull requests are welcome if you spot a deal I missed.
 | Barnes & Noble | Black Friday deals live: 50% off the biggest hardcovers and select paperbacks, buy one get one 50% off Collectible Editions | 11/20 | [link](https://www.barnesandnoble.com/pages/black-friday-cyber-monday-deals) |
 | Lego | Black Friday starts 11/27, Insiders Weekend 11/21-22, Cyber Monday 11/30 | 11/20 | [link](https://www.lego.com/en-us/black-friday-deals) |
 | Chess.com | Black Friday: 50% off yearly plans ($24.99 to $99.99/yr, were $49.99 to $199.99), limited time | 11/24 | [link](https://www.chess.com/membership) |
-| Memorysteel.com | TBD | 11/24 | TBD |
+| Memorysteel.com | 20% off, applied automatically at checkout (and support Ukraine!) | 11/27 | [link](https://memorysteelua.shop/) |
