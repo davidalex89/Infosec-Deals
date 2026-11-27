@@ -71,7 +71,7 @@ Pull requests are welcome if you spot a deal I missed.
 | The Cyber Plumber's Lab Guide and Interactive Access | Learn offensive-based / red team SSH tunneling, 50% off + free handbook w/ code 2w6k4ok (ends 12/2) | 11/24     | [link](https://opsdisk.gumroad.com/l/cphlab/2w6k4ok)   |
 | Tryhackme | Black Friday: 40% off annual Premium and MAX, code BF2026 applied automatically, ends 11/27 | 11/24 | [link](https://tryhackme.com/pricing) |
 | Pentesterlab.com | Black Friday: PRO $146.52/yr (was $199.99), Student 3-month $25.99 (was $34.99), Code Review training $699 (was $899), ends 12/2 | 11/24 | [link](https://pentesterlab.com/pro) |
-| Zero-Point Security | TBD | 11/27 | TBD |
+| Zero-Point Security | Black Friday: 40% off at checkout on Red Team Ops (£239.40, was £399) and RTO II (£269.40, was £449), 30% off BOF and UDRL courses, bundles discounted, no end date posted | 11/27 | [link](https://www.zeropointsecurity.co.uk/courses) |
 
 ## Books
 
