@@ -39,7 +39,7 @@ Pull requests are welcome if you spot a deal I missed.
 | SecurityPaths Academy: Recon Zero to Hero (CRP) | Black Friday: 25% off the recon course with 13 hands-on labs and the CRP practical exam, applied at checkout (BLACKFRIDAY26): €299.25 instead of €399, course in English and Spanish, through 11/30 | 11/25 | [link](https://academy.securitypaths.com/course/certified-recon-professional-crp) |
 | Centri (formerly Security Blue Team) | Black Friday: up to 40% off certifications (BTL2 and CSOM 40%, CDEA 20%, BTL1 and CPTA 10%), 11/27 to 12/4 | 11/27 | [link](https://www.centri.org/black-friday) |
 | Brilliant.org | Black Friday: 30% off annual Premium plans | 11/27 | [link](https://brilliant.org/subscribe/) |
-| The Cyber Instructor | Black Friday: 30% off everything w/ code BLACKFRIDAY30, including the TCI Pro subscription ($55/mo instead of $79) and 1:1 career sessions, through 11/30 | 11/27 | [link](https://learn.thecyberinstructor.com/) |
+| The Cyber Instructor | Black Friday: 30% off everything w/ code BF30, including the TCI Pro subscription ($55/mo instead of $79) and 1:1 career sessions, through 11/30 | 11/27 | [link](https://learn.thecyberinstructor.com/) |
 | Agilestationery.com | TBD | 11/27 | TBD |
 
 ## AI Security Training
@@ -50,7 +50,7 @@ Pull requests are welcome if you spot a deal I missed.
 | GenAI Security Lab | 40% off yearly plan ($228 → $136.80) and 4-Month Pass ($99 → $59.40), sale live, ends 11/30 | 11/19 | [link](https://genaisecuritylab.com/pricing) |
 | Modernsecurity.io | Black Friday sale: 20% off w/ code msec-bf20, no end date posted | 11/22 | [link](https://www.modernsecurity.io/) |
 | Appsecengineer | Black Friday banner: 40% off w/ code LEVELUP40 (the same code was running before Black Friday) | 11/24 | [link](https://www.appsecengineer.com/individuals/pricing) |
-| The Cyber Instructor: AI for Cybersecurity (live bootcamp) | Black Friday: 30% off w/ code BLACKFRIDAY30 ($1,469 instead of $2,099), 6-week live cohort Jan 15 to Feb 26, 2027, no ML background required, through 12/4 | 11/27 | [link](https://learn.thecyberinstructor.com/program/ai-for-cybersecurity-jan-2027-8031) |
+| The Cyber Instructor: AI for Cybersecurity (live bootcamp) | Black Friday: 30% off w/ code BF30 ($1,469 instead of $2,099), 6-week live cohort Jan 15 to Feb 26, 2027, no ML background required, through 12/4 | 11/27 | [link](https://learn.thecyberinstructor.com/program/ai-for-cybersecurity-jan-2027-8031) |
 
 ## Hands-on Labs & Pentest Training
 
