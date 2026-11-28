@@ -20,7 +20,6 @@ Pull requests are welcome if you spot a deal I missed.
 | CloudBreach | 30% Off all Cloud Security Trainings & Certifications | 11/18 | [link](https://cloudbreach.io/blackfriday) |
 | CyberWarFare Labs | Up to 90% off cybersecurity course bundles, individual certifications starting at $5, Infinity Yearly Access for $49 with 2 free certifications, and Infinity Monthly Access for $5. Coupons: `INFINITY49` (Yearly), `INFINITY5` (Monthly) | 11/19 | [link](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026) |
 | TCM Security | 50% off the first payment on any Academy membership (applied at checkout), 20% off certifications, learning paths and live training, ends 11/30 | 11/20 | [link](https://tcm-sec.com/academy/) |
-| EC-Council E-Learning | 25% off w/ code CYBERSALE26, expires 11/30 (site banner, does not say which courses) | 11/20 | [link](https://iclass.eccouncil.org/cyber-week/) |
 | MasterClass | 50% off annual memberships before Black Friday ($5, $8 or $10/mo billed annually), offer ends soon | 11/20 | [link](https://www.masterclass.com/) |
 | CodeAcademy | Cyber Week sale: 60% off a year of Pro or Pro Student w/ code BF2026, through 11/28 | 11/22 | [link](https://www.codecademy.com/) |
 | 13Cubed | Black Friday: $100 off w/ code BLACKFRIDAY2026, through 11/30 | 11/22 | [link](https://training.13cubed.com/) |
@@ -158,7 +157,7 @@ Pull requests are welcome if you spot a deal I missed.
 | Keychron | BFCM: keyboards up to 40% off, mice, keycaps and switches up to 20% off, plus $30 off $300+, through 11/30 | 11/27 | [link](https://www.keychron.com/collections/keychron-black-friday-2026-us) |
 | Pimoroni | Black Friday / Cyber Monday: roughly 10-20% off selected Raspberry Pi gear, e-paper displays and badges | 11/27 | [link](https://shop.pimoroni.com/en-us/collections/special-offers) |
 | M5Stack | Black Friday: 5-20% off selected ESP32 dev kits, sensors and units, through 12/1 | 11/27 | [link](https://shop.m5stack.com/pages/2026-black-friday-sale) |
-| Prusa | Black Friday: up to 40% off Prusament filament, free shipping over $200, gifts with CORE printers, through 11/30 | 11/27 | [link](https://www.prusa3d.com/page/black-friday-2026/) |
+| Prusa | Black Friday: up to 40% off Prusament filament, free shipping over $200, gifts with CORE printers, through 11/30 | 11/27 | [link](https://www.prusa3d.com/p/black-friday-2026/) |
 | Phillips Robotics | TBD | 11/27 | TBD |
 
 ## Miscellaneous
